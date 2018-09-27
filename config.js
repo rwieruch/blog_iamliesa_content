@@ -252,6 +252,6 @@ module.exports = {
     facebook: 'iAmLiesa',
   },
   disqus: {
-    shortname: 'iamliesamaria',
+    shortname: 'IAmLiesa',
   },
 };
