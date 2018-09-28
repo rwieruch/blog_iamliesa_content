@@ -23,7 +23,7 @@ module.exports = {
   hero: {
     header: 'I am Liesa',
     subheader:
-      'Social Media Enthusiant and strong believer in "Live and Learn"',
+      'Social Media Enthusiast and strong believer in "Live and Learn"',
   },
   about: {
     header: 'About me',
@@ -244,7 +244,7 @@ module.exports = {
     ],
   },
   share: ['facebook', 'twitter', 'linkedin'],
-  follow: ['instagram', 'facebook', 'twitter'],
+  follow: ['instagram', 'facebook'],
   socialHandles: {
     instagram: 'i_am_liesa',
     twitter: 'i_am_liesa',

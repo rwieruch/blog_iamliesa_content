@@ -25,7 +25,7 @@ While the contents of our pages have been created with utmost care and due dilig
 
 Our offer contains links to external websites operated by third parties, on whose contents we have no influence. Therefore, we cannot assume liability for these contents. Instead, it is the relevant supplier or operator of the linked web pages who is responsible for the content of these pages. The linked pages were inspected for possible legal infringements at the time the link was established. At the time of linking, no unlawful contents were detectable. Permanent monitoring of the content of the linked pages is infeasible without any specific indication of an infringement of rights. In the event that corresponding violations become known, we shall remove the corresponding links immediately.
 
-### C opyright
+### Copyright
 
 The contents and works on these websites, as prepared and displayed by its operator, are subject to German copyright law. Their duplication, processing, distribution, or any form of commercialization beyond the scope of the copyright law requires the written consent of the respective author or creator. Copies and downloads are allowed solely for private and non-commercial purposes. Insofar as this page's contents were not created by its operator, third-party copyrights will be respected and observed. Should you still have reason to believe that a copyright violation has occurred despite the precautionary measures taken, we kindly ask you to notify us. In the event that the corresponding violations become known, we shall remove this content immediately.
 
