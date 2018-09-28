@@ -253,5 +253,7 @@ module.exports = {
   },
   disqus: {
     shortname: 'https-www-iamliesa-com',
+    prefix: '',
+    suffix: '',
   },
 };
