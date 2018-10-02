@@ -5,6 +5,9 @@ title: "Legal Notice, Terms and Privacy Policy"
 description: "Legal Notice, Terms and Privacy Policy"
 ---
 
+import Link from '$components/Link';
+import { Title, Subtitle, Divider } from '$components/mdx';
+
 # Legal Notice, Terms and Privacy Policy (English)
 
 ## Information in accordance with § 5 German Broadcast Media Act (TMG) and responsible for content according to § 55 paragraph 2 RStV:
