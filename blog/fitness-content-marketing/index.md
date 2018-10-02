@@ -31,7 +31,7 @@ Let’s look at a company, that is using fitness content marketing in a differen
 
 Adidas has their own digital magazine but they are not hunting the next best fitness trend or showing workouts. Rather, they have published a magazine with an HR spin. The topic: How can you use your athletic mindset to perform best in the workplace?
 
-Tackle work life with an athlete’s hear, that’s the slogan of <Link to="https://www.gameplan-a.com/">Adidas’ Game Plan A blog</Link>  . Focus here is on work-life-balance, workplace wisdom, and better business practices. With this kind of content Adidas aims to inspire current and future members of its workforce. The goal of the blog is not to make the next sale, but to build a strong company culture to attract future employees and keep the ones working at Adidas happy and satisfied. 
+Tackle work life with an athlete’s hear, that’s the slogan of <Link to="https://www.gameplan-a.com/">Adidas’ Game Plan A blog</Link>. Focus here is on work-life-balance, workplace wisdom, and better business practices. With this kind of content Adidas aims to inspire current and future members of its workforce. The goal of the blog is not to make the next sale, but to build a strong company culture to attract future employees and keep the ones working at Adidas happy and satisfied. 
 
 <YouTube
   videoId="ad-85B8EwL_nu0" opts={{ width: '100%' }}
