@@ -19,7 +19,7 @@ Blogging is a powerful way to promote your online business but there are still c
 
 Here are five major reasons, why your company should start blogging today.
 
-![content marketing company blog](./images/content_marketing_blog.jpg)
+![content marketing company blog](./images/content_marketing.jpg)
 
 <Title id="reasons-for-company-blog">Top 5 Reasons for having a Company Blog</Title>
 

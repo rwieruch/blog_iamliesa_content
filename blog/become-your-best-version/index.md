@@ -62,7 +62,7 @@ To allow the smooth functioning of all metabolic processes, vital substances are
 
 We all know how important it is to stay active in order to be healthy. That doesn’t mean that you have to go to the gym for hours, though. An active lifestyle can already be of help. In order to stimulate your body, you should be on your feet as often as possible. Take the stairs instead of the elevator, go to work by bike and leave the car or just go for a short walk during lunch break. Those tiny changes of your day can already help.
 
-![workout](./images/workout_out.jpg)
+![workout](./images/working_out.jpg)
 
 **a. How often should I workout?**
 
