@@ -15,6 +15,7 @@ module.exports = {
     'freelancer',
     'consultant',
     'german',
+    'female entrepreneur blog',
   ],
   navigation: [
     { to: '/', label: 'About' },
