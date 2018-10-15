@@ -20,7 +20,7 @@ Before I start with the podcast interviews and written interviews of successful 
 
 <Title id="female-entrepreneur-podcast-indie-hackers">Podcast Interviews with female Entrepreneurs on Indie Hackers</Title>
 
-<Link to="https://www.indiehackers.com/podcast">Indie Hackers</Link> shares stories from entrepreneurs bootstrapping their businesses often without venture capital. Everyone has a different story, but you can find repetitive patterns in them. A handful of the interviews are with female entrepreneurs too. Unfortunately, the tech sector is still dominated by men, but more women start their venture with a technical company as well. You can find all Podcasts of Indie Hackers by Courtland Allen on <Link to="https://itunes.apple.com/podcast/id1206165808">iTunes</Link>.
+<Link to="https://www.indiehackers.com/podcast">Indie Hackers</Link> shares stories from entrepreneurs bootstrapping their businesses often without venture capital. Everyone has a different story, but you can find repetitive patterns in them. A handful of the interviews are with female entrepreneurs too. Unfortunately, the tech sector is still dominated by men, but more women start their venture with a technical company as well. You can find all Podcasts of Indie Hackers by Courtland Allen on <Link to="https://itunes.apple.com/us/podcast/the-indie-hackers-podcast/id1206165808?mt=2&app=podcast&at=1010lPNe">iTunes</Link>.
 
 * Tracy Osborn with Hello Web Design - <Link to="https://www.indiehackers.com/podcast/029-tracy-osborn-of-hello-web-design">How to Win by Refusing to Quit</Link>
 
@@ -72,7 +72,7 @@ Even though the ratio between (technical) male and female interviews is imbalanc
 
 <Title id="female-entrepreneur-interview-tim-ferris-show">The Tim Ferriss Show: Interviews with female Entrepreneurs</Title>
 
-Tim Ferris, who got popular with the <Link to="https://amzn.to/2Cizv3s">The 4-Hour Workweek</Link>, of <Link to="https://itunes.apple.com/podcast/id863897795">The Tim Ferris Show</Link> shares self-help tips, life advices, and success stories on his podcast. You can find interviews with female entrepreneurs on his podcast too. In contrast to Indie Hackers, most women interviewed on this podcast don't have a technical background.
+Tim Ferris, who got popular with the <Link to="https://amzn.to/2Cizv3s">The 4-Hour Workweek</Link>, of <Link to="https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2&app=podcast&at=1010lPNe">The Tim Ferris Show</Link> shares self-help tips, life advices, and success stories on his podcast. You can find interviews with female entrepreneurs on his podcast too. In contrast to Indie Hackers, most women interviewed on this podcast don't have a technical background.
 
 * Ann Miura-Ko - <Link to="https://tim.blog/2018/08/02/ann-miura-ko/">The Path from Shyness to World-Class Debater and Investor</Link>
 
@@ -140,7 +140,7 @@ Tim Ferris, who got popular with the <Link to="https://amzn.to/2Cizv3s">The 4-Ho
 
 <Title id="female-entrepreneur-interview-plant-proof-podcast">Plant Proof Podcast and their Interviews with Women</Title>
 
-The Plant Proof Podcast by Simon Hill is about Plant Based Nutrition & Inspirational Stories. Even though the podcast and the interviews are not centred around entrepreneurship, it features stories from inspiring women (and men) who are entering this field of expertise in their spare time or as entrepreneurs. Every Plant Proof Podcast Episode can be found on <Link to="https://itunes.apple.com/podcast/id1367773989">iTunes</Link>.
+The Plant Proof Podcast by Simon Hill is about Plant Based Nutrition & Inspirational Stories. Even though the podcast and the interviews are not centred around entrepreneurship, it features stories from inspiring women (and men) who are entering this field of expertise in their spare time or as entrepreneurs. Every Plant Proof Podcast Episode can be found on <Link to="https://itunes.apple.com/us/podcast/plant-proof-plant-based-nutrition-inspirational-stories/id1367773989?mt=2&app=podcast&at=1010lPNe">iTunes</Link>.
 
 * Loni Jane - <Link to="https://plantproof.com/from-sick-tired-to-thriving-with-vegan-mother-loni-jane/">From sick & tired to thriving with vegan mother Loni Jane</Link>
 
@@ -176,9 +176,9 @@ If you haven't enough yet, here are a few more text and audio format interviews 
 
 * <Link to="https://femaleentrepreneurassociation.com/how-she-did-it/">How she did it</Link> by Female Entrepreneur Association
 
-* <Link to="https://itunes.apple.com/podcast/id1178704872">The Goal Digger Podcast</Link> by Jenna Kutcher
+* <Link to="https://itunes.apple.com/us/podcast/the-goal-digger-podcast/id1178704872?mt=2&app=podcast&at=1010lPNe">The Goal Digger Podcast</Link> by Jenna Kutcher
 
-* <Link to="https://itunes.apple.com/podcast/id1199977889">The Marie Forleo Podcast</Link> by Marie Forleo
+* <Link to="https://itunes.apple.com/us/podcast/the-marie-forleo-podcast/id1199977889?mt=2&app=podcast&at=1010lPNe">The Marie Forleo Podcast</Link> by Marie Forleo
 
 <Divider />
 
