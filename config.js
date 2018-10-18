@@ -17,6 +17,7 @@ module.exports = {
     'german',
     'female entrepreneur blog',
   ],
+  hashtags: ['#socialmedia', '#consultant'],
   navigation: [
     { to: '/', label: 'About' },
     { to: '/blog', label: 'Blog' },

@@ -6,6 +6,7 @@ description: "Everybody wants to be the best version possible of himself. But wh
 categories: ["digital nomad life"]
 keywords: ["your best version", "become your best self", "become best version of yourself"]
 banner: "./images/freedom.jpg"
+hashtags: ["#selfimprovement"]
 author: ""
 contribute: ""
 ---
