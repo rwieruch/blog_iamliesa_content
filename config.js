@@ -1,6 +1,7 @@
 module.exports = {
   siteUrl: 'https://www.iamliesa.com',
-  languageCode: 'en-us',
+  languageCode: 'en-us', // default: 'en-us'
+  rssSlug: '/index.xml', // default: '/rss.xml'
   author: 'Liesa',
   title: 'Ia.Liesa',
   description:
@@ -18,11 +19,17 @@ module.exports = {
     'female entrepreneur blog',
   ],
   hashtags: ['#socialmedia', '#consultant'],
-  contributeBase: '',
+  contributeBase: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog,
+
+  // Navigation
+
   navigation: [
     { to: '/', label: 'About' },
     { to: '/blog', label: 'Blog' },
   ],
+
+  // Landing Page
+
   hero: {
     header: 'I am Liesa',
     subheader:
@@ -246,6 +253,9 @@ module.exports = {
       },
     ],
   },
+
+  // Social Media
+
   share: ['facebook', 'twitter', 'linkedin'],
   follow: ['instagram', 'facebook'],
   socialHandles: {
