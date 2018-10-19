@@ -19,7 +19,8 @@ module.exports = {
     'female entrepreneur blog',
   ],
   hashtags: ['#socialmedia', '#consultant'],
-  contributeBase: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog,
+  contributeBase:
+    'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
 
   // Navigation
 
