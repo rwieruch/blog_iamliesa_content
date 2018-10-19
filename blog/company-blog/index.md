@@ -11,7 +11,7 @@ author: ""
 contribute: ""
 ---
 
-import Link from '$components/Link';
+import { BlogLink } from '$components/Link';
 import { Title, Subtitle, Divider } from '$components/mdx';
 
 In today’s world, having a website is essential for a business to make money. Every ever so small business is represented online, from small shops to giant companies. Looking at company websites, we can also see another development: Almost every company has a blog. But is that really necessary? Is a blog essential for a company’s success and if so, how and why? These are questions that I want to answer today.
@@ -32,7 +32,7 @@ How do you sell a product that nobody knows about? Exactly: You don’t sell it 
 
 That’s where blogging comes into play, because believe it or not: Users don’t usually go online for the sole purpose of buying what companies are selling. They go online because they need some sort of information. They are interested in certain topics and want to know more about them. Once they got all the information they need, they decide where to buy from. However, companies still throw out money by trying to target customers with online advertising when they could have just given free information to attract new customers.
 
-So instead of spending your money on advertisement, you should put your efforts into optimizing your blog content. Pick highly-effective keywords that are relevant to your business and naturally integrate them throughout your posts. This strategy needs time and there is much more to it than identifying keywords and writing several posts using them. However, this is not the post to go deeper into that topic. If you want to know more about SEO, I highly recommend looking at the post *Blogging for SEO* by <Link to="https://blog.hubspot.com/marketing/blogging-for-seo">HubSpot</Link>.
+So instead of spending your money on advertisement, you should put your efforts into optimizing your blog content. Pick highly-effective keywords that are relevant to your business and naturally integrate them throughout your posts. This strategy needs time and there is much more to it than identifying keywords and writing several posts using them. However, this is not the post to go deeper into that topic. If you want to know more about SEO, I highly recommend looking at the post *Blogging for SEO* by <BlogLink to="https://blog.hubspot.com/marketing/blogging-for-seo">HubSpot</BlogLink>.
 
 **#2 Every post is a possibility for another lead**
 

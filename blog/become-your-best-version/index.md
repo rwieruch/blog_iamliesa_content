@@ -11,12 +11,12 @@ author: ""
 contribute: ""
 ---
 
-import Link from '$components/Link';
+import { BlogLink } from '$components/Link';
 import { Title, Subtitle, Divider } from '$components/mdx';
 
 When you close your eyes and imagine the very best version of yourself, what do you see?
 
-That was the question asked by <Link to="http://ralfbohlmann.com/">Ralf Bohlmann</Link> during a <Link to="http://detoxrebels.com/">detox conference</Link> I attended. Maybe you see yourself with five kilos less, maybe you have tighter thighs or more abs. I’m pretty sure you have a clear picture in your head. The question is, how do you become this version of yourself?
+That was the question asked by <BlogLink to="http://ralfbohlmann.com/">Ralf Bohlmann</BlogLink> during a <BlogLink to="http://detoxrebels.com/">detox conference</BlogLink> I attended. Maybe you see yourself with five kilos less, maybe you have tighter thighs or more abs. I’m pretty sure you have a clear picture in your head. The question is, how do you become this version of yourself?
 
 I know myself that the way is pretty hard. It usually means you have to skip dessert, go to the gym instead of to the cinema or go with the veggies instead of the French fries. So how do you stay motivated to finally become the best version of yourself and is sports and dieting alone really the answer?
 
@@ -111,13 +111,13 @@ In order to get to your goal, try to extend your comfort zone around your habits
 
 If you are interested in the topics mentionned above and would like to read more about them, I highly recommend these reads:
 
-* <Link to="https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011345&sr=1-9&linkCode=ll1&tag=21moves-20&linkId=b444919b494b3fedbc86fe57b9c0cf7e">The Gifts of Imperfections</Link>
+* <BlogLink to="https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011345&sr=1-9&linkCode=ll1&tag=21moves-20&linkId=b444919b494b3fedbc86fe57b9c0cf7e">The Gifts of Imperfections</BlogLink>
 
-* <Link to="https://www.amazon.com/Life-Earth-Understanding-Here-Ahead/dp/1401945570/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011665&sr=1-25&linkCode=ll1&tag=21moves-20&linkId=91d2656a2826a98f6fffd7454f996ed0">Life on Earth</Link>
+* <BlogLink to="https://www.amazon.com/Life-Earth-Understanding-Here-Ahead/dp/1401945570/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011665&sr=1-25&linkCode=ll1&tag=21moves-20&linkId=91d2656a2826a98f6fffd7454f996ed0">Life on Earth</BlogLink>
 
-* <Link to="https://www.amazon.com/gp/product/1561706124/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=GBGV2T61EQ6V3DNNV0SM&pf_rd_t=101&pf_rd_p=3ba4cf8e-6189-5ac2-acc4-4a9678f8e7bf&pf_rd_i=282868&linkCode=ll1&tag=21moves-20&linkId=3822013a040503d3bef91f67ee324e6b">Power Thought Cards</Link>
+* <BlogLink to="https://www.amazon.com/gp/product/1561706124/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=GBGV2T61EQ6V3DNNV0SM&pf_rd_t=101&pf_rd_p=3ba4cf8e-6189-5ac2-acc4-4a9678f8e7bf&pf_rd_i=282868&linkCode=ll1&tag=21moves-20&linkId=3822013a040503d3bef91f67ee324e6b">Power Thought Cards</BlogLink>
 
-* <Link to="https://www.amazon.com/Nutrition-Physical-Degeneration-Weston-Price/dp/0916764206/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011847&sr=1-4&linkCode=ll1&tag=21moves-20&linkId=6a9f72d0989d45a5217a2ac80d5814fa">Nutrition and Physical Degeneration</Link>
+* <BlogLink to="https://www.amazon.com/Nutrition-Physical-Degeneration-Weston-Price/dp/0916764206/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011847&sr=1-4&linkCode=ll1&tag=21moves-20&linkId=6a9f72d0989d45a5217a2ac80d5814fa">Nutrition and Physical Degeneration</BlogLink>
 
 
 

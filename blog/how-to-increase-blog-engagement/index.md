@@ -10,7 +10,7 @@ author: ""
 contribute: ""
 ---
 
-import Link from '$components/Link';
+import { BlogLink } from '$components/Link';
 import { Title, Subtitle, Divider } from '$components/mdx';
 
 Engagement on your blog proves to new readers that your content is worth reading, plus it also gives you the perfect opportunity to get in contact with your audience and show them that you care. In the long run, invested visitors mean $$ in the bank as they are more likely to buy from you than those who don’t know you at all.
@@ -38,7 +38,7 @@ Comments are probably the most obvious way your visitors can interact with your 
 
 **Mailing Lists**
 
-Getting on your mailing list is the coronation of your content marketing efforts. Nothing is as powerful as your mailing list. Social media platforms may change, but email has stood the test of time. If you can get your visitors to subscribe to your blog, that gives you a better way to communicate with them. It’s very effective in reaching your audience — it’s actually <Link to="https://www.dreamgrow.com/11-reasons-why-newsletter-beats-social-media/">at least four times more effective in reaching them than Facebook</Link>, and people are much more likely to buy from you.
+Getting on your mailing list is the coronation of your content marketing efforts. Nothing is as powerful as your mailing list. Social media platforms may change, but email has stood the test of time. If you can get your visitors to subscribe to your blog, that gives you a better way to communicate with them. It’s very effective in reaching your audience — it’s actually <BlogLink to="https://www.dreamgrow.com/11-reasons-why-newsletter-beats-social-media/">at least four times more effective in reaching them than Facebook</BlogLink>, and people are much more likely to buy from you.
 
 <Title id="boost-blog-engagement">How to boost your Blog Engagement</Title>
 

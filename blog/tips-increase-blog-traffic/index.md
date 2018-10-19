@@ -11,12 +11,12 @@ author: ""
 contribute: ""
 ---
 
-import Link from '$components/Link';
+import { BlogLink } from '$components/Link';
 import { Title, Subtitle, Divider } from '$components/mdx';
 
 According to HubSpot, generating traffic and leads is one of the biggest struggle for companies. With 63%, getting people on the website it is actually their number one problem.
 
-One approach to tackle this problem, as shown in last week’s blog post, is by starting a company blog. That’s why <Link to="https://www.hubspot.com/marketing-statistics">53% of marketers say that blog content creation is their top inbound marketing priority</Link>.
+One approach to tackle this problem, as shown in last week’s blog post, is by starting a company blog. That’s why <BlogLink to="https://www.hubspot.com/marketing-statistics">53% of marketers say that blog content creation is their top inbound marketing priority</BlogLink>.
 
 However, merely creating a blog doesn’t guarantee getting new visitors on your website.
 
@@ -86,13 +86,13 @@ When looking for guest blogging opportunities it is important to find sites that
 
 Thus, invest a little time into researching your target site. Investigate the type of content, look at comments and social shares, and research the makeup of the audience.
 
-Also, check your target blog’s <Link to="https://moz.com/learn/seo/domain-authority">domain and page authority</Link>. The higher the authority, the more valuable the site  for your link-building efforts.
+Also, check your target blog’s <BlogLink to="https://moz.com/learn/seo/domain-authority">domain and page authority</BlogLink>. The higher the authority, the more valuable the site  for your link-building efforts.
 
 The downside to guest blogging however, is that especially in the beginning when you’re still small it can be tough to convince people to let you publish content on their site.
 
 <Title id="be-consistent">5. Write more and be consistent</Title>
 
-Studies show that the more often you update your website, the more traffic it will receive. HubSpot found out that B2C companies that <Link to="https://www.hubspot.com/marketing-statistics">blogged more than 11 times per months got more than four times as many leads as those companies that only blogged four to five times per months</Link>.
+Studies show that the more often you update your website, the more traffic it will receive. HubSpot found out that B2C companies that <BlogLink to="https://www.hubspot.com/marketing-statistics">blogged more than 11 times per months got more than four times as many leads as those companies that only blogged four to five times per months</BlogLink>.
 
 ![google analytic boost blog traffic](./images/google_analytics.jpg)
 

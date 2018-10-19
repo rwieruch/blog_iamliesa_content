@@ -12,7 +12,7 @@ contribute: ""
 ---
 
 import YouTube from 'react-youtube';
-import Link from '$components/Link';
+import { BlogLink } from '$components/Link';
 import { Title, Subtitle, Divider } from '$components/mdx';
 
 No industry has tackled content marketing quite as well as the fitness industry. For good reasons: Staying fit and living healthy starts with a mental decision. From incorporating workouts into your busy schedule to believing that you can achieve anything - the right mindset is irreplaceable. That’s where content marketing comes into play: The right storytelling  can motivate and inspire people to perform their best and build communities of like-minded people on social media.
@@ -32,7 +32,7 @@ Let’s look at a company, that is using fitness content marketing in a differen
 
 Adidas has their own digital magazine but they are not hunting the next best fitness trend or showing workouts. Rather, they have published a magazine with an HR spin. The topic: How can you use your athletic mindset to perform best in the workplace?
 
-Tackle work life with an athlete’s hear, that’s the slogan of <Link to="https://www.gameplan-a.com/">Adidas’ Game Plan A blog</Link>. Focus here is on work-life-balance, workplace wisdom, and better business practices. With this kind of content Adidas aims to inspire current and future members of its workforce. The goal of the blog is not to make the next sale, but to build a strong company culture to attract future employees and keep the ones working at Adidas happy and satisfied.
+Tackle work life with an athlete’s hear, that’s the slogan of <BlogLink to="https://www.gameplan-a.com/">Adidas’ Game Plan A blog</BlogLink>. Focus here is on work-life-balance, workplace wisdom, and better business practices. With this kind of content Adidas aims to inspire current and future members of its workforce. The goal of the blog is not to make the next sale, but to build a strong company culture to attract future employees and keep the ones working at Adidas happy and satisfied.
 
 <YouTube
   videoId="ad-85B8EwL_nu0" opts={{ width: '100%' }}
