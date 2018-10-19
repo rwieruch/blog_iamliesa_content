@@ -5,6 +5,7 @@ title: "Food Content Marketing 2018: Case Study"
 description: "Using Content Marketing to attract more customers? The nutrition and supplementary company Your Superfoods demonstrates how it’s done. I will show you how Your Superfoods uses Content Marketing Strategies by showing various food marketing examples deployed by them to get more people to eat healthy and buy their food products ..."
 categories: ["content marketing"]
 keywords: ["food content marketing", "food marketing trends", "food related content"]
+hashtags: ["#contentMarketing"]
 banner: "./images/yoursuper_instagram.jpg"
 author: ""
 contribute: ""
