@@ -2,10 +2,15 @@ module.exports = {
   siteUrl: 'https://www.iamliesa.com',
   languageCode: 'en-us', // default: 'en-us'
   rssSlug: '/index.xml', // default: '/rss.xml'
-  author: 'Liesa',
+
+  // can be specified in frontmatter
   title: 'Ia.Liesa',
+  // can be specified in frontmatter
   description:
     'A german social media enthusiast and content marketer',
+  // can be specified in frontmatter
+  author: 'Liesa',
+  // can be specified in frontmatter
   keywords: [
     'social media',
     'content marketing',
@@ -18,7 +23,10 @@ module.exports = {
     'german',
     'female entrepreneur blog',
   ],
+  // can be specified in frontmatter
   hashtags: ['#socialmedia', '#consultant'],
+  // provide a link which is used with article's slug to edit article by reader
+  // specify: provide contribute property as whole URL in frontmatter
   contributeBase:
     'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
 
