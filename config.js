@@ -18,6 +18,7 @@ module.exports = {
     'female entrepreneur blog',
   ],
   hashtags: ['#socialmedia', '#consultant'],
+  contributeBase: '',
   navigation: [
     { to: '/', label: 'About' },
     { to: '/blog', label: 'Blog' },

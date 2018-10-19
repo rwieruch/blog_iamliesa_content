@@ -3,6 +3,8 @@ slug: "/legal"
 date: "2017-07-14T03:49:16.408Z"
 title: "Legal Notice, Terms and Privacy Policy"
 description: "Legal Notice, Terms and Privacy Policy"
+contribute: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/pages/legal/index.md"
+author: ""
 ---
 
 import Link from '$components/Link';

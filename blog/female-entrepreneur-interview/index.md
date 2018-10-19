@@ -8,7 +8,7 @@ keywords: ["female entrepreneur interview", "inspiring female entrepreneurs", "s
 hashtags: ["#femaleEntrepreneur"]
 banner: "./images/banner.jpg"
 author: ""
-contribute: "https://github.com/rwieruch/blog_iamliesa_content/blob/master/blog/female-entrepreneur-interview/index.md"
+contribute: ""
 ---
 
 import YouTube from 'react-youtube';

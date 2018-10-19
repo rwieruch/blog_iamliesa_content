@@ -5,8 +5,8 @@ title: "Publications"
 description: "Using Content Marketing to attract more customers? The nutrition and supplementary company Your Superfoods demonstrates how it’s done. I will show you how Your Superfoods uses Content Marketing Strategies by showing various food marketing examples deployed by them to get more people to eat healthy and buy their food products ..."
 keywords: ["personal growth"]
 banner: "./images/banner.jpg"
+contribute: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/pages/publications/index.md"
 author: ""
-contribute: ""
 ---
 
 import Link from '$components/Link';
