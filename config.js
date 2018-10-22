@@ -1,13 +1,11 @@
 module.exports = {
   siteUrl: 'https://www.iamliesa.com',
   languageCode: 'en-us', // default: 'en-us'
-  rssSlug: '/index.xml', // default: '/rss.xml'
 
   // can be specified in frontmatter
   title: 'Ia.Liesa',
   // can be specified in frontmatter
-  description:
-    'A german social media enthusiast and content marketer',
+  description: 'A german social media enthusiast and content marketer',
   // can be specified in frontmatter
   author: 'Liesa',
   // can be specified in frontmatter
@@ -32,10 +30,7 @@ module.exports = {
 
   // Navigation
 
-  navigation: [
-    { to: '/', label: 'About' },
-    { to: '/blog', label: 'Blog' },
-  ],
+  navigation: [{ to: '/', label: 'About' }, { to: '/blog', label: 'Blog' }],
 
   // Landing Page
 
@@ -138,7 +133,7 @@ module.exports = {
   },
   vita: {
     header: 'Vita',
-    subheader: 'An excerpt of my past.',
+    subheader: 'My professional story.',
     items: [
       {
         label: 'Adventures in Australia',
@@ -198,7 +193,7 @@ module.exports = {
   },
   testimonials: {
     header: 'WHAT MY CLIENTS ARE SAYING',
-    subheader: 'Some of the clients I have been working with.',
+    subheader: 'My favorite clients I have been working with.',
     items: [
       {
         label: 'Elena Miebach',
