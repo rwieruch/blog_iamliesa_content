@@ -28,6 +28,24 @@ module.exports = {
   contributeBase:
     'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
 
+  // analytics defined in .env file
+  analytics: {
+    enabled: true,
+  },
+
+  // goodie shown below each blog post
+  goodie: {
+    enabled: false,
+    header: 'The Road to learn React',
+    text:
+      'Build a Hacker News App along the way. No setup configuration. No tooling. No Redux. Plain React in 190+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
+    img: 'img/page/cover.png',
+    cta: 'Get the Book for free',
+    ctaSecondary: 'Get it on Amazon',
+    url: 'https://www.getrevue.co/profile/rwieruch',
+    urlSecondary: 'https://amzn.to/2LHjxRB',
+  },
+
   // Navigation
 
   navigation: [{ to: '/', label: 'About' }, { to: '/blog', label: 'Blog' }],
@@ -68,6 +86,7 @@ module.exports = {
       `,
   },
   services: {
+    enabled: true,
     header: 'What I offer',
     subheader: 'A valuable selection of my skills.',
     items: [
@@ -111,6 +130,7 @@ module.exports = {
     ],
   },
   portfolio: {
+    enabled: true,
     header: 'Portfolio',
     subheader: 'An excerpt of my professional work.',
     items: [
@@ -132,6 +152,7 @@ module.exports = {
     ],
   },
   vita: {
+    enabled: true,
     header: 'Vita',
     subheader: 'My professional story.',
     items: [
@@ -192,6 +213,7 @@ module.exports = {
     ],
   },
   testimonials: {
+    enabled: true,
     header: 'WHAT MY CLIENTS ARE SAYING',
     subheader: 'My favorite clients I have been working with.',
     items: [
@@ -219,6 +241,7 @@ module.exports = {
     ],
   },
   newsletter: {
+    enabled: true,
     header: 'JOIN THE MOVEMENT',
     subheader:
       'Be part of an incredible community of digital nomads and traveling entrepreneurs.',
@@ -269,6 +292,7 @@ module.exports = {
     facebook: 'iAmLiesa',
   },
   disqus: {
+    enabled: true,
     shortname: 'https-www-iamliesa-com',
     prefix: '',
     suffix: '',
