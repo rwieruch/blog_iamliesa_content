@@ -11,9 +11,8 @@ author: ""
 contribute: ""
 ---
 
-import YouTube from 'react-youtube';
 import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
+import { Title, Divider } from '$components/mdx';
 
 At the moment, I love listening to podcast where female entrepreneurs share their story. Even though I cannot follow their biography step by step, after listening to a handful of interviews, you connect the dots of the most important ingredients becoming a female entrepreneur. In this article, I want to share all interviews I have found yet only partly listened to them myself so far. If you have other inspiring podcasts, podcast episodes, or also written interviews, you can share them in the comments below. It would be great to have an extensive list of interviews of successful business women at one place.
 
