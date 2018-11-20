@@ -3,7 +3,7 @@ slug: "/how-to-increase-blog-engagement"
 date: "2018-09-28T13:35:13.234Z"
 title: "How to increase Blog Engagement"
 description: "Engagement on your blog creates authority and trust in your readers. Thus, boosting engagement is important. Here are 7 ways to boost engagement on your blog..."
-categories: ["content marketing", "blog engagement", "content marketing tips"]
+categories: ["content marketing", "content marketing tips"]
 hashtags: ["#contentMarketing"]
 banner: "./images/microphone.jpg"
 author: ""

@@ -14,7 +14,7 @@ contribute: ""
 import { BlogLink } from '$components/Link';
 import { Title, Divider } from '$components/mdx';
 
-At the moment, I love listening to podcast where female entrepreneurs share their story. Even though I cannot follow their biography step by step, after listening to a handful of interviews, you connect the dots of the most important ingredients becoming a female entrepreneur. In this article, I want to share all interviews I have found yet only partly listened to them myself so far. If you have other inspiring podcasts, podcast episodes, or also written interviews, you can share them in the comments below. It would be great to have an extensive list of interviews of successful business women at one place.
+At the moment, I love listening to podcast of female entrepreneurs sharing their story. Even though I cannot follow their biography step by step, after listening to a handful of interviews, you connect the dots of the most important ingredients to become a female entrepreneur. In this article, I want to share all interviews I have found yet only partly listened to them myself so far, to be honest. If you have other inspiring podcasts, podcast episodes, or also written interviews, you can share them in the comments below. It would be great to have an extensive list of interviews of successful business women at one place.
 
 Before I start with the podcast interviews and written interviews of successful women in business, I want to share with you my top source to find out more about successful women (and men). It's AMAs! I love AMAs (Ask Me Anything), because not an interviewer is asking the questions, but a community of people. There is a great variety of questions to ask a woman entrepreneur depending on their field of expertise. That's why I love this <BlogLink to="https://www.reddit.com/r/IAmA/">Ask Me Anything on Reddit</BlogLink>. There is no filter for female entrepreneur's AMA, but you may figure it out yourself by sorting the Subreddit by popularity and looking for the names of the people doing the AMA. I love to go through the list myself and finding yet another interesting collection of questions answered by a successful individual.
 
@@ -160,7 +160,7 @@ The Plant Proof Podcast by Simon Hill is about Plant Based Nutrition & Inspirati
 
 <Title id="female-entrepreneur-interview-ted-talk">Successful Women in Business with TED Talks</Title>
 
-It wouldn't be a complete list of successful women in business without mentioning TED talks. There are far too many TED talks out there to list all of them with women. But I have found great ways to filter them to my needs. These are a couple of good links to get you started.
+The list of successful women in business wouldn't be complete without mentioning TED talks. There are far too many TED talks out there to list all of them with women. But I have found great ways to filter them to my needs. These are a couple of good links to get you started.
 
 * <BlogLink to="https://www.ted.com/talks">All TED Talks</BlogLink> and filter for "Women" or "Women in Business"
 
@@ -170,7 +170,7 @@ It wouldn't be a complete list of successful women in business without mentionin
 
 <Title id="female-entrepreneur-interviews">More Interviews with Women with Businesses</Title>
 
-If you haven't enough yet, here are a few more text and audio format interviews of female entrepreneurs. I didn't go through all of them yet, only picked a few episodes and interviews here and there myself. But they seem promising, so I didn't want to exclude them here.
+If you haven't enough yet, here are a few more text and audio format interviews of female entrepreneurs. I didn't go through all of them yet, only picked a few episodes and interviews here and there myself. But they seem promising, so I wanted to include them here.
 
 * <BlogLink to="http://www.gaebler.com/Female-Entrepreneur-Interviews.htm">Female Entrepreneur Interviews</BlogLink> by Gaebler
 
@@ -182,4 +182,4 @@ If you haven't enough yet, here are a few more text and audio format interviews 
 
 <Divider />
 
-I hope the interviews with female entrepreneurs help you to get inspiration and motivation on your journey like they did/do it for me. If you have any other inspiring interviews from successful women in business, let me know about them in the comments. What other podcasts, episodes, written interviews or maybe also YouTube channels/episodes can you recommend? I would love to keep the list up to date with recent and quality interviews of female entrepreneurs.
+I hope the interviews with female entrepreneurs help you to get inspiration and motivation on your journey like they do it for me. If you have any other inspiring interviews from successful women in business, let me know about them in the comments. What other podcasts, episodes, written interviews or maybe also YouTube channels/episodes can you recommend? I would love to keep the list up to date with recent and quality interviews of female entrepreneurs.
