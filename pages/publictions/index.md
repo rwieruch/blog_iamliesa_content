@@ -14,7 +14,9 @@ import { Title, Subtitle, Divider } from '$components/mdx';
 
 As a copywriter, I am writing for clients from various industries. Some of my latest work as freelance copywriter:
 
-* <BlogLink to="https://de.feetup.eu/blogs/feetup-blog">Blog and Social Media for a Yoga Company: FeetUp</BlogLink>
+* <BlogLink to="https://www.concentrix.eu/magazin/">Blog for a dietary supplement company for better concentration</BlogLink>
+* <BlogLink to="https://blog.mynd.com/de/author/liesa-huppertz">Blog for a video-marketing company</BlogLink>
+* <BlogLink to="https://www.gymondo.de/magazin/author/liesa-huppertz">Blog for a fitness company</BlogLink>
 * <BlogLink to="https://www.greenyogashop.com/blog/">Blog and Copywriting for a Yoga-wear Company: Greenyogashop</BlogLink>
 * <BlogLink to="http://fischerplan.com/de/">Website Texting for an architect: Fischerplan</BlogLink>
 * <BlogLink to="http://epaper.dental-tribune.com/dti/59afa644020e4/page31.html#/16">PR for a Dental Care Shop: Wawibox</BlogLink>
