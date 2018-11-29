@@ -76,7 +76,11 @@ module.exports = {
       { icon: 'email', url: 'mailto:liesa.huppertz@gmail.com' },
     ],
     text: `
-        <p>Hi there, I am Liesa, a twenty-something girl living in Berlin. I’m a content creator, a social media and PR manager and a blogger. My natural curiosity helps me to always be on top of the latest social media trends, new tools and marketing techniques.</p>
+        <p>Hi there, I am Liesa, a german freelance copywriter and content marketing expert from Berlin.</p> 
+
+        <p>Content Marketing is about more than simply writing articles or blog posts. It’s a strategy used to target your audience right; it’s a marketing approach to attract and retain a clearly defined audience. Copywriting on the other hand is used to finally make the pitch - after having applied your content marketing strategy. That’s why both skills go hand in hand. As a copywriter and content marketer I can help you target your audience right. I can help you figure out how to address them, what tone of voice to use best and what kind of content works in your niche. With great copywriting skills we will then be able to make the final pitch.</p> 
+
+        <p> A few words about myself:</p>
 
         <p>I’m a strong believer in living and learning. In my opinion that’s what furthers out of the box thinking and eventually makes you an expert in your field.</p>
 
