@@ -47,7 +47,9 @@ Broccoli is also rich in isothiocyanates, small molecules that are formed from g
 With its high amounts of fibre, broccoli also helps to **eliminate excess estrogen through our bowel movements**.
 
 <Subtitle id="balance-hormones-wild-salmon">#3 Wild Salmon</Subtitle>
+
 ![balance hormones with salmon](./images/hormonal_balance_salmon.jpg)
+
 Overall, our diet often mainly consists of omega-6 fatty acids rather than omega-3. However, for optimal health our ratio should be anything close to 1:1.  
 
 Wild salmon is one of the greatest sources of **omega-3 fatty acids** there is. These fats are **essential for the production of hormones that regulate heart, blood, and genetic function**. 
@@ -79,7 +81,9 @@ Another hormone balancing food is quinoa. It’s a **complex carbohydrate with h
 When possible, substitute quinoa for other grains like wheat or white rice. This will help you keep your insulin levels at an appropriate level thus keeping androgen hormone levels (“male” hormones like testosterone) balanced.
 
 <Subtitle id="balance-hormones-almonds">#7 Almonds</Subtitle>
+
 ![hormonal balance with almonds](./images/almonds_hormones.jpg)
+
 Containing high amounts of **omega-3 fatty acids** and other nutrients, nuts are a naturally healthy snack. To balance your hormones, dieticians often point to almonds in particular, as they can **increase your body’s adiponectin hormone**. 
 
 The adiponectin hormone is responsible for **regulating blood sugar levels** which helps keeping insulin in check. 
