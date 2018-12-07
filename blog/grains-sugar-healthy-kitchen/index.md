@@ -37,9 +37,9 @@ Grains are seeds that grow on grass-like plants called cereals and they are smal
 
 A whole grain consists of three parts:
 
-The bran: This is the hard outer shell that contains fiber, minerals, and antioxidants
-The endosperm: This is the biggest part of the grain; it’s the middle layer that contains mostly carbs
-The germ: This is the nutrient-rich core. It contains vitamins, minerals, proteins, fats, antioxidants and various phytonutrients. As the embryo of the germ, this part also gives rise to a new plant. It’s also the part where gluten, gliadin and wheat proteins are found. 
+1. The bran: This is the hard outer shell that contains fiber, minerals, and antioxidants
+2. The endosperm: This is the biggest part of the grain; it’s the middle layer that contains mostly carbs
+3. The germ: This is the nutrient-rich core. It contains vitamins, minerals, proteins, fats, antioxidants and various phytonutrients. As the embryo of the germ, this part also gives rise to a new plant. It’s also the part where gluten, gliadin and wheat proteins are found. 
 
 <Title id="healthy-kitchen-whole-grains-vs-refined-grains">Whole grains vs. refined grains</Title>
 
@@ -162,9 +162,9 @@ It is generally regarded as safe to use and is currently researched for its vita
 
 **#3 Honey**
 
-![stocking a healthy kitchen with sugar](./images/honey.jpg)
-
 Honey is made from a blend of fructose and glucose. It contains trace amounts of vitamins and minerals and an abundance of other beneficial antioxidants. 
+
+![stocking a healthy kitchen with sugar](./images/honey.jpg)
 
 Honey is also touted for its antimicrobial and antibacterial activities. Other studies show that eating honey might even <BlogLink to="http://www.tandfonline.com/doi/abs/10.3109/09637480801990389">lower bad cholesterol</BlogLink> and increase the good one (HDL).
 
