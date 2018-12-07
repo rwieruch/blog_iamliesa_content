@@ -142,7 +142,7 @@ Others say that sugar shouldn’t make up for more than five to ten percent of y
 
 But however much is the “right” recommended amount, remember that there is no need for added sugars in your diet and **the less you eat, the healthier you’ll be**. 
 
-<Subtitle id="healthy-kitchen-sugar-alternatives">Natural sugar alternatives</Subtitle>
+<Title id="healthy-kitchen-sugar-alternatives">Natural sugar alternatives</Title>
 
 By now, you surely understand why sugar is bad for you and that it should be avoided. Luckily, there are a lot of natural sugar alternatives these days that make for a better choice.
 
