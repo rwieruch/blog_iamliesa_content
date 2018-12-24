@@ -1,6 +1,13 @@
 module.exports = {
   siteUrl: 'https://www.iamliesa.com',
-  languageCode: 'en-us', // default: 'en-us'
+  languageCode: 'en-US',
+  theme: {
+    primary: '#525dce',
+    fontPrimary: '#333333',
+    backgroundPrimary: '#fff',
+    subtle: '#545454',
+    grey: '#e4e4e4',
+  },
 
   // can be specified in frontmatter
   title: 'Ia.Liesa',
@@ -58,6 +65,7 @@ module.exports = {
       'Social Media Enthusiast and strong believer in "Live and Learn"',
   },
   about: {
+    enabled: true,
     header: 'About me',
     subheader: 'Something you should know.',
     social: [
@@ -76,18 +84,18 @@ module.exports = {
       { icon: 'email', url: 'mailto:liesa.huppertz@gmail.com' },
     ],
     text: `
-        <p>Hi there, I am Liesa, a german freelance copywriter and content marketing expert from Berlin.</p> 
+      <p>Hi there, I am Liesa, a german freelance copywriter and content marketing expert from Berlin.</p>
 
-        <p>Content Marketing is about more than simply writing articles or blog posts. It’s a strategy used to target your audience right; it’s a marketing approach to attract and retain a clearly defined audience. Copywriting on the other hand is used to finally make the pitch - after having applied your content marketing strategy. That’s why both skills go hand in hand. As a copywriter and content marketer I can help you target your audience right. I can help you figure out how to address them, what tone of voice to use best and what kind of content works in your niche. With great copywriting skills we will then be able to make the final pitch.</p> 
+      <p>Content Marketing is about more than simply writing articles or blog posts. It's a strategy used to target your audience right; it's a marketing approach to attract and retain a clearly defined audience. Copywriting on the other hand is used to finally make the pitch - after having applied your content marketing strategy. That's why both skills go hand in hand. As a copywriter and content marketer I can help you target your audience right. I can help you figure out how to address them, what tone of voice to use best and what kind of content works in your niche. With great copywriting skills we will then be able to make the final pitch.</p>
 
-        <p> A few words about myself:</p>
+      <p>A few words about myself:</p>
 
-        <p>I’m a strong believer in living and learning. In my opinion that’s what furthers out of the box thinking and eventually makes you an expert in your field.</p>
+      <p>I'm a strong believer in living and learning. In my opinion that's what furthers out of the box thinking and eventually makes you an expert in your field.</p>
 
-        <p>I think that expertise derives from two things mainly: ambition and passion. Both are characteristics that describe me very well. I just love what I do and that’s what makes it easy to always learn more, do more and get better and better.</p>
+      <p>I think that expertise derives from two things mainly: ambition and passion. Both are characteristics that describe me very well. I just love what I do and that's what makes it easy to always learn more, do more and get better and better.</p>
 
-        <p>By the way, I am a <strong>German</strong> native speaker but also comfortable in <strong>English</strong>.</p>
-      `,
+      <p>By the way, I am a <strong>German</strong> native speaker but also comfortable in <strong>English</strong>.</p>
+    `,
   },
   services: {
     enabled: true,
@@ -104,7 +112,7 @@ module.exports = {
         icon: 'heart',
         label: 'Social Media',
         description:
-          'Social Media means more than scheduling a post once in a while. It’s about community engagement, influencers, channel analysis and quality content.',
+          "Social Media means more than scheduling a post once in a while. It's about community engagement, influencers, channel analysis and quality content.",
       },
       {
         icon: 'influencer',
@@ -123,7 +131,7 @@ module.exports = {
         icon: 'megaphone',
         label: 'Public Relations',
         description:
-          'Journalist outreach, writing press releases and organizing events are just a few things I learned during my career in PR. Let me help you getting your company’s name out there.',
+          "Journalist outreach, writing press releases and organizing events are just a few things I learned during my career in PR. Let me help you getting your company's name out there.",
       },
       {
         icon: 'growth',
@@ -175,13 +183,13 @@ module.exports = {
       {
         label: 'Saxony Medical Association',
         description:
-          '<p>That’s where I first interned in the field of Public Relations. I learned how to write press releases, managing a PR campaign and contributing content in a CMS.</p>',
+          "<p>That's where I first interned in the field of Public Relations. I learned how to write press releases, managing a PR campaign and contributing content in a CMS.</p>",
         year: '2012 - 2013',
       },
       {
         label: 'Thailand',
         description:
-          '<p>Thailand woke up my interest for Southeast Asia. I enjoy diving into different cultures, to learn about their life and to reflect it on my own life. It shouldn’t be my last Asian experience.</p>',
+          "<p>Thailand woke up my interest for Southeast Asia. I enjoy diving into different cultures, to learn about their life and to reflect it on my own life. It shouldn't be my last Asian experience.</p>",
         year: '2013',
       },
       {
@@ -216,9 +224,9 @@ module.exports = {
       },
     ],
   },
-  testimonials: {
+  testimonial: {
     enabled: true,
-    header: 'WHAT MY CLIENTS ARE SAYING',
+    header: 'What my clients are saying',
     subheader: 'My favorite clients I have been working with.',
     items: [
       {
@@ -274,12 +282,12 @@ module.exports = {
       },
       {
         icon: 'email',
-        url: 'mailto:liesa.huppertz@gmail.com',
+        url: 'mailto:hello@iamliesa.com',
       },
     ],
     links: [
       {
-        label: 'Legal Notice',
+        label: 'Privacy & Terms',
         url: '/legal',
       },
     ],
