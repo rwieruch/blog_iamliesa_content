@@ -1,5 +1,4 @@
 ---
-slug: "/company-blog"
 date: "2018-09-23T13:35:13.234Z"
 title: "Should every Company have a Blog?"
 description: "If you have a look at differen Company Websites, one thing stands out: Almost all of them have a blog. But is it really necessary for a Company to have a Blog? I will answer this question..."

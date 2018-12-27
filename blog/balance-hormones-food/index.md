@@ -1,5 +1,4 @@
 ---
-slug: "/balance-hormones-food"
 date: "2018-12-04T13:35:13.234Z"
 title: "Balance Your Hormones Naturally With These Foods"
 description: "Hormonal balance is essential for a healthy, energized body. However, hormonal imbalances are more and more common. Try these foods to naturally balance your hormones.»"

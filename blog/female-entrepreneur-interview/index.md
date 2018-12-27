@@ -1,5 +1,4 @@
 ---
-slug: "/female-entrepreneur-interview"
 date: "2018-10-13T13:35:13.234Z"
 title: "50+ Inspiring Female Entrepreneur Interviews"
 description: "Extensive list of interviews with inspiring and successful women in business and female entrepreneurs reaching from written interviews to podcasts ..."

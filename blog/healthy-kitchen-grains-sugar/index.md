@@ -1,5 +1,4 @@
 ---
-slug: "/healthy-kitchen-grains-sugar"
 date: "2018-12-07T13:35:13.234Z"
 title: "Stocking Grains and Sugar in a Healthy Kitchen"
 description: "Grains and sugar are part of almost every kitchen. But what should you look out for when stocking them? What are the heathiest choices? Learn more here »"

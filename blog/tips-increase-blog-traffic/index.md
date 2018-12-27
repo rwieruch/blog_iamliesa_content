@@ -1,5 +1,4 @@
 ---
-slug: "/tips-increase-blog-traffic"
 date: "2018-09-28T13:35:13.234Z"
 title: "6 proven Ways to increase your Blog Traffic"
 description: "What’s your website worth if nobody visits it? Right, not much. Here are six easy ways to increase your blog traffic today..."

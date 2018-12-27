@@ -1,5 +1,4 @@
 ---
-slug: "/become-your-best-version"
 date: "2018-09-20T13:35:13.234Z"
 title: "How to become the best Version of Yourself"
 description: "Everybody wants to be the best version possible of himself. But what does that even mean and how do we get there? I tried to answer this question the way I see it..."

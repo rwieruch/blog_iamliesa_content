@@ -1,5 +1,4 @@
 ---
-slug: "/fitness-content-marketing"
 date: "2018-09-28T13:35:13.234Z"
 title: "Fitness Content Marketing Trends & Ideas"
 description: "No industry has tackled content marketing quite as well as the fitness industry and it goes far beyond having a traditional blog. Marketers in the fitness industry make use of the latest technology which helps them address their costumers in a whole new way..."
