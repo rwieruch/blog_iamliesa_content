@@ -33,6 +33,8 @@ module.exports = {
 
   hashtags: ['#socialmedia', '#consultant', '#nutritions'],
 
+  pagination: 10,
+
   blog: {
     // provide a link which is used with article's slug to edit article by reader
     // specify: provide contribute property as whole URL in frontmatter
@@ -43,7 +45,12 @@ module.exports = {
     featuredCategories: ['content marketing', 'health'],
 
     // how many posts should show up per category on /blog
-    postsPerCategory: 4,
+    limit: 4,
+  },
+
+  categories: {
+    slug: '/categories',
+    slugSuffix: 'learn-',
   },
 
   // analytics defined in .env file
