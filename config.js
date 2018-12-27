@@ -60,7 +60,7 @@ module.exports = {
 
   // goodie shown below each blog post
   goodie: {
-    enabled: true,
+    enabled: false,
     header: 'The Road to React',
     text:
       'Learn React by building real world applications. No setup configuration. No tooling. Plain React in 200+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
