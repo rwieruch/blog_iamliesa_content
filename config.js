@@ -1,20 +1,22 @@
 module.exports = {
   siteUrl: 'https://www.iamliesa.com',
   languageCode: 'en-US',
+
+  // color theme
   theme: {
-    primary: '#525dce',
+    primary: '#93b46f',
     fontPrimary: '#333333',
     backgroundPrimary: '#fff',
-    subtle: '#545454',
-    grey: '#e4e4e4',
   },
 
   // can be specified in frontmatter
   title: 'Ia.Liesa',
   // can be specified in frontmatter
-  description: 'A german social media enthusiast and content marketer',
+  description:
+    'German copywriter freelancer and social media consultant helping your company to succeed with content marketing.',
+
   // can be specified in frontmatter
-  author: 'Liesa',
+  author: 'Liesa Huppertz',
   // can be specified in frontmatter
   keywords: [
     'social media',
@@ -28,12 +30,21 @@ module.exports = {
     'german',
     'female entrepreneur blog',
   ],
-  // can be specified in frontmatter
-  hashtags: ['#socialmedia', '#consultant'],
-  // provide a link which is used with article's slug to edit article by reader
-  // specify: provide contribute property as whole URL in frontmatter
-  contributeBase:
-    'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
+
+  hashtags: ['#socialmedia', '#consultant', '#nutritions'],
+
+  blog: {
+    // provide a link which is used with article's slug to edit article by reader
+    // specify: provide contribute property as whole URL in frontmatter
+    contributeBase:
+      'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
+
+    // provide an order of categories for the blog page
+    featuredCategories: ['content marketing', 'health'],
+
+    // how many posts should show up per category on /blog
+    postsPerCategory: 4,
+  },
 
   // analytics defined in .env file
   analytics: {
@@ -42,13 +53,13 @@ module.exports = {
 
   // goodie shown below each blog post
   goodie: {
-    enabled: false,
-    header: 'The Road to learn React',
+    enabled: true,
+    header: 'The Road to React',
     text:
-      'Build a Hacker News App along the way. No setup configuration. No tooling. No Redux. Plain React in 190+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
+      'Learn React by building real world applications. No setup configuration. No tooling. Plain React in 200+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
     img: 'img/page/cover.png',
     cta: 'Get the Book for free',
-    ctaSecondary: 'Get it on Amazon',
+    ctaSecondary: 'Get it on Amazon.',
     url: 'https://www.getrevue.co/profile/rwieruch',
     urlSecondary: 'https://amzn.to/2LHjxRB',
   },
@@ -100,7 +111,7 @@ module.exports = {
   services: {
     enabled: true,
     header: 'What I offer',
-    subheader: 'A valuable selection of my skills.',
+    subheader: 'A selection of my skills.',
     items: [
       {
         icon: 'feather',
@@ -226,8 +237,8 @@ module.exports = {
   },
   testimonial: {
     enabled: true,
-    header: 'What my clients are saying',
-    subheader: 'My favorite clients I have been working with.',
+    header: 'Testimonials',
+    subheader: 'What my clients are saying.',
     items: [
       {
         label: 'Elena Miebach',
@@ -255,8 +266,7 @@ module.exports = {
   newsletter: {
     enabled: true,
     header: 'JOIN THE MOVEMENT',
-    subheader:
-      'Be part of an incredible community of digital nomads and traveling entrepreneurs.',
+    subheader: 'Be part of an incredible community of digital entrepreneurs.',
     items: [
       'Join an inspiring community of nomads conquering the world',
       'Learn everything you need to know to start your online business',
