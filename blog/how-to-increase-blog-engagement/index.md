@@ -7,6 +7,7 @@ hashtags: ["#contentMarketing"]
 banner: "./images/microphone.jpg"
 author: ""
 contribute: ""
+starter: "Learn Content Marketing"
 ---
 
 import { BlogLink } from '$components/Link';

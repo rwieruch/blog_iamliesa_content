@@ -8,6 +8,7 @@ banner: "./images/balance_hormones_food.jpg"
 hashtags: ["#hormonalbalance"]
 author: ""
 contribute: ""
+bestOf: true
 ---
 
 import { BlogLink } from '$components/Link';

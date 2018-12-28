@@ -41,8 +41,20 @@ module.exports = {
     contributeBase:
       'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
 
-    // provide an order of categories for the blog page
-    featuredCategories: ['content marketing', 'health'],
+    recentPosts: {
+      label: 'Most Recent',
+    },
+    starterPosts: {
+      label: 'How to get started?',
+    },
+    bestOfPosts: {
+      label: 'Best Of',
+    },
+    featuredPosts: {
+      labelPrefix: 'All about',
+      // provide an order of categories for the blog page
+      categories: ['content marketing', 'health'],
+    },
 
     // how many posts should show up per category on /blog
     limit: 4,

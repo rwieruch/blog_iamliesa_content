@@ -8,6 +8,7 @@ hashtags: ["#health"]
 banner: "./images/balance_body.jpg"
 author: ""
 contribute: ""
+bestOf: true
 ---
 
 import YouTube from 'react-youtube';
