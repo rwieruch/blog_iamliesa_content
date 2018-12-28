@@ -2,7 +2,7 @@
 date: "2018-11-30T13:35:13.234Z"
 title: "An Introduction To Hormones"
 description: "Hormones are special messengers in your body that control major bodily functions. When in balance, they let you thrive, however, a small hormonal imbalance can already totally throw you off your game. Learn more about hormonal balance and how to achieve it. »"
-categories: ["health"]
+categories: ["health", "hormones"]
 keywords: ["hormonal balance", "hormonal imbalance", "introduction hormones"]
 hashtags: ["#health"]
 banner: "./images/balance_body.jpg"

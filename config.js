@@ -33,8 +33,6 @@ module.exports = {
 
   hashtags: ['#socialmedia', '#consultant', '#nutritions'],
 
-  pagination: 10,
-
   blog: {
     // provide a link which is used with article's slug to edit article by reader
     // specify: provide contribute property as whole URL in frontmatter
@@ -58,6 +56,8 @@ module.exports = {
 
     // how many posts should show up per category on /blog
     limit: 4,
+
+    pagination: 10,
   },
 
   categories: {
