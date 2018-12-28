@@ -283,7 +283,10 @@ module.exports = {
     ],
   },
   newsletter: {
+    // Create a Revue Newsletter Account: https://www.getrevue.co/referrals/adNOMX8eMpOQ5ndAIyXovw
+    // provide Revue API KEY as GATSBY_GET_REVUE_API_KEY in .env or .env.development/.env.production
     enabled: true,
+    doubleOptIn: false,
     header: 'JOIN THE MOVEMENT',
     subheader: 'Be part of an incredible community of digital entrepreneurs.',
     items: [
@@ -292,7 +295,6 @@ module.exports = {
       'See what it takes to travel the world while doing business',
       'Get inspired for your next journey',
     ],
-    url: 'https://www.getrevue.co/profile/wayfaringsociety',
   },
   footer: {
     copyright: '© Liesa Huppertz',
