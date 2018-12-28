@@ -17,7 +17,7 @@ import { Title, Subtitle, Divider } from '$components/mdx';
 * Bornholmer Str. 20
 * 10439 Berlin
 * Telefon: +49 (0)162 8392715
-* E-Mail: iamliesamaria@gmail.com
+* E-Mail: hello@iamliesa.com
 
 <Subtitle>Exemption from Liability:</Subtitle>
 
