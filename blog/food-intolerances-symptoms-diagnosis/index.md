@@ -1,5 +1,4 @@
 ---
-slug: "/healthy-kitchen-grains-sugar"
 date: "2018-12-30T13:35:13.234Z"
 title: "Food Intolerance, Food Sensitivity And Food Allergy: Symptoms, Causes & Diagnosis "
 description: "Food intolerances are on the rise. But what distinguishes an intolerance from an allergy, what are the symptoms and causes and how do you diagnose an intolerance? »"
