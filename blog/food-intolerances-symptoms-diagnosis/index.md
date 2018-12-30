@@ -10,6 +10,8 @@ author: ""
 contribute: ""
 ---
 
+import { BlogLink } from '$components/Link';
+import { Title, Subtitle, Divider } from '$components/mdx';
 
 Food allergies, food intolerances, food sensitivities - When it comes to the reaction of our body towards food, there is a lot to watch out for. 
 
@@ -18,6 +20,7 @@ Physical reaction to certain foods are common, but mostly they are not caused by
 That’s why in this blog post we are going to talk about the differences between food intolerances and food allergies, about the role of the gastrointestinal tract in food intolerances, about symptomes and finally about the importance of an elimination diet. 
 
 <Title id="food-intolerances">Food Intolerances vs. Food Allergy</Title>
+
 Food intolerance is also known as **non-lgE mediated food hypersensitivity or non-allergic food hypersensitivity**. A food intolerance refers to the **difficulty in digesting certain foods** and it is different from food allergies in that **an allergy triggers the immune system**, while food intolerance does not. Still some of the symptoms of a food allergy may be similar to those of a food intolerance. 
 
 When having a food allergy, your immune system mistakenly treats proteins found in food as a threat and reacts by **releasing massive amounts of chemicals, including histamine**. That triggers a cascade of  typical allergy symptoms such as a **rash or itching** after eating just a small amount of a certain food. In some cases, allergies can even be **life-threatening** as they can cause anaphylaxis which can affect several areas of the body, including breathing and blood circulation. 
@@ -31,35 +34,40 @@ Foods most commonly associated with food intolerance include **wheat, milk, soy,
 Food intolerances and sensitivities have a wide range of symptoms, sometimes even similar to food allergy symptoms, making it hard for us to diagnose them.
 
 <Title id="food-intolerances-symptoms">Symptoms Of Food Intolerance</Title>
-Certain foods, even the (<BlogLink to="https://www.iamliesa.com/healthy-kitchen-stocking-fruits-vegetables">healthy ones</BlogLink>) can cause bad reactions in the body. Symptoms of food intolerances vary, but most often they involve the **digestive system, skin and respiratory system**.
+
+Certain foods, even the <BlogLink to="https://www.iamliesa.com/healthy-kitchen-stocking-fruits-vegetables">healthy ones</BlogLink> can cause bad reactions in the body. Symptoms of food intolerances vary, but most often they involve the **digestive system, skin and respiratory system**.
 
 ![food intolerance symptoms](./images/food_intolerance_symptoms.jpg)
 
 Common symptoms of a food intolerance include:
-Diarrhea
-Bloating
-Constipation
-Flatulence
-Nausea
-Abdominal pain
-Rashes
-Hives
-Swelling
-Acne
-Flushing of the skin
-Eczema
-Itchy skin
-Headaches
-Migraines
-Runny nose
-Fatigue & tiredness 
-Reflux
+
+* Diarrhea
+* Bloating
+* Constipation
+* Flatulence
+* Nausea
+* Abdominal pain
+* Rashes
+* Hives
+* Swelling
+* Acne
+* Flushing of the skin
+* Eczema
+* Itchy skin
+* Headaches
+* Migraines
+* Runny nose
+* Fatigue & tiredness 
+* Reflux
 
 These symptoms are an effect of a reaction of our gastrointestinal tract to a particular food. When a particular food upsets our G.I. tract, or negatively reacts with one of its constituents, we can feel the effect all over our body. 
 
 <Title id="food-intolerance-causes">What Causes Food Intolerances?</Title>
+
 It’s very hard to pinpoint a food intolerance to one specific cause as there are many causes of food intolerance. Let’s take a look at some of them.
+
 <Subtitle id="food-intolerance-lack-enzyme">Lack Of An Enzyme</Subtitle>
+
 In order to digest a food fully, your body needs **enzymes**. Sometimes however, your body is **missing certain digestive enzymes**, thus food molecules cannot be digested properly. 
 
 This is the case e.g. for people who are lactose intolerant. They are missing the enzyme lactase, the enzyme that breaks down milk sugar into smaller molecules which the body can further break down and absorb through the intestine. Remaining lactase in the digestive tract can cause bloating, diarrhea, stomachache, and gas. <BlogLink to="https://www.medicalnewstoday.com/articles/263965.php">4</BlogLink>
@@ -67,22 +75,26 @@ This is the case e.g. for people who are lactose intolerant. They are missing th
 For proper digestion nearly all foods require an enzyme. According to the <BlogLink to="https://www.allergyuk.org/information-and-advice/conditions-and-symptoms/36-types-of-food-allergy">British Allergy Foundation</BlogLink>, a common cause of food intolerance is in fact **enzyme deficiencies**. 
 
 <Subtitle id="food-intolerance-transport">Transport Defects</Subtitle>
+
 Apart from enzyme deficiencies, there may also be **defects in transporter molecules**. GLUT 5 for example transports fructose, GLUT 2 transports glucose, galactose or fructose. When they don’t function properly, these carbohydrates **can’t be transported into the intestinal cells** which results in their **metabolism in the large intestines** where they are transported intact in large quantities. As a result from these gases and decomposition products abdominal pain, bloating, flatulence, and diarrhea may occur. 
 
 <Subtitle id="food-intolerance-histamine">Chemicals In Foods</Subtitle>
+
 Our food is full of **chemicals**. Take for example caffeine in coffee, tea, and chocolate, or amines in certain cheeses. Some people react harder on these chemicals than others.
 
 <Subtitle id="food-intolerance-histamine">Histamine In Foods</Subtitle>
+
 Your body naturally produces histamine along with the enzyme diamine oxidase (DAO). Also certain types of food can have an **accumulation of histamine**. Some people are particularly sensitive to this naturally-occurring histamine. They react with skin rashes, abdominal cramps, nausea, vomiting, and diarrhea. 
 
 <Title id="gut-health-food-sensitivities">Gut Health And Food Sensitivities</Title>
+
 Our gut digests everything we consume. So it’s only natural that the key place of interest when it comes to food sensitivities, allergies and intolerances is in the gut and the gastrointestinal tract. The G.I. tract is a massively important organ system. It’s where nutrients and water from foods are absorbed to help keeping your body healthy. It’s also home to up to **80% of our immune system**. Thus gut health is the core of our total well-being. 
 
 <Subtitle id="gastrointestinal-tract">Leaky Gut And Food Sensitivities</Subtitle>
 
 The role of your G.I. tract is to take in the food you eat, break it down and have it absorbed into your body in a controlled way. Your gastrointestinal system discharges the proper amount of enzymes and acids to process the food so that nutrients can be released and transported to the cells - that is if it is healthy. 
 
-Your G.I. tract also provides a **protective barrier between the food you eat and the inside of your body**. It’s only one very thin layer of cells that separates our digestive system from our bloodstream. When everything is healthy and functioning efficiently, only specific food molecules in specific places and at specific times can enter. When it’s compromised in any way, it may **let in food molecules that are not properly digested**. (<BlogLink to="http://www.whfoods.com/genpage.php?tname=faq&dbid=30">4</BlogLink>) This triggers the **immune system**, which tries to remove these substances: after all, that’s not a place for them to be. This triggers an inflammatory response throughout the body which can cause a **wide range of different unpleasant symptoms all over your body**.
+Your G.I. tract also provides a **protective barrier between the food you eat and the inside of your body**. It’s only one very thin layer of cells that separates our digestive system from our bloodstream. When everything is healthy and functioning efficiently, only specific food molecules in specific places and at specific times can enter. When it’s compromised in any way, it may **let in food molecules that are not properly digested**. (<BlogLink to="http://www.whfoods.com/genpage.php?tname=faq&dbid=30">3</BlogLink>) This triggers the **immune system**, which tries to remove these substances: after all, that’s not a place for them to be. This triggers an inflammatory response throughout the body which can cause a **wide range of different unpleasant symptoms all over your body**.
 
 Furthermore, this can also trigger **reactions to usually harmless foods** due to high inflammation levels and confused immune cells. This may contribute to food allergies and sensitivities. Here the vicious circle begins as food sensitivities further drive inflammation levels and inflame the intestinal lining which exacerbates leaky gut. Can you see why a healthy gut is so important?
 <Subtitle id="gut-allergies-connection">The Connection Between The Gut Flora And Food Allergies</Subtitle>
@@ -100,6 +112,7 @@ Several studies have shown the connection between our gut flora and the developm
 So you see that your gut microbiome plays an important role in **how your immune system reacts to threats like bacteria or viruses**, but what’s even more important here is that you also see that a **lack of beneficial bacteria in the gut can in fact contribute to the immune system’s inability to tell friend from foe**. This leads to the dreaded overreaction that you experience as an allergy. 
 
 <Title id="gut-health-FODMAPS">FODMAPS</Title>
+
 Apart from food allergies, there are also FODMAPs. FODMAP stands for “fermentable oligo-, di-, mono-saccharides and polyols”. 
 
 These are short-chain carbohydrates which are **resistant to digestion**. 
@@ -110,32 +123,36 @@ FODMAPs may also cause diarrhea as they draw liquid into your intestine.
 
 Commonly used FODMAPs comprise of:
 
-*Fructose*: Also referred to as fruit sugar as it is a simple sugar found in many fruits.
-*Lactose*: A carbohydrate found in dairy products.
-*Polyols*: Sugar alcohols including sorbitol, xylitol, and mannitol.
-*Fructans*: A polymer of fructose molecules, found in many foods including grains like wheat, rye, and spelt.
-*Galactans*: A type of oligosaccharide (a <BlogLink to="https://www.iamliesa.com/healthy-kitchen-grains-sugar">complex carb</BlogLink>) found in legumes. 
+* *Fructose*: Also referred to as fruit sugar as it is a simple sugar found in many fruits.
+* *Lactose*: A carbohydrate found in dairy products.
+* *Polyols*: Sugar alcohols including sorbitol, xylitol, and mannitol.
+* *Fructans*: A polymer of fructose molecules, found in many foods including grains like wheat, rye, and spelt.
+* *Galactans*: A type of oligosaccharide (a <BlogLink to="https://www.iamliesa.com/healthy-kitchen-grains-sugar">complex carb</BlogLink>) found in legumes. 
 
 <Title id="importance-neutralizing-food-sensitivities">Why Is It Important To Identify And Neutralize Food Sensitivities?</Title>
+
 Many symptoms of a food sensitivity reaction only bother us for a short while, but there may be **long term consequences** of repeat reactions. Thus if left untreated, allergies and food sensitivities can have a serious impact on your quality of life. Consequences vary from **increased risk of health problems to decreased brain function and mood instability**. There even is a risk of **chronic diseases** (<BlogLink to="http://www.food-detective.ch/pages/wissenschaftliche-informationen/papers/09.pdf">9</BlogLink> and **illnesses** such as (<BlogLink to="https://www.foodintol.com/health-risks-of-untreated-food-intolerance">10</BlogLink>)
-Anaemia
+
+* Anaemia
 Auto-immune conditions like:
-Rheumatoid arthritis
-Diabetes Type I
-Graves’ disease
-Crohn’s Disease and others
-Bowel cancer
-Depression
-Infertility
-Malnutrition
-Celiac Disease
-Diabetes Type II
-and more
+* Rheumatoid arthritis
+* Diabetes Type I
+* Graves’ disease
+* Crohn’s Disease and others
+* Bowel cancer
+* Depression
+* Infertility
+* Malnutrition
+* Celiac Disease
+* Diabetes Type II
+* and more
+
 Due to the inflammatory effects of allergic reactions, the structure of the system it affects (usually the skin, airway, or gastrointestinal tract) may change. Structural changes e.g. in the airway can lead to asthma or chronic ear and sinus infection while changes to the skin lead to eczema 2. (<BlogLink to="https://www.focusforhealth.org/childrens-health-allergies/">11</BlogLink>)
 
 Save your health and quality of life by seeking professional advice early if you suspect having a food intolerance.
 
 <Title id="diagnosis-food-intolerance">How To Diagnose A Food Intolerance?</Title>
+
 As you may know by now, not all reactions to food are of allergic nature. In a food allergy, your **immune system produces antibodies** known as immunoglobulin E (IgE) in response to certain foods that it mistakenly believes to be harmful. This results in a cascade of cellular responses, such as the release of histamines that cause typical allergy symptoms. 
 
 Sometimes IgE has nothing to do with a reaction you experience after eating a particular food. What you are experiencing may be a food intolerance which can cause similar reactions to an allergy.
@@ -147,6 +164,7 @@ There are different tools people commonly employ to identify the cause of a food
 Let’s take a closer look at the different tools.
 
 <Subtitle id="the-elimination-diet">Elimination Diet to Diagnose Food Intolerances</Subtitle>
+
 The elimination diet is a great tool to **uncover hidden food intolerances, healing the gut, and bringing inflammation levels down**. 
 
 It works by **removing the foods that are most likely to irritate your body** for a few weeks (three weeks are seen as the minimum) and up to six months to give your body a change to calm down and focus on healing. 
@@ -157,14 +175,14 @@ There are several different ways of doing an elimination diet, starting from the
 
 As said before, the most common allergens are 
 
-Milk
-Eggs
-Soy
-Fish
-Shellfish
-Wheat
-Peanuts
-Tree Nuts
+* Milk
+* Eggs
+* Soy
+* Fish
+* Shellfish
+* Wheat
+* Peanuts
+* Tree Nuts
 
 In fact, those eight allergens make up for **more than 90% of the food allergy reactions** so it totally makes sense to start your elimination diet by cutting out these eight foods. 
 
@@ -172,15 +190,15 @@ In fact, those eight allergens make up for **more than 90% of the food allergy r
 
 Most elimination diets also eliminate foods that are often associated with food intolerances such as 
 
-Gluten
-Dairy
-Sugar
-Legumes
-Caffeine
-Alcohol
-Citrus Fruits
-Processed Foods
-Hydrogenated Oils
+* Gluten
+* Dairy
+* Sugar
+* Legumes
+* Caffeine
+* Alcohol
+* Citrus Fruits
+* Processed Foods
+* Hydrogenated Oils
 
 It really is up to you whether you eliminate all of these foods, but keep in mind: Many people are gluten sensitive without knowing it. Eliminating gluten may help with leaky gut syndrome which can cause allergic reactions, autoimmune reactions and high levels of inflammation. 
 
@@ -202,11 +220,11 @@ An elimination diet certainly requires discipline. But in the end, it is worth i
 
 **Further Sources**
 
-http://www.whfoods.com/genpage.php?tname=faq&dbid=30
-https://www.medicalnewstoday.com/articles/263965.php
-https://www.nhs.uk/conditions/food-intolerance/
-https://naturalallergytreatment.com.au/the-leaky-gut-and-food-sensitivity-connection/
-https://www.genuinehealth.com/en-us/genuine-hub/the-gut-allergy-connection/
-https://kresserinstitute.com/gut-flora-food-allergies-connection/
-https://www.healthline.com/nutrition/fodmaps-101#low-fodmap-foods
-https://www.news-medical.net/health/Causes-of-Food-Intolerance.aspx
+* http://www.whfoods.com/genpage.php?tname=faq&dbid=30
+* https://www.medicalnewstoday.com/articles/263965.php
+* https://www.nhs.uk/conditions/food-intolerance/
+* https://naturalallergytreatment.com.au/the-leaky-gut-and-food-sensitivity-connection/
+* https://www.genuinehealth.com/en-us/genuine-hub/the-gut-allergy-connection/
+* https://kresserinstitute.com/gut-flora-food-allergies-connection/
+* https://www.healthline.com/nutrition/fodmaps-101#low-fodmap-foods
+* https://www.news-medical.net/health/Causes-of-Food-Intolerance.aspx
