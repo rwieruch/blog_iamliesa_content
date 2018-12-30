@@ -73,7 +73,7 @@ module.exports = {
 
   // goodie shown below each blog post
   goodie: {
-    enabled: true,
+    enabled: false,
     header: 'The Road to React',
     text:
       'Learn React by building real world applications. No setup configuration. No tooling. Plain React in 200+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
@@ -86,7 +86,7 @@ module.exports = {
 
   // note shown below each blog psot
   note: {
-    enabled: true,
+    enabled: false,
     text:
       'If you found this blog post helpful, please consider supporting what I do.',
     cta: 'Support my Work',
