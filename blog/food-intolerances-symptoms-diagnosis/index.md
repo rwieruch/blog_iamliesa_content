@@ -1,6 +1,6 @@
 ---
 date: "2018-12-30T13:35:13.234Z"
-title: "Food Intolerance, Food Sensitivity And Food Allergy: Symptoms, Causes & Diagnosis "
+title: "Food Intolerances: Symptoms, Causes & Diagnosis "
 description: "Food intolerances are on the rise. But what distinguishes an intolerance from an allergy, what are the symptoms and causes and how do you diagnose an intolerance? »"
 categories: ["health"]
 keywords: ["food intolerance", "food allergy", "food sensitivity", "food intolerance symptoms"]
@@ -220,11 +220,14 @@ An elimination diet certainly requires discipline. But in the end, it is worth i
 
 **Further Sources**
 
-* http://www.whfoods.com/genpage.php?tname=faq&dbid=30
-* https://www.medicalnewstoday.com/articles/263965.php
-* https://www.nhs.uk/conditions/food-intolerance/
-* https://naturalallergytreatment.com.au/the-leaky-gut-and-food-sensitivity-connection/
-* https://www.genuinehealth.com/en-us/genuine-hub/the-gut-allergy-connection/
-* https://kresserinstitute.com/gut-flora-food-allergies-connection/
-* https://www.healthline.com/nutrition/fodmaps-101#low-fodmap-foods
-* https://www.news-medical.net/health/Causes-of-Food-Intolerance.aspx
+* <BlogLink to="http://www.whfoods.com/genpage.php?tname=faq&dbid=30">whfoods</BlogLink>
+* <BlogLink to="https://www.medicalnewstoday.com/articles/263965.php">medicalnewstoday</BlogLink>
+* <BlogLink to="https://www.nhs.uk/conditions/food-intolerance/">nhs</BlogLink>
+* <BlogLink to="https://naturalallergytreatment.com.au/the-leaky-gut-and-food-sensitivity-connection/">naturalallergytreatment</BlogLink>
+* <BlogLink to="https://www.genuinehealth.com/en-us/genuine-hub/the-gut-allergy-connection/">genuinehealth</BlogLink>
+* <BlogLink to="https://kresserinstitute.com/gut-flora-food-allergies-connection/">kresserinstitute</BlogLink>
+* <BlogLink to="https://www.healthline.com/nutrition/fodmaps-101#low-fodmap-foods">healthline</BlogLink>
+* <BlogLink to="https://www.news-medical.net/health/Causes-of-Food-Intolerance.aspx
+">news-medical</BlogLink>
+
+* 
