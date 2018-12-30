@@ -59,9 +59,6 @@ module.exports = {
 
     // how many posts should show up on /category
     pagination: 10,
-
-    // how many related posts are shown after a post
-    related: 2,
   },
 
   categories: {
