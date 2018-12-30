@@ -73,7 +73,7 @@ module.exports = {
 
   // goodie shown below each blog post
   goodie: {
-    enabled: false,
+    enabled: true,
     header: 'The Road to React',
     text:
       'Learn React by building real world applications. No setup configuration. No tooling. Plain React in 200+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
@@ -82,6 +82,15 @@ module.exports = {
     ctaSecondary: 'Get it on Amazon.',
     url: 'https://www.getrevue.co/profile/rwieruch',
     urlSecondary: 'https://amzn.to/2LHjxRB',
+  },
+
+  // note shown below each blog psot
+  note: {
+    enabled: true,
+    text:
+      'If you found this blog post helpful, please consider supporting what I do.',
+    cta: 'Support my Work',
+    url: 'https://www.patreon.com/rwieruch',
   },
 
   // Navigation
