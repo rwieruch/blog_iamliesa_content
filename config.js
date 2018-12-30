@@ -296,6 +296,45 @@ module.exports = {
       'Get inspired for your next journey',
     ],
   },
+  subfooter: {
+    enabled: true,
+    items: [
+      {
+        label: 'Portfolio',
+        items: [
+          {
+            label: 'Publications',
+            url: '/publications',
+          },
+          {
+            label: 'Influencer Marketing',
+            url: '/influencer-marketing',
+          },
+          {
+            label: 'Learning and Teaching',
+            url: '/learn-and-teach',
+          },
+        ],
+      },
+      {
+        label: 'Social Media',
+        items: [
+          {
+            label: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/liesahuppertz/',
+          },
+          {
+            label: 'Instagram',
+            url: 'https://www.instagram.com/i_am_liesa/',
+          },
+          {
+            label: 'Twitter',
+            url: 'https://twitter.com/i_am_liesa',
+          },
+        ],
+      },
+    ],
+  },
   footer: {
     copyright: '© Liesa Huppertz',
     social: [
@@ -311,12 +350,12 @@ module.exports = {
         icon: 'twitterRound',
         url: 'https://twitter.com/i_am_liesa',
       },
-      {
-        icon: 'email',
-        url: 'mailto:hello@iamliesa.com',
-      },
     ],
     links: [
+      {
+        label: 'Contact Me',
+        url: 'mailto:hello@iamliesa.com',
+      },
       {
         label: 'Privacy & Terms',
         url: '/legal',
