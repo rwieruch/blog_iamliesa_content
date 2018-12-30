@@ -57,6 +57,7 @@ module.exports = {
     // how many posts should show up per category on /blog
     limit: 4,
 
+    // how many posts should show up on /category
     pagination: 10,
   },
 
