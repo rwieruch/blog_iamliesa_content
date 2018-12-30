@@ -186,8 +186,6 @@ As said before, the most common allergens are
 
 In fact, those eight allergens make up for **more than 90% of the food allergy reactions** so it totally makes sense to start your elimination diet by cutting out these eight foods. 
 
-![food intolerances allergens](./images/food_intolerances.jpg)
-
 Most elimination diets also eliminate foods that are often associated with food intolerances such as 
 
 * Gluten
