@@ -131,7 +131,7 @@ Commonly used FODMAPs comprise of:
 
 <Title id="importance-neutralizing-food-sensitivities">Why Is It Important To Identify And Neutralize Food Sensitivities?</Title>
 
-Many symptoms of a food sensitivity reaction only bother us for a short while, but there may be **long term consequences** of repeat reactions. Thus if left untreated, allergies and food sensitivities can have a serious impact on your quality of life. Consequences vary from **increased risk of health problems to decreased brain function and mood instability**. There even is a risk of **chronic diseases** (<BlogLink to="http://www.food-detective.ch/pages/wissenschaftliche-informationen/papers/09.pdf">9</BlogLink> and **illnesses** such as (<BlogLink to="https://www.foodintol.com/health-risks-of-untreated-food-intolerance">10</BlogLink>)
+Many symptoms of a food sensitivity reaction only bother us for a short while, but there may be **long term consequences** of repeat reactions. Thus if left untreated, allergies and food sensitivities can have a serious impact on your quality of life. Consequences vary from **increased risk of health problems to decreased brain function and mood instability**. There even is a risk of **chronic diseases** (<BlogLink to="http://www.food-detective.ch/pages/wissenschaftliche-informationen/papers/09.pdf">9</BlogLink>) and **illnesses** such as (<BlogLink to="https://www.foodintol.com/health-risks-of-untreated-food-intolerance">10</BlogLink>)
 
 * Anaemia
 Auto-immune conditions like:
@@ -161,7 +161,7 @@ We have already talked about the causes of food intolerances (lack of an enzyme,
 
 There are different tools people commonly employ to identify the cause of a food intolerance. They range from Endoscopy ( a non-surgical examination that is used to diagnose celiac disease) to simple blood tests and hydrogen breath test (a diagnostic tool that is used to detect bacterial overgrowth in the intestines as well as malabsorption of carbs such as fructose or lactose), to keeping a food diary or an elimination diet. 
 
-Let’s take a closer look at the different tools.
+Let’s take a closer look at the ladder.
 
 <Subtitle id="the-elimination-diet">Elimination Diet to Diagnose Food Intolerances</Subtitle>
 
@@ -227,5 +227,3 @@ An elimination diet certainly requires discipline. But in the end, it is worth i
 * <BlogLink to="https://www.healthline.com/nutrition/fodmaps-101#low-fodmap-foods">healthline</BlogLink>
 * <BlogLink to="https://www.news-medical.net/health/Causes-of-Food-Intolerance.aspx
 ">news-medical</BlogLink>
-
-* 
