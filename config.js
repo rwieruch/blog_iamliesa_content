@@ -296,14 +296,13 @@ module.exports = {
     // Create a Revue Newsletter Account: https://www.getrevue.co/referrals/adNOMX8eMpOQ5ndAIyXovw
     // provide Revue API KEY as GATSBY_GET_REVUE_API_KEY in .env or .env.development/.env.production
     enabled: true,
-    doubleOptIn: false,
-    header: 'JOIN THE MOVEMENT',
-    subheader: 'Be part of an incredible community of digital entrepreneurs.',
+    doubleOptIn: true,
+    header: 'JOIN THE HEALTH MOVEMENT',
+    subheader: 'Sign up for my Newsletter to receive',
     items: [
-      'Join an inspiring community of nomads conquering the world',
-      'Learn everything you need to know to start your online business',
-      'See what it takes to travel the world while doing business',
-      'Get inspired for your next journey',
+   'Delicious & Nourishing Recipes',
+   'Inspiring Articles & Interesting Reads',
+   'Tips & Tricks to live a Healthier Life'
     ],
   },
   subfooter: {

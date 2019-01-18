@@ -65,11 +65,11 @@ It was shown that eating more whole grains puts you at lower risk of becoming ob
 
 Eating whole grains apparently also **lowers the risk of getting sick of type II diabetes, heart diseases and colon cancer**. (<BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/24158434">1</BlogLink>, <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/25599007">2</BlogLink>, <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/12740069">3</BlogLink>, <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/10479204 ">4</BlogLink>)
 
-However, all these studies should be (mit Vorsicht genießen), as they cannot prove that whole grains actually caused all those health benefits, simply that they are associated with them.
+However, all these studies should be taken with a pinch of salt, as they cannot prove that whole grains actually caused all those health benefits, simply that they are associated with them.
 
 <Title id="healthy-kitchen-grains-gluten-intolerance">Grains and gluten-intolerance</Title>
 
-A gluten sensitivity or even allergy is the result. This allergy is called **celiac disease** and it is in fact not an allergy but an **autoimmune disease**. Those people suffering from it must eat gluten free.
+A lot of people are gluten sensitive or even allergic. This allergy is called **celiac disease** and it is in fact not an allergy but an **autoimmune disease**. Those people suffering from it must eat gluten free.
 
 
 Gluten is a wheat protein that some people are intolerant to. Generally, we have protease to <BlogLink to="http://science.sciencemag.org/content/297/5590/2275">break down this wheat protein</BlogLink>. However, some people cannot break it down *completely*.
@@ -82,14 +82,14 @@ While probably less than ten percent of the population is sensitive to gluten, t
 
 Luckily, these days there are a lot of gluten free grains as an alternative to traditional wheat. These include:
 
-Amaranth
-brown rice
-wild rice
-quinoa
-buckwheat (kasha)
-sorghum
-millet
-oats - (only if milled in differents mills than wheat, otherwise they are contaminated!)
+* Amaranth
+* brown rice
+* wild rice
+* quinoa
+* buckwheat (kasha)
+* sorghum
+* millet
+* oats - (only if milled in differents mills than wheat, otherwise they are contaminated!)
 
 ![stocking a healthy kitchen with grains](./images/rice.jpg)
 
@@ -103,7 +103,7 @@ Whether you buy gluten free or not: Try to buy organic and whole grain!
 
 Sugars come in many different forms, including **raw or organic**. It is **highly addictive** and can lead to health problems such as **heart diseases, obesity, diabetes** and it can even put you at higher risk for **certain types of cancer**. (<BlogLink to="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2235907/">1</BlogLink>, <BlogLink to="https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar">2</BlogLink>)
 
-Most sugars are made of sucrose, a disaccharide made of two monosaccharides: Fructose and glucose. These monosaccharides are digested differently by our body.
+Most sugars are made of **sucrose**, a disaccharide made of two monosaccharides: Fructose and glucose. These monosaccharides are digested differently by our body.
 
 <Subtitle id="healthy-kitchen-fructose">Absorption of fructose</Subtitle>
 
@@ -198,7 +198,9 @@ Its glycemic index is also lower compared to regular sugar which <BlogLink to="h
 
 Still, coconut sugar is high in calories - it actually contains the same amount of calories as regular sugar and should only be used sparingly.
 
-At the end of the day, these are all better alternatives to regular sugar. Whenever possible, you should steer clear of white table sugar.
+<Divider/>
+
+At the end of the day, these are all better alternatives to regular sugar, but still it's sugar. Whenever possible, you should steer clear of white table sugar.
 
 
 
