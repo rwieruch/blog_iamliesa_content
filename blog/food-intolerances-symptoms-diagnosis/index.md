@@ -97,11 +97,12 @@ The role of your G.I. tract is to take in the food you eat, break it down and ha
 Your G.I. tract also provides a **protective barrier between the food you eat and the inside of your body**. It’s only one very thin layer of cells that separates our digestive system from our bloodstream. When everything is healthy and functioning efficiently, only specific food molecules in specific places and at specific times can enter. When it’s compromised in any way, it may **let in food molecules that are not properly digested**. (<BlogLink to="http://www.whfoods.com/genpage.php?tname=faq&dbid=30">3</BlogLink>) This triggers the **immune system**, which tries to remove these substances: after all, that’s not a place for them to be. This triggers an inflammatory response throughout the body which can cause a **wide range of different unpleasant symptoms all over your body**.
 
 Furthermore, this can also trigger **reactions to usually harmless foods** due to high inflammation levels and confused immune cells. This may contribute to food allergies and sensitivities. Here the vicious circle begins as food sensitivities further drive inflammation levels and inflame the intestinal lining which exacerbates leaky gut. Can you see why a healthy gut is so important?
+
 <Subtitle id="gut-allergies-connection">The Connection Between The Gut Flora And Food Allergies</Subtitle>
 
 The key to a healthy gut is **bacteria**. Our digestive system is host to over 100 trillion bacteria cells. These beneficial bacteria are known as probiotics and they aid in the nourishment and defense of the digestive tract and the whole body. They also help maintain a **healthy microbial balance in the digestive system**. 
 
-Probiotics are also essential of the synthesization of B vitamins and vitamin K, and they **produce digestive enzymes** to help with the absorption of nutrients. 
+Probiotics are also essential for the synthesization of B vitamins and vitamin K, and they **produce digestive enzymes** to help with the absorption of nutrients. 
 
 Unfortunately, our often unhealthy lifestyle consisting of stress, medications, environmental toxins and a diet filled with refined foods and preservatives, can lead to a depletion of these naturally occurring bacteria.
 

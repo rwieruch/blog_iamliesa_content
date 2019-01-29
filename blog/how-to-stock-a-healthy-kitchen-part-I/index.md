@@ -2,13 +2,13 @@
 date: "2018-11-20T13:35:13.234Z"
 title: "How to stock a healthy kitchen: Fruits & Vegetables"
 description: "Filling your kitchen with healthy food isn't actually that difficult. When it comes to fruits and vegetables, there are some things to consider when buying them as the amount of nutrients highly depend on the quality of the food. Read here, how to stock a healthy kitchen with fruits and vegetables »"
-categories: ["health"]
+categories: ["health", "Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking fruits and vegetables", "how to stock a healthy kitchen"]
 hashtags: ["#health"]
 banner: "./images/veggies.jpg"
 author: ""
 contribute: ""
-starter: "Improve your Health"
+starter: "Stocking a healthy kitchen"
 ---
 
 import YouTube from 'react-youtube';
@@ -59,6 +59,7 @@ Due to the way they’re grown, there are certain fruits and veggies that are mo
 ![stocking a healthy kitchen organic food](./images/list_buy_organic.jpg)
 
 <Title id="healthy-kitchen-conclusion">Conclusion</Title>
+
 Of course, everybody knows that fruits and vegetables are a part of a healthy kitchen. However, the way fruits and veggies are grown, whether they are imported or not, and the time of buying them plays an important role in a food's nutrient-density.
 
 When buying fruits and vegetables, try to buy in-season, local, and organic food that is not genetically modified. If you follow these rules, you will make sure that your food contains the highest amount of nutrients possible.

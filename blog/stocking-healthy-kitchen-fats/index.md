@@ -2,7 +2,7 @@
 date: "2019-01-18T13:35:13.234Z"
 title: "Healthy fats: Stocking a healthy kitchen"
 description: "Fats have been banned from a healthy kitchen for quite some time. Research however shows, that fat is in fact not the devil we were lead to believe. Learn about healthy fats and how to cook with them in a safe way.»"
-categories: ["health"]
+categories: ["health", "Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking healthy fats", "how to stock a healthy kitchen", "healthy oil"]
 hashtags: ["#health"]
 banner: "./images/agriculture-blur-close-up-33783.jpg"
@@ -46,7 +46,9 @@ It’s not only heat that causes oil to oxidize. Also light and air are among a 
 Oil should be stored in **cool, dark places** and not just in the short term but throughout its life. That includes the transportation, the storage, the marketing and finally - your home. 
 
 When purchasing oil, look for **dark glass bottles** and always **screw the lid tightly** after using it. 
+
 <Subtitle id="saturated-unsaturated-fat">Saturated and unsaturated fats</Subtitle>
+
 According to the American Heart Association, **between 25 and 35 percent of your total daily caloric intake should consist of fat**. Most of this intake should be from **unsaturated fat**. 
 
 The chemical structure of saturated fat is made of single bonds that are resistant to heat and less reactive. Because fatty acids are packed tightly together the higher the saturated fat in an oil, the higher the smoke point, and the more stable an oil is. Saturated fat tends to be solid at room temperature (e.g. butter).
@@ -76,7 +78,7 @@ Another benefit is its antibacterial and antiviral properties which may help bal
 
 Another benefit of coconut oil is the lauric acid, a fatty acid that can improve cholesterol and kill pathogens and bacteria. 
 
-**Ghee** is a type of fat mad by heating butter. It is similar to clarified butter, meaning the milk solids like lactose, whey and casein have been removed. What’s left is just the fat. 
+**Ghee** is a type of fat made by heating butter. It is similar to clarified butter, meaning the milk solids like lactose, whey and casein have been removed. What’s left is just the fat. 
 
 Ghees benefits range from building stronger bones to enhancing weight loss. It’s also said to improve digestion and relieve inflammation. 
 
@@ -99,7 +101,7 @@ While **algae oil** may not sound super delicious, it is a very healthy choice f
 Just like avocado oil, it is higher in monounsaturated fat, which makes it less stable, and is high in DHA (docosahexaenoic acid), an omega-3-fatty acid that our bodies need for mental and physical health. Studies have shown that DHA from algae oil <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/22113870">reduces serum triglycerides and increases HDL cholesterol (the good cholesterol) and LDL cholesterol </BlogLink> in persons without heart diseases. 
 Apart from Algae oil offering an excellent fatty acids profile, it’s also popular for its neutral taste to it that doesn’t overpower food flavor.
 
-**Olive oil** is probably the most famous among the healthy oils. It consists of close to 75 percent monounsaturated fats such as oleic acid and is known for its heart healthy effects. 
+**Olive oil** is probably the most famous among the healthy oils. It consists of close to 75 percent monounsaturated fats such as oleic acid, which makes it very heat-stable, and is known for its heart healthy effects. 
 
 Oleic acid is connected to reducing <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/16484595">inflammation</BlogLink> and it may even have beneficial effects on genes that are linked to cancer (<BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/15642702">1</BlogLink>, <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/17168666">2</BlogLink>).
 
@@ -112,7 +114,9 @@ Apart from beneficial fatty acids and antioxidants, olive oil also contains a mo
 To get the greatest amount of nutrients, buying the right olive oil is important. Extra virgin olive oil (EVOO) is considered to be especially healthy as it retains some of the antioxidants found in olives. But be careful, there is a lot of fraud on the olive oil market and “extra virgin” may in fact not always be what you get. Thus it’s very important that you read the label carefully. 
 
 Olive oil has a smoke point range of 325 to 375 °F. If you opt for refined olive oil, the smoke point is with 425 °F even a little higher.
+
 <Title id="cooking-oil-avoid">Cooking oils to avoid</Title>
+
 By now it should be obvious that the oils we store in our kitchen aren’t all the same and we cannot condemn all the fats out there. Some are in fact beneficial for us, but some on the other hand should be avoided. These include:
 
 * canola oil

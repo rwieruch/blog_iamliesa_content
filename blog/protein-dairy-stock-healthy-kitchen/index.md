@@ -2,7 +2,7 @@
 date: "2018-11-23T13:35:13.234Z"
 title: "Protein & Dairy: Stocking a healthy kitchen"
 description: "Filling your kitchen with healthy food isn't actually that difficult. When it comes to fruits and vegetables, there are some things to consider when buying them as the amount of nutrients highly depend on the quality of the food. Read here, how to stock a healthy kitchen with fruits and vegetables »"
-categories: ["health"]
+categories: ["health", "Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking protein and dairy", "how to stock a healthy kitchen"]
 hashtags: ["#health"]
 banner: "./images/protein.jpg"
@@ -65,7 +65,6 @@ The cattle’s diet affects the nutrients and fats you get from eating. “You a
 	* vitamin C
 	* conjugated linoleic acid (CLA)
 	* beta-carotene
-	* omega-3
 	* B-vitamins
 	* calcium
 	* magnesium
@@ -121,13 +120,13 @@ When buying seafood, always read the label first. After all, you want stock your
 
 **Wild fish** really is just that: Fish that is a **100% wild**. It **lived in its natural habitat, the ocean, river or lake, for its full lifecycle**, and was caught in the wild. Because wild fish isn’t as abundant as it once was and can’t meet consumers demand, fish is **commercially raised**, which is known as **farm-raised or aquaculture**. These fish-farms have grown significantly over the years, meaning that many fish have never lived in the wild but were always kept in tanks, pens, or ponds. While fish farming is a way to get a much larger amount of fish quickly and cheaply, there is of course a downside to it.
 
-	* Pollution: Since quite a lot of fish are cramped into a small space, problems like disease and pollution occur easily.
+* Pollution: Since quite a lot of fish are cramped into a small space, problems like disease and pollution occur easily.
 
-	* Antibiotic Use: To prevent diseases, some aquaculture productions rely on the use of antibiotics.
+* Antibiotic Use: To prevent diseases, some aquaculture productions rely on the use of antibiotics.
 
-	* Pesticide Use: Due to an increasing problem with sea lice in fisheries around the world, pesticides are sometimes used.
+* Pesticide Use: Due to an increasing problem with sea lice in fisheries around the world, pesticides are sometimes used.
 
-As with all living beings, fish are what they eat. Wild salmon for example eats smaller fish, which eats aquatic plants that is full of beneficial long-chain omega-3 fatty acids DHA and EPA. Farm-raised salmon is fed pellets, which varies in nutritional quality. Therefore **farm-raised salmon is lower in nutrient-lower**.
+As with all living beings, fish are what they eat. Wild salmon for example eats smaller fish, which eats aquatic plants that is full of beneficial long-chain omega-3 fatty acids DHA and EPA. Farm-raised salmon is fed pellets, which varies in nutritional quality. Therefore **farm-raised salmon is lower in nutrients**.
 
 Last but not least, there is **wild-caught fish**. Wild-caught fish are caught in their natural environment using hands-lines, nets, divers or traps. Some fish, however, can be wild-caught and farm-raised as wild fish are caught as babies, taken to pens and fattened up. Therefore opting for 100% wild fish would be the best option.
 
