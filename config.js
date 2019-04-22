@@ -13,22 +13,22 @@ module.exports = {
   title: 'Ia.Liesa',
   // can be specified in frontmatter
   description:
-    'German copywriter freelancer and social media consultant helping your company to succeed with content marketing.',
+    'Berlin based copywriter freelancer and social media consultant helping your company to succeed with content marketing.',
 
   // can be specified in frontmatter
   author: 'Liesa Huppertz',
   // can be specified in frontmatter
   keywords: [
+    'freelancer',
+    'consultant',
+    'german',
+    'berlin',
     'social media',
     'content marketing',
     'nutritions',
     'health',
     'fitness',
     'digital nomad',
-    'freelancer',
-    'consultant',
-    'german',
-    'female entrepreneur blog',
   ],
 
   hashtags: ['#socialmedia', '#consultant', '#nutritions'],
@@ -40,13 +40,13 @@ module.exports = {
       'https://github.com/rwieruch/blog_iamliesa_content/tree/master/blog',
 
     recentPosts: {
-      label: 'Most Recent',
+      label: 'Most recent articles',
     },
     starterPosts: {
       label: 'How to get started?',
     },
     bestOfPosts: {
-      label: 'Best Of',
+      label: 'Best of',
     },
     featuredPosts: {
       labelPrefix: 'All about',
@@ -300,9 +300,9 @@ module.exports = {
     header: 'JOIN THE HEALTH MOVEMENT',
     subheader: 'Sign up for my Newsletter to receive',
     items: [
-   'Delicious & Nourishing Recipes',
-   'Inspiring Articles & Interesting Reads',
-   'Tips & Tricks to live a Healthier Life'
+      'Delicious & Nourishing Recipes',
+      'Inspiring Articles & Interesting Reads',
+      'Tips & Tricks to live a Healthier Life',
     ],
   },
   subfooter: {
