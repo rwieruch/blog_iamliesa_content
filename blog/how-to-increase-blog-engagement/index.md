@@ -10,9 +10,6 @@ contribute: ""
 starter: "Learn Content Marketing"
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 Engagement on your blog proves to new readers that your content is worth reading, plus it also gives you the perfect opportunity to get in contact with your audience and show them that you care. In the long run, invested visitors mean $$ in the bank as they are more likely to buy from you than those who don’t know you at all.
 
 On the other hand, a blog that looks like a ghost town will give new visitors the impression that there’s nothing worth sticking around for. Hence, your goal with every blog post should be to promote engagement.

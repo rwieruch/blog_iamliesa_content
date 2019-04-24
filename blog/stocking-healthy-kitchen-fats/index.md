@@ -10,11 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import YouTube from 'react-youtube';
-import BlogLink from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
-
 Shelves in supermarkets are full of low fat products and the industry has long been trying to convince us that fat is the enemy to a slim figure. As a result, people started to eat more sugar, refined carbs and processed foods instead, causing our society to become fatter and sicker.
 
 However, times have changed and studies show that **fat is indeed not the devil we believed it to be**. Quite the contrary: **Fat should be part of a healthy kitchen** and there are healthy fats, too. It’s simply about the kind of fat that we are putting into our bodies that we should pay attention to. (<BlogLink to="http://annals.org/aim/article-abstract/1846638/association-dietary-circulating-supplement-fatty-acids-coronary-risk-systematic-review">1</BlogLink>, <BlogLink to="https://www.ncbi.nlm.nih.gov/pubmed/20071648">2</BlogLink>)

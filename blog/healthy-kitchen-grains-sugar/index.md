@@ -10,10 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import YouTube from 'react-youtube';
-import BlogLink from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 Grains belong into the group of **carbohydrates**. Carbohydrate evoke different emotions around health enthusiasts and there is always a big debate going on whether they are an essential component of a healthy diet or whether they are harmful.
 
 In the US, health authorities recommend eating 5 to 6 servings of grain for women, and 6 to 8 for men. On the other hand, some health experts recommend to steer clear from grain altogether.

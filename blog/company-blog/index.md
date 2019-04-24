@@ -10,9 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 In today’s world, having a website is essential for a business to make money. Every ever so small business is represented online, from small shops to giant companies. Looking at company websites, we can also see another development: Almost every company has a blog. But is that really necessary? Is a blog essential for a company’s success and if so, how and why? These are questions that I want to answer today.
 
 Blogging is a powerful way to promote your online business but there are still companies out there that are hesitant to jump into the blogging world. For good reasons! It takes a lot of time and commitment to build a successful blog. The first few months or even years will be hard. Unless you have a lot of writers who can come up with great content, you will most likely not see the results you were hoping for very soon. However, if your company is committed to make it work and pulls through the first discouraging months, there are a lot of benefits waiting on the other side of the river.

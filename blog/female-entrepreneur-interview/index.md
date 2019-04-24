@@ -10,9 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Divider } from '$components/mdx';
-
 At the moment, I love listening to podcast of female entrepreneurs sharing their story. Even though I cannot follow their biography step by step, after listening to a handful of interviews, you connect the dots of the most important ingredients to become a female entrepreneur. In this article, I want to share all interviews I have found yet only partly listened to them myself so far, to be honest. If you have other inspiring podcasts, podcast episodes, or also written interviews, you can share them in the comments below. It would be great to have an extensive list of interviews of successful business women at one place.
 
 Before I start with the podcast interviews and written interviews of successful women in business, I want to share with you my top source to find out more about successful women (and men). It's AMAs! I love AMAs (Ask Me Anything), because not an interviewer is asking the questions, but a community of people. There is a great variety of questions to ask a woman entrepreneur depending on their field of expertise. That's why I love this <BlogLink to="https://www.reddit.com/r/IAmA/">Ask Me Anything on Reddit</BlogLink>. There is no filter for female entrepreneur's AMA, but you may figure it out yourself by sorting the Subreddit by popularity and looking for the names of the people doing the AMA. I love to go through the list myself and finding yet another interesting collection of questions answered by a successful individual.

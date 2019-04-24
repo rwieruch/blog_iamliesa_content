@@ -11,10 +11,6 @@ contribute: ""
 bestOf: true
 ---
 
-import YouTube from 'react-youtube';
-import BlogLink from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 When in proper balance, hormones **help the body thrive**, leaving you feel **energized and well**. However, only small problems with hormones can be the cause of serious and life-altering symptoms. That is why it is crucial to listen to your body and be able to detect any imbalances in your hormonal system. In this introduction you’ll learn **what hormones are exactly, what functions they have, which hormones belong to the key players in your body and what symptoms can occur when your hormones are off**.
 
 <Title id="introduction-hormones">What are hormones?</Title>

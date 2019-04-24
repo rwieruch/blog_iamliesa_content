@@ -8,9 +8,6 @@ contribute: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/pages
 author: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 As a copywriter, I am writing for clients from various industries. Some of my latest work as freelance copywriter:
 
 * <BlogLink to="https://www.concentrix.eu/magazin/">Blog for a dietary supplement company for better concentration</BlogLink>

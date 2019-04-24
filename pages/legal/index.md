@@ -6,9 +6,6 @@ contribute: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/pages
 author: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 <Title>Legal Notice, Terms and Privacy Policy (English)</Title>
 
 <Subtitle>Information in accordance with § 5 German Broadcast Media Act (TMG) and responsible for content according to § 55 paragraph 2 RStV:</Subtitle>

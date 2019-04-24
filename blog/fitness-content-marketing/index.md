@@ -10,10 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import YouTube from 'react-youtube';
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 No industry has tackled content marketing quite as well as the fitness industry. For good reasons: Staying fit and living healthy starts with a mental decision. From incorporating workouts into your busy schedule to believing that you can achieve anything - the right mindset is irreplaceable. That’s where content marketing comes into play: The right storytelling  can motivate and inspire people to perform their best and build communities of like-minded people on social media.
 
 Here are the biggest fitness content marketing trends in 2018 for fitness brands to get their audience hungry for their next workout!

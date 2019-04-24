@@ -10,10 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import YouTube from 'react-youtube';
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 Using Content Marketing to attract more customers? The nutrition and supplementary company Your Superfoods demonstrates how it’s done. I will show you how Your Superfoods uses Content Marketing Strategies by showing various food marketing examples deployed by them to get more people to eat healthy and buy their food products.
 
 Buying dietary supplements isn’t for everybody. It needs trust in a product, in a company, and in a lifestyle that might benefit you in order to make a sell. That’s why it is important to build a trustworthy relationship with customers right from the start. Your Superfoods is exactly doing that with their content marketing.

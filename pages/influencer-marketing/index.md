@@ -8,9 +8,6 @@ contribute: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/pages
 author: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 Being responsible for influencer marketing during my career, I initiated partnerships. A selection of influencers I worked with during my time at Wimdu and Deluxe Distribution:
 
 * <BlogLink to="https://www.instagram.com/novalanalove/">Novalanalove</BlogLink>

@@ -10,9 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 When you close your eyes and imagine the very best version of yourself, what do you see?
 
 That was the question asked by <BlogLink to="http://ralfbohlmann.com/">Ralf Bohlmann</BlogLink> during a <BlogLink to="http://detoxrebels.com/">detox conference</BlogLink> I attended. Maybe you see yourself with five kilos less, maybe you have tighter thighs or more abs. I’m pretty sure you have a clear picture in your head. The question is, how do you become this version of yourself?

@@ -11,9 +11,6 @@ contribute: ""
 bestOf: true
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 Hormones **control nearly every aspect for our body**, from how we feel to how much energy we have during the day or how easily we are losing that little christmas pooch.
 
 They play a profound role in your appetite, weight, and mood just to mention a few areas of work.

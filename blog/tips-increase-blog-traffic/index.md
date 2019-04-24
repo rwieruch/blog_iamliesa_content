@@ -10,9 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import { BlogLink } from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
 According to HubSpot, generating traffic and leads is one of the biggest struggle for companies. With 63%, getting people on the website it is actually their number one problem.
 
 One approach to tackle this problem, as shown in last week’s blog post, is by starting a company blog. That’s why <BlogLink to="https://www.hubspot.com/marketing-statistics">53% of marketers say that blog content creation is their top inbound marketing priority</BlogLink>.

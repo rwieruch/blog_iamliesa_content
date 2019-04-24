@@ -10,11 +10,6 @@ author: ""
 contribute: ""
 ---
 
-import YouTube from 'react-youtube';
-import BlogLink from '$components/Link';
-import { Title, Subtitle, Divider } from '$components/mdx';
-
-
 Protein is essential in the process of stocking a healthy kitchen. 15 to 25 percent of our energy intake (kilojoule) should actually be coming from high quality protein. It is responsible for multiple functions in our body, such as building tissue and cells as well as making hormones and antibodies. They break down into amino acids and are the building blocks for muscles and gaining strength.
 
 Steak, chicken, and fish are often center pieces of dinner or lunch and milk and dairy can be found in every refrigerator. To help you decide for the healthiest options, let’s look at the terminology used to describe sources of protein and what to look out for when stocking your kitchen.
