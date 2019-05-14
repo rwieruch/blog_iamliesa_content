@@ -42,28 +42,26 @@ But here comes the tricky part: an **animal can be referred to as grass-fed but 
 
 A 100% grass-fed and grass-finished producers are certified by the American Grassfed Organisation and must meet strict rules:
 
-	* Animals must be born and raised on US pasture
-	* They are raised on pasture and never confined to a feedlot
-	* Animals must only grass and forage
-	* They must never been treated with antibiotics or hormones
+* Animals must be born and raised on US pasture
+* They are raised on pasture and never confined to a feedlot
+* Animals must only grass and forage
+* They must never been treated with antibiotics or hormones
 
 To reap all the benefits meat coming from grass-fed animals have to offer, grass-finished would be ideal. It means that the animal wasn’t fattened up with any grains but was raised on grass for its whole life.
 
 Grass-fed and especially grass-finished cattle is also associated with certain nutritional benefits.
 
-
 The cattle’s diet affects the nutrients and fats you get from eating. “You are what you eat” applies for cows too. Meat coming from grass-fed and grass-finished cattle has a far better nutritional profile than meat coming from feedlots. Pastured meats generally contain more of the following:
 
-
-	* vital omega-3 fatty acids - up to five times as much.
-	* vitamin E
-	* vitamin C
-	* conjugated linoleic acid (CLA)
-	* beta-carotene
-	* B-vitamins
-	* calcium
-	* magnesium
-	* antioxidants
+* vital omega-3 fatty acids - up to five times as much.
+* vitamin E
+* vitamin C
+* conjugated linoleic acid (CLA)
+* beta-carotene
+* B-vitamins
+* calcium
+* magnesium
+* antioxidants
 
 It also has a lower amount of fat overall. So, when shopping for meat, look for options that are pasture-raised, organic, grass-fed and grass finished.
 

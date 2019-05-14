@@ -8,7 +8,6 @@ banner: "./images/balance_hormones_food.jpg"
 hashtags: ["#hormonalbalance"]
 author: ""
 contribute: ""
-bestOf: true
 ---
 
 Hormones **control nearly every aspect for our body**, from how we feel to how much energy we have during the day or how easily we are losing that little christmas pooch.

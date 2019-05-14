@@ -8,7 +8,6 @@ hashtags: ["#health"]
 banner: "./images/veggies.jpg"
 author: ""
 contribute: ""
-starter: "Stocking a healthy kitchen"
 ---
 
 Stocking a healthy kitchen is actually not that difficult. There is only one rule to follow when it comes to fruits and veggies: Buy fresh, local, organic, and in-season produce. These non-starchy carbohydrates contain tons of minerals, vitamins, and fiber, that keep us healthy and boost our biological processes. The question of when, where, and how your food is grown is essential to know in order to only purchase the cleanest and most nutrient-dense produce. In this article you will learn what’s important when it comes to buying fruits and veggies in order to get the highest amount of nutrients possible.

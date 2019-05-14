@@ -7,7 +7,6 @@ hashtags: ["#contentMarketing"]
 banner: "./images/microphone.jpg"
 author: ""
 contribute: ""
-starter: "Learn Content Marketing"
 ---
 
 Engagement on your blog proves to new readers that your content is worth reading, plus it also gives you the perfect opportunity to get in contact with your audience and show them that you care. In the long run, invested visitors mean $$ in the bank as they are more likely to buy from you than those who don’t know you at all.

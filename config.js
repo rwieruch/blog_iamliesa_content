@@ -39,31 +39,45 @@ module.exports = {
     contributeBase:
       'https://github.com/rwieruch/blog_iamliesa_content/edit/master/blog/',
 
-    recentPosts: {
-      label: 'Most recent articles',
-    },
-    starterPosts: {
-      label: 'How to get started?',
-    },
-    bestOfPosts: {
-      label: 'Best of',
-    },
-    featuredPosts: {
-      labelPrefix: 'All about',
-      // provide an order of categories for the blog page
-      categories: ['content marketing', 'health'],
-    },
-
-    // how many posts should show up per category on /blog
-    limit: 4,
-
     // how many posts should show up on /category
     pagination: 10,
-  },
 
-  categories: {
     slug: '/categories',
-    slugSuffix: 'learn-',
+
+    otherCategories: {
+      prefix: 'All about',
+      suffix: '',
+      labelFn: category => category,
+      limit: 4,
+    },
+
+    configuredCategories: [
+      {
+        prefix: 'All about xz',
+        suffix: '',
+        labelFn: () => 'Hormones',
+        limit: 4,
+        customCategory: false,
+        byGrouping: {
+          category: 'hormones',
+        },
+      },
+      {
+        prefix: 'Most',
+        suffix: 'articles',
+        labelFn: () => 'recent',
+        limit: 4,
+        customCategory: true,
+        byGrouping: {
+          category: 'recent',
+          categoryFn: edges =>
+            edges.sort(
+              (a, b) =>
+                new Date(b.node.fields.date) - new Date(a.node.fields.date),
+            ),
+        },
+      },
+    ],
   },
 
   // analytics defined in .env file
