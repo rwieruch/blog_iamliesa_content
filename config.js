@@ -53,7 +53,7 @@ module.exports = {
 
     configuredCategories: [
       {
-        prefix: 'All about xz',
+        prefix: 'All about',
         suffix: '',
         labelFn: () => 'Hormones',
         limit: 4,
@@ -63,9 +63,9 @@ module.exports = {
         },
       },
       {
-        prefix: 'Most',
-        suffix: 'articles',
-        labelFn: () => 'recent',
+        prefix: '',
+        suffix: '',
+        labelFn: () => 'Most recent articles',
         limit: 4,
         customCategory: true,
         byGrouping: {
@@ -124,15 +124,15 @@ module.exports = {
     subheader: 'Something you should know.',
     social: [
       {
-        icon: 'linkedinRound',
+        icon: 'linkedin-round',
         url: 'https://www.linkedin.com/in/liesahuppertz/',
       },
       {
-        icon: 'instagramRound',
+        icon: 'instagram-round',
         url: 'https://www.instagram.com/i_am_liesa/',
       },
       {
-        icon: 'twitterRound',
+        icon: 'twitter-round',
         url: 'https://twitter.com/i_am_liesa',
       },
       { icon: 'email', url: 'mailto:liesa.huppertz@gmail.com' },
@@ -163,20 +163,20 @@ module.exports = {
           'A good story connects a company and its customer. I write engaging and on-brand content, which is well-grounded by research and data-analysis if needed.',
       },
       {
-        icon: 'heart',
+        icon: 'health-care',
         label: 'Social Media',
         description:
           "Social Media means more than scheduling a post once in a while. It's about community engagement, influencers, channel analysis and quality content.",
       },
       {
-        icon: 'influencer',
+        icon: 'man-in-a-party-dancingW-with-people',
         label: 'Influencer',
         description:
           'Identifying influencers in a domain is a key aspect to growth. I know what to look for in an influencer to get the best coverage for your company.',
       },
 
       {
-        icon: 'searchData',
+        icon: 'search-data',
         label: 'SEO',
         description:
           'Good content has two purposes mainly: being found by Google and connecting company and customer. I make sure not only that your content is found online but also that it sounds great.',
@@ -188,7 +188,7 @@ module.exports = {
           "Journalist outreach, writing press releases and organizing events are just a few things I learned during my career in PR. Let me help you getting your company's name out there.",
       },
       {
-        icon: 'growth',
+        icon: 'plant-pot',
         label: 'Growth',
         description:
           'One needs to have a large set of skills to grow a business. I think outside of the box to identify the most efficient and effective ways to help you grow your company.',
@@ -362,15 +362,15 @@ module.exports = {
     copyright: '© Liesa Huppertz',
     social: [
       {
-        icon: 'linkedinRound',
+        icon: 'linkedin-round',
         url: 'https://www.linkedin.com/in/liesahuppertz/',
       },
       {
-        icon: 'instagramRound',
+        icon: 'instagram-round',
         url: 'https://www.instagram.com/i_am_liesa/',
       },
       {
-        icon: 'twitterRound',
+        icon: 'twitter-round',
         url: 'https://twitter.com/i_am_liesa',
       },
     ],
