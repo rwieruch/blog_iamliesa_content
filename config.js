@@ -113,6 +113,8 @@ module.exports = {
 
   // Landing Page
 
+  order: ['hero', 'about', 'services', 'portfolio', 'vita', 'testimonial'],
+
   hero: {
     header: 'I am Liesa',
     subheader:
