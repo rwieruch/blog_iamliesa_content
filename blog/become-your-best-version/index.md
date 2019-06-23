@@ -50,7 +50,6 @@ The most important source of energy for the body is the carbohydrate. It fuels b
 
 In order to work properly, our body needs nutrients. An essential nutrient is one that our body cannot synthesize on its own. Therefore, it must be provided by the diet. The six essential nutrients include carbohydrates, protein, vitamins, water, minerals, and fat.
 
-
 **c. What are Vital Substances**
 
 To allow the smooth functioning of all metabolic processes, vital substances are essential constituents. They are needed in varying amounts. Vital substances are thought to include all the vitamins, trace elements and minerals as well as the amino acids, essential fatty acids, and fibre. All these substances are found in vegetable food. That is why as kids we are taught to eat five portions of fruit and vegetables a day.
