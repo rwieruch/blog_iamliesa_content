@@ -18,7 +18,7 @@ Here are five major reasons, why your company should start blogging today.
 
 ![content marketing company blog](./images/content_marketing.jpg)
 
-<Title id="reasons-for-company-blog">Top 5 Reasons for having a Company Blog</Title>
+# Top 5 Reasons for having a Company Blog
 
 There are certainly a lot of reasons for starting a company blog. Here I want to focus on what I think are the five most important reasons to get started writing one. But as I said, there are a lot more reasons why it might be beneficial employ a blog writer.
 
@@ -28,7 +28,7 @@ How do you sell a product that nobody knows about? Exactly: You don’t sell it 
 
 That’s where blogging comes into play, because believe it or not: Users don’t usually go online for the sole purpose of buying what companies are selling. They go online because they need some sort of information. They are interested in certain topics and want to know more about them. Once they got all the information they need, they decide where to buy from. However, companies still throw out money by trying to target customers with online advertising when they could have just given free information to attract new customers.
 
-So instead of spending your money on advertisement, you should put your efforts into optimizing your blog content. Pick highly-effective keywords that are relevant to your business and naturally integrate them throughout your posts. This strategy needs time and there is much more to it than identifying keywords and writing several posts using them. However, this is not the post to go deeper into that topic. If you want to know more about SEO, I highly recommend looking at the post *Blogging for SEO* by <BlogLink to="https://blog.hubspot.com/marketing/blogging-for-seo">HubSpot</BlogLink>.
+So instead of spending your money on advertisement, you should put your efforts into optimizing your blog content. Pick highly-effective keywords that are relevant to your business and naturally integrate them throughout your posts. This strategy needs time and there is much more to it than identifying keywords and writing several posts using them. However, this is not the post to go deeper into that topic. If you want to know more about SEO, I highly recommend looking at the post *Blogging for SEO* by [HubSpot](https://blog.hubspot.com/marketing/blogging-for-seo).
 
 **#2 Every post is a possibility for another lead**
 

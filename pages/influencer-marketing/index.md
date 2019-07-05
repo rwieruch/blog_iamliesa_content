@@ -10,10 +10,10 @@ author: ""
 
 Being responsible for influencer marketing during my career, I initiated partnerships. A selection of influencers I worked with during my time at Wimdu and Deluxe Distribution:
 
-* <BlogLink to="https://www.instagram.com/novalanalove/">Novalanalove</BlogLink>
-* <BlogLink to="https://www.facebook.com/sabinelisicki/">Sabine Lisicki</BlogLink>
-* <BlogLink to="https://www.facebook.com/raulrichter/">Raul Richter</BlogLink>
-* <BlogLink to="http://curlsallover.com/">Curls all over</BlogLink>
-* <BlogLink to="https://www.facebook.com/Isabell-Horn-124880070928933/">Isabell Horn</BlogLink>
-* <BlogLink to="https://www.instagram.com/thegoldencherry/">Thegoldencherry</BlogLink>
-* <BlogLink to="https://www.instagram.com/kleidermaedchen/">Kleidermädchen</BlogLink>
+* [Novalanalove](https://www.instagram.com/novalanalove/)
+* [Sabine Lisicki](https://www.facebook.com/sabinelisicki/)
+* [Raul Richter](https://www.facebook.com/raulrichter/)
+* [Curls all over](http://curlsallover.com/)
+* [Isabell Horn](https://www.facebook.com/Isabell-Horn-124880070928933/)
+* [Thegoldencherry](https://www.instagram.com/thegoldencherry/)
+* [Kleidermädchen](https://www.instagram.com/kleidermaedchen/)

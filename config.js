@@ -53,16 +53,6 @@ module.exports = {
 
     configuredCategories: [
       {
-        prefix: 'All about',
-        suffix: '',
-        labelFn: () => 'Hormones',
-        limit: 4,
-        customCategory: false,
-        byGrouping: {
-          category: 'hormones',
-        },
-      },
-      {
         prefix: '',
         suffix: '',
         labelFn: () => 'Most recent articles',
@@ -77,6 +67,16 @@ module.exports = {
             ),
         },
       },
+      // {
+      //   prefix: 'All about',
+      //   suffix: '',
+      //   labelFn: () => 'Hormones',
+      //   limit: 4,
+      //   customCategory: false,
+      //   byGrouping: {
+      //     category: 'hormones',
+      //   },
+      // },
     ],
   },
 

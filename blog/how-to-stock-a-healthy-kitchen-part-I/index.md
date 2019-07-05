@@ -12,13 +12,13 @@ contribute: ""
 
 Stocking a healthy kitchen is actually not that difficult. There is only one rule to follow when it comes to fruits and veggies: Buy fresh, local, organic, and in-season produce. These non-starchy carbohydrates contain tons of minerals, vitamins, and fiber, that keep us healthy and boost our biological processes. The question of when, where, and how your food is grown is essential to know in order to only purchase the cleanest and most nutrient-dense produce. In this article you will learn what’s important when it comes to buying fruits and veggies in order to get the highest amount of nutrients possible.
 
-<Title id="healthy-kitchen-buy-in-season">Buy in-season when possible</Title>
+# Buy in-season when possible
 
 Buying in-season helps to ensure that you buy the **freshest and the most nutrient-dense food**. Seasonal food is produce that is purchased and consumed at around the same time when it is harvested. It is a specific time when a produce is picked in your geographical region and sold to the market.
 
 Of course, these times vary for different produce. Different crops need different conditions to grow. Some grow better over the winter, some better over summer. Also the weather and growing conditions play a major role. They may bring some variation to the harvest time, but usually the harvest for specific produce is around the same time each year.
 
-<Title id="healthy-kitchen-local-food">Buy food that is grown locally</Title>
+# Buy food that is grown locally
 
 Our **bodies are designed to eat fruits and vegetables in season**. After all, there were no supermarkets and no ex- and imports back in the days. Eating in-season foods has another advantage to it: It helps you to eat more food that is grown locally. That is not only very important from a nutritional standpoint, but also from an environmental one.
 
@@ -30,22 +30,21 @@ The traveling time also affects the nutrient value. This is due to a process cal
 
 The respiration time of produce vary, e.g. broccoli, peas, mushrooms, sweet corn and asparagus have a very high respiration rate which makes them lose nutrition and flavor more quickly than e.g. garlic, apples or onions which have low respiration rates. **The longer produce has to breathe before it’s consumed, thus, the longer it has to travel to get to you, the more nutrients it loses.** For example: Just one week post-harvest, the amount of Vitamin C in broccoli was almost undetectable. Stress of travel, fluctuation in temperature and rough handling can even exacerbate this process. That means, that less transit time will ensure that you’ll get the highest amount of nutrients out of your food. Thus, local food that you can eat right after harvest is the healthiest choice. Plus, locally grown products tend to be more seasonal.
 
-<Title id="healthy-kitchen-organic-food">Try to buy organic food</Title>
+# Try to buy organic food
 
 The best place to buy in-season is the **local farmers market**. However, local doesn’t always mean that the produce was grown with organic methods. To make sure it is, just ask your local farmer about his growing methods.
-
 
 ![stocking a healthy kitchen organic food](./images/farmers_market.jpg)
 
 In a green kitchen, food should be **organic and non-GMO**. Organic means that it is grown on farms committed to sustainable and environmentally friendly agricultural methods. These farms need to be **certified and meet strict standards about how fruits and vegetables are grown**. This affects e.g. the permissible levels of pesticides, chemical fertilizers and other synthetic additives or the use of industrial solvents and irradiation. Those are all substances that people don’t want in their food plus the can pollute the environment through water and soil contamination.
 
-<Title id="healthy-kitchen-no-GMO">Be mindful of GMO</Title>
+# Be mindful of GMO
 
 Another thing to be mindful about is the **use of GMO** (genetically modified organisms). The traditional crop growing has been done for centuries. However, in the last decades we have started to alter the genetic makeup of plants and have genetically engineered them for specific purposes. This creates plants, bacteria, animals and virus genes that don’t occur in nature this way.
 
 GMO is presumed to be connected to **health problems, environmental damage and violation of farmers’ and consumers’ rights**. Crops like corn, soy or cotton are often genetically modified and often packaged foods are derived from them.
 
-<Title id="healthy-kitchen-organic-food-choice">It’s your own choice to buy organic food</Title>
+# It’s your own choice to buy organic food
 
 Buying organically is a personal decision but many find that it just tastes better and they are happy for the restriction in potentially harmful additives.
 
@@ -53,7 +52,7 @@ Due to the way they’re grown, there are certain fruits and veggies that are mo
 
 ![stocking a healthy kitchen organic food](./images/list_buy_organic.jpg)
 
-<Title id="healthy-kitchen-conclusion">Conclusion</Title>
+<Divider />
 
 Of course, everybody knows that fruits and vegetables are a part of a healthy kitchen. However, the way fruits and veggies are grown, whether they are imported or not, and the time of buying them plays an important role in a food's nutrient-density.
 

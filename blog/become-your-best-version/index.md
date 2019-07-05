@@ -12,7 +12,7 @@ contribute: ""
 
 When you close your eyes and imagine the very best version of yourself, what do you see?
 
-That was the question asked by <BlogLink to="http://ralfbohlmann.com/">Ralf Bohlmann</BlogLink> during a <BlogLink to="http://detoxrebels.com/">detox conference</BlogLink> I attended. Maybe you see yourself with five kilos less, maybe you have tighter thighs or more abs. I’m pretty sure you have a clear picture in your head. The question is, how do you become this version of yourself?
+That was the question asked by [Ralf Bohlmann](http://ralfbohlmann.com/) during a [detox conference](http://detoxrebels.com/) I attended. Maybe you see yourself with five kilos less, maybe you have tighter thighs or more abs. I’m pretty sure you have a clear picture in your head. The question is, how do you become this version of yourself?
 
 I know myself that the way is pretty hard. It usually means you have to skip dessert, go to the gym instead of to the cinema or go with the veggies instead of the French fries. So how do you stay motivated to finally become the best version of yourself and is sports and dieting alone really the answer?
 
@@ -20,7 +20,7 @@ I thought that this topic fits perfectly at the end of a year when everybody see
 
 ![your best version](./images/freedom.jpg)
 
-<Title id="five-components">The five components to become the best version of yourself</Title>
+# The five components to become the best version of yourself
 
 Becoming the best version of yourself, is indeed not only about dieting and sport. Instead, five components are essential:
 
@@ -96,23 +96,23 @@ You don’t have to be an esoteric to believe that the way we think and what we 
 
 We all know how positive thoughts can put us in a "Yes, I can do this!" position. Negative or restrictive thoughts, however, can make losing weight a lot more difficult. Constantly focusing on what you’re not allowed to eat or what you cannot do can sabotage your weight loss efforts as you will be stuck with all the negative thoughts in your head, which make you feel bad. Wouldn’t it be much easier to focus on all the things you CAN eat and you CAN do instead of thinking about those that are restricted?
 
-<Title id="becoming-the-best-version">So how do I become the best version of myself now?</Title>
+# So how do I become the best version of myself now?
 
 I’m sure you are familiar with the power of images. The power of images is very strong. Thus, huge goals that you visualize in your head are a great motivation to become the best version of yourself. Try to really have a picture in your head. What do you look like, how do you feel?
 
 In order to get to your goal, try to extend your comfort zone around your habits. Trying to change all at once and totally changing your lifestyle will only leave you frustrated. Maybe you can start with breakfast. Instead of bread with butter and jam why not try out some cereals with yogurt and fruits? And instead of subscribing to your local gym right away, why not go for a walk during lunch break? You will see that all those tiny changes will feel totally natural after a while. You will feel better, have more energy and maybe even lose a few kilos. But what’s most important: You will be healthier. And always keep in mind: Attractiveness is health that can be seen from the outside.
 
-<Title id="recommendations">Recommendations</Title>
+<Divider />
 
 If you are interested in the topics mentionned above and would like to read more about them, I highly recommend these reads:
 
-* <BlogLink to="https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011345&sr=1-9&linkCode=ll1&tag=21moves-20&linkId=b444919b494b3fedbc86fe57b9c0cf7e">The Gifts of Imperfections</BlogLink>
+* [The Gifts of Imperfections](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011345&sr=1-9&linkCode=ll1&tag=21moves-20&linkId=b444919b494b3fedbc86fe57b9c0cf7e)
 
-* <BlogLink to="https://www.amazon.com/Life-Earth-Understanding-Here-Ahead/dp/1401945570/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011665&sr=1-25&linkCode=ll1&tag=21moves-20&linkId=91d2656a2826a98f6fffd7454f996ed0">Life on Earth</BlogLink>
+* [Life on Earth](https://www.amazon.com/Life-Earth-Understanding-Here-Ahead/dp/1401945570/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011665&sr=1-25&linkCode=ll1&tag=21moves-20&linkId=91d2656a2826a98f6fffd7454f996ed0)
 
-* <BlogLink to="https://www.amazon.com/gp/product/1561706124/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=GBGV2T61EQ6V3DNNV0SM&pf_rd_t=101&pf_rd_p=3ba4cf8e-6189-5ac2-acc4-4a9678f8e7bf&pf_rd_i=282868&linkCode=ll1&tag=21moves-20&linkId=3822013a040503d3bef91f67ee324e6b">Power Thought Cards</BlogLink>
+* [Power Thought Cards](https://www.amazon.com/gp/product/1561706124/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=GBGV2T61EQ6V3DNNV0SM&pf_rd_t=101&pf_rd_p=3ba4cf8e-6189-5ac2-acc4-4a9678f8e7bf&pf_rd_i=282868&linkCode=ll1&tag=21moves-20&linkId=3822013a040503d3bef91f67ee324e6b)
 
-* <BlogLink to="https://www.amazon.com/Nutrition-Physical-Degeneration-Weston-Price/dp/0916764206/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011847&sr=1-4&linkCode=ll1&tag=21moves-20&linkId=6a9f72d0989d45a5217a2ac80d5814fa">Nutrition and Physical Degeneration</BlogLink>
+* [Nutrition and Physical Degeneration](https://www.amazon.com/Nutrition-Physical-Degeneration-Weston-Price/dp/0916764206/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1483011847&sr=1-4&linkCode=ll1&tag=21moves-20&linkId=6a9f72d0989d45a5217a2ac80d5814fa)
 
 
 

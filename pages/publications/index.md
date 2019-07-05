@@ -10,28 +10,28 @@ author: ""
 
 As a copywriter, I am writing for clients from various industries. Some of my latest work as freelance copywriter:
 
-* <BlogLink to="https://www.concentrix.eu/magazin/">Blog for a dietary supplement company for better concentration</BlogLink>
-* <BlogLink to="https://blog.mynd.com/de/author/liesa-huppertz">Blog for a video-marketing company</BlogLink>
-* <BlogLink to="https://www.gymondo.de/magazin/author/liesa-huppertz">Blog for a fitness company</BlogLink>
-* <BlogLink to="https://www.greenyogashop.com/blog/">Blog and Copywriting for a Yoga-wear Company: Greenyogashop</BlogLink>
-* <BlogLink to="http://fischerplan.com/de/">Website Texting for an architect: Fischerplan</BlogLink>
-* <BlogLink to="http://epaper.dental-tribune.com/dti/59afa644020e4/page31.html#/16">PR for a Dental Care Shop: Wawibox</BlogLink>
+* [Blog for a dietary supplement company for better concentration](https://www.concentrix.eu/magazin/)
+* [Blog for a video-marketing company](https://blog.mynd.com/de/author/liesa-huppertz)
+* [Blog for a fitness company](https://www.gymondo.de/magazin/author/liesa-huppertz)
+* [Blog and Copywriting for a Yoga-wear Company: Greenyogashop](https://www.greenyogashop.com/blog/)
+* [Website Texting for an architect: Fischerplan](http://fischerplan.com/de/)
+* [PR for a Dental Care Shop: Wawibox](http://epaper.dental-tribune.com/dti/59afa644020e4/page31.html#/16)
 
 Some of my press releases I wrote for Wimdu:
 
-* <BlogLink to="http://www.wimdu.de/presse/releases/andere-lander-andere-sitten-so-unterschiedlich-wohnt-europa-co-vom-geschirrspuler-bis-internet-rauchen/">Andere Länder, andere Sitten</BlogLink>
-* <BlogLink to="http://www.wimdu.de/presse/releases/angie-oder-barack-johnny-oder-george-bei-wem-zu-hause-wollen-die-deutschen-am-liebsten-urlaub-machen/">Angie oder Barack, Johnny oder George: Bei wem zu Hause wollen die Deutschen am liebsten Urlaub machen?</BlogLink>
-* <BlogLink to="http://www.wimdu.de/presse/releases/in-der-gruppe-reist-es-sich-schoner-urlaubsgruse-von-freunden/">In der Gruppe reist es sich schöner: Urlaubsgrüße von #Freunden</BlogLink>
+* [Andere Länder, andere Sitten](http://www.wimdu.de/presse/releases/andere-lander-andere-sitten-so-unterschiedlich-wohnt-europa-co-vom-geschirrspuler-bis-internet-rauchen/)
+* [Angie oder Barack, Johnny oder George: Bei wem zu Hause wollen die Deutschen am liebsten Urlaub machen?](http://www.wimdu.de/presse/releases/angie-oder-barack-johnny-oder-george-bei-wem-zu-hause-wollen-die-deutschen-am-liebsten-urlaub-machen/)
+* [In der Gruppe reist es sich schöner: Urlaubsgrüße von #Freunden](http://www.wimdu.de/presse/releases/in-der-gruppe-reist-es-sich-schoner-urlaubsgruse-von-freunden/)
 
 While working at Wimdu, my press releases were published in (but not only):
 
-* <BlogLink to="http://www.focus.de/reisen/staedtereisen/wlan-rauchen-geschirrspueler-andere-laender-andere-zimmer-so-unterschiedlich-wohnt-der-westen_id_4895112.html">Focus</BlogLink>
-* <BlogLink to="https://www.welt.de/finanzen/immobilien/article140964011/Beim-Spuelen-sind-die-Daenen-besonders-faul.html">Welt</BlogLink>
-* <BlogLink to="http://www.madame.de/top-8-fashion-week-hangouts-933817.html">Madame</BlogLink>
-* <BlogLink to="http://www.stern.de/genuss/trinken/cocktails--das-sind-die-5-besten-sommerdrinks-6381732.html">Stern</BlogLink>
-* <BlogLink to="http://www.wuv.de/digital/instagram_studie_das_sind_die_beliebtesten_trips_mit_freunden">W&V</BlogLink>
+* [Focus](http://www.focus.de/reisen/staedtereisen/wlan-rauchen-geschirrspueler-andere-laender-andere-zimmer-so-unterschiedlich-wohnt-der-westen_id_4895112.html)
+* [Welt](https://www.welt.de/finanzen/immobilien/article140964011/Beim-Spuelen-sind-die-Daenen-besonders-faul.html)
+* [Madame](http://www.madame.de/top-8-fashion-week-hangouts-933817.html)
+* [Stern](http://www.stern.de/genuss/trinken/cocktails--das-sind-die-5-besten-sommerdrinks-6381732.html)
+* [W&V](http://www.wuv.de/digital/instagram_studie_das_sind_die_beliebtesten_trips_mit_freunden)
 
 Some of my older work as copywriter at Wortweiss:
 
-* <BlogLink to="http://hwso.de/">Website for craftsmen</BlogLink>
-* <BlogLink to="http://feuerwerke-kuerbs.de/">Website for pyrotechnician</BlogLink>
+* [Website for craftsmen](http://hwso.de/)
+* [Website for pyrotechnician](http://feuerwerke-kuerbs.de/)

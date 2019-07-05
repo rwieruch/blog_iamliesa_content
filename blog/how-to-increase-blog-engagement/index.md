@@ -17,7 +17,7 @@ But how do you actually get your readers to engage? How can you increase comment
 
 That's what I want to cover in this article.
 
-<Title id="what-is-engagement">What is Engagement?</Title>
+# What is Engagement?
 
 When thinking about the word *engagement*, the first thing that might come to mind is reader comments. While there are (and there should be) many more ways for your reader to actively interact with your content. This reader engagement doesn't always have to be visible on your blog like as a comment is, though it certainly helps to build up authority. Here are three ways your audience might interact with you on your blog:
 
@@ -34,9 +34,9 @@ Comments are probably the most obvious way your visitors can interact with your 
 
 **Mailing Lists**
 
-Getting on your mailing list is the coronation of your content marketing efforts. Nothing is as powerful as your mailing list. Social media platforms may change, but email has stood the test of time. If you can get your visitors to subscribe to your blog, that gives you a better way to communicate with them. It's very effective in reaching your audience — it's actually <BlogLink to="https://www.dreamgrow.com/11-reasons-why-newsletter-beats-social-media/">at least four times more effective in reaching them than Facebook</BlogLink>, and people are much more likely to buy from you.
+Getting on your mailing list is the coronation of your content marketing efforts. Nothing is as powerful as your mailing list. Social media platforms may change, but email has stood the test of time. If you can get your visitors to subscribe to your blog, that gives you a better way to communicate with them. It's very effective in reaching your audience — it's actually [at least four times more effective in reaching them than Facebook](https://www.dreamgrow.com/11-reasons-why-newsletter-beats-social-media/), and people are much more likely to buy from you.
 
-<Title id="boost-blog-engagement">How to boost your Blog Engagement</Title>
+# How to boost your Blog Engagement
 
 **Know Your Audience**
 
@@ -123,7 +123,7 @@ It's the same with your social shares. The more shares your content has, the mor
 
 ![engagement on the blog](./images/blog_engagement_numbers.jpg)
 
-<Title id="conclusion">Conclusion</Title>
+<Divider />
 
 There are many ways for you to promote engagement on your blog. However, boosting engagement takes time. You may not see an increase right away, but once you've built a loyal audience by creating valuable, relevant content, the engagement will follow.
 

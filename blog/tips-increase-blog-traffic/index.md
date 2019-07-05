@@ -12,7 +12,7 @@ contribute: ""
 
 According to HubSpot, generating traffic and leads is one of the biggest struggle for companies. With 63%, getting people on the website it is actually their number one problem.
 
-One approach to tackle this problem, as shown in last week’s blog post, is by starting a company blog. That’s why <BlogLink to="https://www.hubspot.com/marketing-statistics">53% of marketers say that blog content creation is their top inbound marketing priority</BlogLink>.
+One approach to tackle this problem, as shown in last week’s blog post, is by starting a company blog. That’s why [53% of marketers say that blog content creation is their top inbound marketing priority](https://www.hubspot.com/marketing-statistics).
 
 However, merely creating a blog doesn’t guarantee getting new visitors on your website.
 
@@ -22,7 +22,7 @@ A lot of people are frustrated when they start a blog and the visitors don’t s
 
 So apart from producing great content, which is obviously the number one rule in content marketing, what can you do to increase your (company’s) blog traffic?
 
-<Title id="promote-content">1. Promote your Content</Title>
+# 1. Promote your Content
 
 A lot of people pat themselves on the back for a job well done after publishing  a new blog article and then shut off their computers.
 
@@ -46,7 +46,7 @@ Pinterest is also a great platform to promote your content. And the best part is
 
 Since Pinterest works like a search engine, you just have to know the best keywords to add. Of course, that’s not all that’s to it to promote your pins on Pinterest, but read the rest about it on my big Guide to Pinterest.
 
-<Title id="focus-on-longtail-keywords">2. Focus on long tail keywords</Title>
+# 2. Focus on long tail keywords
 
 No guide on how to drive traffic to your website would be complete without the mentioning of SEO.
 
@@ -64,7 +64,7 @@ Thus, instead of landing on page ten on Google for a high volume keyword, try to
 
 For more information on SEO and long tail keywords, read my guide on search engine optimization.
 
-<Title id="google-analytics">3. Use Results from Google Analytics</Title>
+# 3. Use Results from Google Analytics
 
 Most people who have a blog have installed Google Analytics to keep track of the number of visitors they have on it. If you don’t, go ahead and install it or else you’re missing out.
 
@@ -74,7 +74,7 @@ Google analytics is a great tool to get insights into your audience’s browsing
 
 Looking at Google analytics helps you analyze where you’re succeeding, and what kind of content or sources you can leverage. Thus, it is critical to know your numbers.
 
-<Title id="guest-posts">4. Write Guest Blog Posts</Title>
+# 4. Write Guest Blog Posts
 
 Writing guest posts is a great way to drive traffic to your website. It spreads your brand to new folks and earns you a link and reference back to your site at the same time. This will not only bring you new traffic but also help your search ranking.
 
@@ -82,20 +82,19 @@ When looking for guest blogging opportunities it is important to find sites that
 
 Thus, invest a little time into researching your target site. Investigate the type of content, look at comments and social shares, and research the makeup of the audience.
 
-Also, check your target blog’s <BlogLink to="https://moz.com/learn/seo/domain-authority">domain and page authority</BlogLink>. The higher the authority, the more valuable the site  for your link-building efforts.
+Also, check your target blog’s [domain and page authority](https://moz.com/learn/seo/domain-authority). The higher the authority, the more valuable the site  for your link-building efforts.
 
 The downside to guest blogging however, is that especially in the beginning when you’re still small it can be tough to convince people to let you publish content on their site.
 
-<Title id="be-consistent">5. Write more and be consistent</Title>
+# 5. Write more and be consistent
 
-Studies show that the more often you update your website, the more traffic it will receive. HubSpot found out that B2C companies that <BlogLink to="https://www.hubspot.com/marketing-statistics">blogged more than 11 times per months got more than four times as many leads as those companies that only blogged four to five times per months</BlogLink>.
+Studies show that the more often you update your website, the more traffic it will receive. HubSpot found out that B2C companies that [blogged more than 11 times per months got more than four times as many leads as those companies that only blogged four to five times per months](https://www.hubspot.com/marketing-statistics).
 
 ![google analytic boost blog traffic](./images/google_analytics.jpg)
 
-
 Updated content also puts you in favor with Google as Google gives higher priority to websites with fresh content.
 
-<Title id="best-content">6. Create the best Content you can think of</Title>
+# 6. Create the best Content you can think of
 
 I have emphasized this so often: Content is King. Thus, if you want to increase your website traffic and want your readers to stick with you, you need to create the best content you can think of.
 
@@ -108,7 +107,6 @@ Add interesting statistics.
 Craft headlines that make people want to read on.
 
 And last but not least, try to create evergreen content: content that doesn’t get old and can live on the web forever.
-
 
 If you’re having trouble coming up with content that people want to read or if your blog resembles a ghost town rather than a lively content platform - I am here to help. Together with you I will create a content strategy and help you get the word out  about your company.
 

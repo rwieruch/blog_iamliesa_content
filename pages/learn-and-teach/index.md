@@ -8,6 +8,6 @@ contribute: "https://github.com/rwieruch/blog_iamliesa_content/tree/master/pages
 author: ""
 ---
 
-I like to keep my brain active and myself busy. That's why I love learning new things, e.g. JavaScript on <BlogLink to="https://www.codecademy.com">Codecademy</BlogLink> or languages such as French, Italian or Portuguese on <BlogLink to="https://www.duolingo.com/">Duolingo</BlogLink>.
+I like to keep my brain active and myself busy. That's why I love learning new things, e.g. JavaScript on [Codecademy](https://www.codecademy.com) or languages such as French, Italian or Portuguese on [Duolingo](https://www.duolingo.com/).
 
-I am also writing my personal Fitness Blog <BlogLink to="https://www.21moves.com/">21moves</BlogLink> where I provide quality content and <BlogLink to="https://www.wayfaringsociety.com">The Wayfaring Society</BlogLink> where I teach about  Marketing and digital nomadism.
+I am also writing my personal Fitness Blog [21moves](https://www.21moves.com/) where I provide quality content and [The Wayfaring Society](https://www.wayfaringsociety.com) where I teach about  Marketing and digital nomadism.
