@@ -2,7 +2,7 @@
 date: "2018-11-20T13:35:13.234Z"
 title: "How to stock a healthy kitchen: Fruits & Vegetables"
 description: "Filling your kitchen with healthy food isn't actually that difficult. When it comes to fruits and vegetables, there are some things to consider when buying them as the amount of nutrients highly depend on the quality of the food. Read here, how to stock a healthy kitchen with fruits and vegetables »"
-categories: ["health", "Stocking a healthy kitchen"]
+categories: ["Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking fruits and vegetables", "how to stock a healthy kitchen"]
 hashtags: ["#health"]
 banner: "./images/veggies.jpg"

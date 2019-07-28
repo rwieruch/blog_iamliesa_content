@@ -2,7 +2,7 @@
 date: "2018-12-07T13:35:13.234Z"
 title: "Stocking Grains and Sugar in a Healthy Kitchen"
 description: "Grains and sugar are part of almost every kitchen. But what should you look out for when stocking them? What are the heathiest choices? Learn more here »"
-categories: ["health", "Stocking a healthy kitchen"]
+categories: ["Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking a green kitchen", "How to stock a healthy kitchen"]
 hashtags: ["#health"]
 banner: "./images/grains.jpg"
