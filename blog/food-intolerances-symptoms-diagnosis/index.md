@@ -5,7 +5,7 @@ description: "Food intolerances are on the rise. But what distinguishes an intol
 categories: ["health"]
 keywords: ["food intolerance", "food allergy", "food sensitivity", "food intolerance symptoms"]
 hashtags: ["#health"]
-banner: "./images/food_intolerances.jpg"
+banner: "./images/food_intolerances_eggs.jpg"
 author: ""
 contribute: ""
 ---

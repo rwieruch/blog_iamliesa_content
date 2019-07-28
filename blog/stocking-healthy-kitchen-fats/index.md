@@ -5,7 +5,7 @@ description: "Fats have been banned from a healthy kitchen for quite some time. 
 categories: ["Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking healthy fats", "how to stock a healthy kitchen", "healthy oil"]
 hashtags: ["#health"]
-banner: "./images/agriculture-blur-close-up-33783.jpg"
+banner: "./images/healthy_oil.jpg"
 author: ""
 contribute: ""
 ---

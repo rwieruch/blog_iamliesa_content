@@ -5,7 +5,7 @@ description: "Grains and sugar are part of almost every kitchen. But what should
 categories: ["Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking a green kitchen", "How to stock a healthy kitchen"]
 hashtags: ["#health"]
-banner: "./images/grains.jpg"
+banner: "./images/bread_grains.jpg"
 author: ""
 contribute: ""
 ---
@@ -22,7 +22,7 @@ Whole grains are **complex carbohydrates**. They are complex because they are **
 
 The slower absorption of whole grains is beneficial for us as it helps **regulate glucose levels** - your blood sugar. When the body absorbs the food more slowly, we don’t experience those blood sugar spikes that crash down again after a short while, leaving us hungry and craving for more food.
 
-![stocking a healthy kitchen with grains](./images/grains2.jpg)
+![stocking a healthy kitchen with grains](./images/grains.jpg)
 
 Whole grains, contrary to refined grains, tend to be very **nutrient-rich**. They are high in **B vitamins, magnesium, iron, zinc, selenium and manganese**.
 
@@ -41,8 +41,6 @@ A whole grain consists of three parts:
 While whole grains still consists of all those three parts, a refined grain only consists of the endosperm - the germ and the bran are removed. Thus all of the good stuff is lost. What’s left is the high-carb, high-calorie endosperm.
 
 Refined grains are so called **“empty calories”**, as the fiber and nutrients have been stripped out.
-
-![stocking a healthy kitchen with grains](./images/whole_grain.jpg)
 
 Because the fiber is lost leaving only the carbs, the body can quickly digest refined grains. They get **broken down fast, leading to rapid spikes in blood sugar**, leaving us hungry and unsatisfied with our food soon thereafter.
 
@@ -94,14 +92,14 @@ Whether you buy gluten free or not: Try to buy organic and whole grain!
 
 # Sugar in the kitchen
 
-![stocking a healthy kitchen with sugar](./images/sugar.jpg)
+![stocking a healthy kitchen with sugar](./images/sugar_kitchen.jpg)
 
 Sugars come in many different forms, including **raw or organic**. It is **highly addictive** and can lead to health problems such as **heart diseases, obesity, diabetes** and it can even put you at higher risk for **certain types of cancer**. ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2235907/), [2](https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar))
 
 Most sugars are made of **sucrose**, a disaccharide made of two monosaccharides: Fructose and glucose. These monosaccharides are digested differently by our body.
 
 ## Absorption of fructose
-
+f
 Fructose is metabolized and stored **completely in the liver** as a glycogen. Its storage isn’t endless though, so once it’s filled up excess fructose is converted into **fat**.
 
 Many studies suggest that excess fructose may be the key driver of many serious diseases these days such as **high blood pressure and heart disease, insulin resistance, or fatty liver disease**. ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2673878/), [2](https://www.ncbi.nlm.nih.gov/pubmed/27194405/), [3](https://www.sciencedirect.com/science/article/abs/pii/S0168827808001645))

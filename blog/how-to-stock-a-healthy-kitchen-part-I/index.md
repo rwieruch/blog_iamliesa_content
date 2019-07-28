@@ -5,7 +5,7 @@ description: "Filling your kitchen with healthy food isn't actually that difficu
 categories: ["Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking fruits and vegetables", "how to stock a healthy kitchen"]
 hashtags: ["#health"]
-banner: "./images/veggies.jpg"
+banner: "./images/asparagus_vegetables.jpg"
 author: ""
 contribute: ""
 ---
