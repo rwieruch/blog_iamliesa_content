@@ -100,11 +100,7 @@ I have emphasized this so often: Content is King. Thus, if you want to increase 
 
 Create content, that people are actually interested in by researching your target audience’s  questions on forums or social media channels.
 
-Create visually appealing content. Leverage the power of pictures.
-
-Add interesting statistics.
-
-Craft headlines that make people want to read on.
+Create visually appealing content. Leverage the power of pictures. Add interesting statistics. Craft headlines that make people want to read on.
 
 And last but not least, try to create evergreen content: content that doesn’t get old and can live on the web forever.
 
