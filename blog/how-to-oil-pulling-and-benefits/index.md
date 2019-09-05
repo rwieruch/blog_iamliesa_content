@@ -2,7 +2,7 @@
 date: "2019-06-30T13:35:13.234Z"
 title: "The Benefits Of Oil Pulling & How To Do It"
 description: "A lot of people think that oil pulling is simply another trend in the health industry which doesn't work at all. However, there are a lot of science backed-up benefits to the old ayurvedic tradition. Learn here which benefits are science proven and which are just a myth. Plus, learn how to oil pull and which oil to use.»"
-categories: ["Ayurveda"]
+categories: ["health"]
 keywords: ["healthy kitchen", "stocking fruits and vegetables", "how to stock a healthy kitchen"]
 hashtags: ["#health"]
 banner: "./images/coconut-oil-pulling-wooden-spoon.jpg"
