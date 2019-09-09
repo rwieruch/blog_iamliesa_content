@@ -1,6 +1,6 @@
 ---
-date: "2019-09-06T13:35:13.234Z"
-title: "Chronic and acute Inflammation: Definitions, Causes, Symptoms and Treatments."
+date: "2019-09-09T13:35:13.234Z"
+title: "Inflammation: Causes, Symptoms and Treatments."
 description: "Inflammation affects almost every function of the human body. But what exactly is inflammation, why is it so dangerous and how can I treat it?»"
 categories: ["inflammation"]
 keywords: ["chronic inflammation", "inflammation", "treat inflammation"]
