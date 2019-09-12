@@ -9,6 +9,7 @@ hashtags: ["#inflammation"]
 author: ""
 contribute: ""
 ---
+
 Inflammation affects almost every function of the human body, from gut health to aging to allergies and more. Chronic inflammatory diseases belong to the main causes for death and the World Health Organization (WHO) even ranks it as the greatest threat to human health. Diseases associated with chronic inflammation is anticipated to increase persistently over the next 30 years in the US. In 2000, [125 million Americans were affected by chronic inflammation and 61 millions (21%) had more than just one chronic condition](https://www.ncbi.nlm.nih.gov/books/NBK493173/). Worldwide, 3 out of 5 people die due to chronic inflammatory diseases like stroke, heart disorders or cancer.
 
 But what exactly is inflammation? What is the main cause and what are signs of inflammation? We will go into detail about these questions and more in this article. 
@@ -181,4 +182,5 @@ So which foods should you eat in order to eliminate inflammation? You guessed it
 <NotADoctor />
 
 ![heal chronic inflammation](./images/chronic-inflammation.png)
+![heal chronic inflammation](./images/inflammation-causes-symptoms-treatment.png)
 
