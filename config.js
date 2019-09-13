@@ -206,10 +206,10 @@ module.exports = {
           'Good content has two purposes mainly: being found by Google and connecting company and customer. I make sure not only that your content is found online but also that it sounds great.',
       },
       {
-        icon: 'megaphone',
-        label: 'Public Relations',
+        icon: 'camera',
+        label: 'Photoshootings',
         description:
-          "Journalist outreach, writing press releases and organizing events are just a few things I learned during my career in PR. Let me help you getting your company's name out there.",
+          "A picture says more than 1000 words. I organize Photoshootings - from finding the right photographer to the model that fits the brand. I make sure that your product is presented the best way possible.",
       },
       {
         icon: 'plant-pot',
@@ -231,7 +231,7 @@ module.exports = {
       },
       {
         label: 'Influencer Marketing',
-        description: 'Cooperations',
+        description: 'Collaborations',
         url: '/influencer-marketing',
       },
       {

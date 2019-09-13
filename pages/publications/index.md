@@ -10,18 +10,22 @@ author: ""
 
 As a copywriter, I am writing for clients from various industries. Some of my latest work as freelance copywriter:
 
-* [Blog for a dietary supplement company for better concentration](https://www.concentrix.eu/magazin/)
 * [Blog for a video-marketing company](https://blog.mynd.com/de/author/liesa-huppertz)
-* [Blog for a fitness company](https://www.gymondo.de/magazin/author/liesa-huppertz)
 * [Blog and Copywriting for a Yoga-wear Company: Greenyogashop](https://www.greenyogashop.com/blog/)
+* [Blog for a fitness company](https://www.gymondo.de/magazin/author/liesa-huppertz)
+* [Blog for a mental health company, June until August](https://www.selfapy.de/blog/)
+* [Blog for a dietary supplement company for better concentration, until August 29th](https://www.concentrix.eu/magazin/)
 * [Website Texting for an architect: Fischerplan](http://fischerplan.com/de/)
 * [PR for a Dental Care Shop: Wawibox](http://epaper.dental-tribune.com/dti/59afa644020e4/page31.html#/16)
 
-Some of my press releases I wrote for Wimdu:
+Instagram Accounts I took care of:
 
-* [Andere Länder, andere Sitten](http://www.wimdu.de/presse/releases/andere-lander-andere-sitten-so-unterschiedlich-wohnt-europa-co-vom-geschirrspuler-bis-internet-rauchen/)
-* [Angie oder Barack, Johnny oder George: Bei wem zu Hause wollen die Deutschen am liebsten Urlaub machen?](http://www.wimdu.de/presse/releases/angie-oder-barack-johnny-oder-george-bei-wem-zu-hause-wollen-die-deutschen-am-liebsten-urlaub-machen/)
-* [In der Gruppe reist es sich schöner: Urlaubsgrüße von #Freunden](http://www.wimdu.de/presse/releases/in-der-gruppe-reist-es-sich-schoner-urlaubsgruse-von-freunden/)
+* Selfapy: Growing the account by 50% in three months ![client instagram](./images/selfapy-instagram.png)
+* Greenyogashop: Growing the account by 50% ![client instagram](./images/greenyogashop-instagram.png)
+
+Photoshootings I organized:
+
+* [Greenyogashop](https://photos.app.goo.gl/d6sDF4cHDi8VtAVp7) Pictures are not for use!
 
 While working at Wimdu, my press releases were published in (but not only):
 

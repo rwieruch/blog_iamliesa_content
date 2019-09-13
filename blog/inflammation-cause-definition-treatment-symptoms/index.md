@@ -122,7 +122,7 @@ The root of every disease is some kind of inflammation. With acute inflammation,
 * arthritis
 * dementia
 
-If you want to know more about how these diseases are connected to inflammation, have a read of this article, that explains the connection between them. 
+If you want to [know more about how these diseases are connected to inflammation, have a read of this article](https://www.iamliesa.com/inflammatory-diseases-inflammation), that explains the connection between them. 
 
 # How does chronic inflammation present itself?
 Most of the time, we do not realize that our body is inflamed. That’s because a lot of inflammation happens on cellular level. The problem is, chronic inflammation doesn’t just stop and go away on its own. It sticks around and since we don’t know it’s there, we don’t do anything against it. This is particularly dangerous as this type of inflammation may lead to heart diseases, stroke and more illnesses.
