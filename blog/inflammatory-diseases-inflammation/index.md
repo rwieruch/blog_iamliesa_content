@@ -1,5 +1,5 @@
 ---
-date: "2019-09-30T13:35:13.234Z"
+date: "2019-09-17T13:35:13.234Z"
 title: "Leading diseases caused by inflammation."
 description: "Inflammation lies at the root of many diseases. Learn how inflammation triggers diseases such as heart disease, high blood pressure or obesity.»"
 categories: ["inflammation"]
