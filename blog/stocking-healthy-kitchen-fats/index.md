@@ -223,3 +223,8 @@ When it comes to cooking oil, pay attention to the smoke point and opt for satur
 Unsaturated fats, consisting of mono- and polyunsaturated fats, have a lot of health benefits when eaten in moderation. They help lower your cholesterol and reduce the risk of heart diseases. They make for a good salad dressing or finishing oil.
 
 One kind of fat though, you should definitely avoid, are trans fats. They are mostly found in processed foods and enhance the risk for certain diseases such as stroke or type II diabetes.
+
+<Divider/>
+
+![healthy fats infographic](./images/cooking-oil.png)
+
