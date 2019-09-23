@@ -1,6 +1,6 @@
 ---
 date: "2019-09-23T13:35:13.234Z"
-title: "Struggling to lose weight? Inflammation may be the culprit."
+title: "How chronic inflammation leads to obesity."
 description: "Studies show that obesity triggers inflammation, but it's also the other way around. Learn how inflammation and obesity play together.»"
 categories: ["inflammation"]
 keywords: ["chronic inflammation", "inflammation", "inflammation and obesity"]
