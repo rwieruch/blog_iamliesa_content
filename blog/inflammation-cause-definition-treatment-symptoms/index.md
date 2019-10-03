@@ -175,7 +175,7 @@ However, when it comes to drugs to block key inflammatory pathways we have to co
 # Food and inflammation.
 As you might have guessed, your diet plays a major role in inflammation. What you eat sends information to your body so the type of foods that you eat can either turn on good or bad genes. Consuming only hamburger and fries will naturally turn on the bad genes that lead to inflammation whereas eating healthy foods like broccoli will turn on good gene pathways that are anti-cancer and anti-inflammatory.
 
-So which foods should you eat in order to eliminate inflammation? You guessed it: Whole, nutrient-dense and antioxidant rich foods would be your choice here. Foods high in antioxidants fight oxidative stress which in turn eliminates inflammation. Processed foods full of sugar on the other hand promote inflammation. If you want to know more about what exactly to eat to fight inflammation, you should read this article.
+So which foods should you eat in order to eliminate inflammation? You guessed it: Whole, nutrient-dense and antioxidant rich foods would be your choice here. Foods high in antioxidants fight oxidative stress which in turn eliminates inflammation. Processed foods full of sugar on the other hand promote inflammation. If you want to know more about what exactly to eat to fight inflammation, you should read [this article](https://www.iamliesa.com/inflammation-food).
 
 <Divider />
 
