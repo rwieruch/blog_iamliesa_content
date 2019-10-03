@@ -25,7 +25,7 @@ One way to increase the intake of omega-3 fatty acids is supplementing with **fi
 
 On the other hand, foods high in *arachidonic acid* such as egg yolk or corn and corn-fed beef should not be part of an anti-inflammatory diet. Arachidonic acid is a compound used in metabolic pathways that **promotes inflammation**. It’s a source of omega-6 fatty acids that provide the body with messenger molecules involved in the inflammatory process. 
 
-[Research has shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269634/) that the **consumption of seed oils high in omega-6 fatty acids** does not only contribute to **low-grade inflammation** but also to *oxidative stress*, *endothelial dysfunction* and *atherosclerosis*, conditions that [as we know are all related to an inflammatory state of the body link to my article]. 
+[Research has shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269634/) that the **consumption of seed oils high in omega-6 fatty acids** does not only contribute to **low-grade inflammation** but also to *oxidative stress*, *endothelial dysfunction* and *atherosclerosis*, conditions that [as we know are all related to an inflammatory state of the body](https://www.iamliesa.com/inflammatory-diseases-inflammation). 
 
 One study with mice that were fed different diets varying the omega-3/omega-6 ratio also showed that the ones that were fed a diet with the lowest omega-6/3 ratio had [the lowest triglyceride and low-density lipoprotein (LDL - the “bad” cholesterol) levels and the highest high-density lipoprotein (HDL - the “good” cholesterol) levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269634/).  
 
