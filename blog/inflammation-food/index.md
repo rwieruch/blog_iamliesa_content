@@ -1,5 +1,5 @@
 ---
-date: "2019-09-30T13:35:13.234Z"
+date: "2019-10-03T13:35:13.234Z"
 title: "Foods that fight and prevent chronic inflammation."
 description: "Inflammation is the cause for many diseases. Therefore it's important to prevent and fight it with food.»"
 categories: ["inflammation"]
@@ -256,7 +256,7 @@ Another staple of mine: the salad with salmon and creamy garlic dressing. Kale f
 
 <Divider />
 
-<NotADoctor />
-
 ![heal chronic inflammation](./images/fight-inflammation-food.png)
+
+<NotADoctor />
 
