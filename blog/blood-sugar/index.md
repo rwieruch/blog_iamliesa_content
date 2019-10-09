@@ -113,6 +113,7 @@ The transmission speed of signals in the brain immediately slows down which lead
 <Divider />
 
 ![heal chronic inflammation](./images/blood-sugar-infographic.png)
+![heal chronic inflammation](./images/blood-sugar.png)
 
 <NotADoctor />
 
