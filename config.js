@@ -111,24 +111,6 @@ module.exports = {
     urlSecondary: 'https://amzn.to/2LHjxRB',
   },
 
-  // note shown below each blog psot
-  note: {
-    enabled: false,
-    text:
-      'If you found this blog post helpful, please consider supporting what I do.',
-    cta: 'Support my Work',
-    url: 'https://www.patreon.com/rwieruch',
-  },
-
-  // note shown below each blog psot
-  note: {
-    enabled: true,
-    text:
-      'If you found this blog post helpful, please consider supporting what I do.',
-    cta: 'Support my Work',
-    url: 'https://www.patreon.com/rwieruch',
-  },
-
   // Navigation
 
   navigation: [{ to: '/', label: 'About' }, { to: '/blog', label: 'Blog' }],
