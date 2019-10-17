@@ -61,7 +61,7 @@ So how and what exactly should you eat for a healthy microbiome?
 # Further factors causing inflammaging.
 Of course, food is not the only factor that is causing inflammaging. There are so many other ones that initiate and maintain a low-grade inflammatory response. 
 
-* smoking: I do not have to tell you that smoking is bad for you. I’m sure you already know that. But did you know, that there is [an evident link between inflammation and smoking](https://www.sciencedaily.com/releases/2016/09/160901124842.htm)? Smoking [triggers your immune system due to vascular injury](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160597/). This is associated with higher levels of [inflammatory markers such as CRP](https://www.iamliesa.com/inflammation-test) which may predict future cardiovascular events.
+* smoking: I don't have to tell you that smoking is bad for you. I’m sure you already know that. But did you know, that there is [an evident link between inflammation and smoking](https://www.sciencedaily.com/releases/2016/09/160901124842.htm)? Smoking [triggers your immune system due to vascular injury](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160597/). This is associated with higher levels of [inflammatory markers such as CRP](https://www.iamliesa.com/inflammation-test) which may predict future cardiovascular events.
 
 * low levels of sex hormones: Research has found [low testosterone to be associated with an increase in metabolic risk as well as systematic inflammation](https://www.ncbi.nlm.nih.gov/m/pubmed/29925283/). A study showed that a testosterone deficiency was associated with the production of pro-inflammatory cytokines in men, while testosterone substitution reduced them.
 
