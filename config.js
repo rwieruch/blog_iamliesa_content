@@ -117,7 +117,7 @@ module.exports = {
 
   // Landing Page
 
-  order: ['hero', 'about', 'services', 'portfolio', 'vita', 'testimonial'],
+  lazyLanding: ['about', 'services', 'portfolio', 'vita', 'testimonial'],
 
   hero: {
     header: 'I am Liesa',
@@ -125,7 +125,6 @@ module.exports = {
       'Social Media Enthusiast and strong believer in "Live and Learn"',
   },
   about: {
-    enabled: true,
     header: 'About me',
     subheader: 'Something you should know.',
     social: [
@@ -158,7 +157,6 @@ module.exports = {
     `,
   },
   services: {
-    enabled: true,
     header: 'What I offer',
     subheader: 'A selection of my skills.',
     items: [
@@ -191,7 +189,7 @@ module.exports = {
         icon: 'camera',
         label: 'Photoshootings',
         description:
-          "A picture says more than 1000 words. I organize Photoshootings - from finding the right photographer to the model that fits the brand. I make sure that your product is presented the best way possible.",
+          'A picture says more than 1000 words. I organize Photoshootings - from finding the right photographer to the model that fits the brand. I make sure that your product is presented the best way possible.',
       },
       {
         icon: 'plant-pot',
@@ -202,7 +200,6 @@ module.exports = {
     ],
   },
   portfolio: {
-    enabled: true,
     header: 'Portfolio',
     subheader: 'An excerpt of my professional work.',
     items: [
@@ -224,7 +221,6 @@ module.exports = {
     ],
   },
   vita: {
-    enabled: true,
     header: 'Vita',
     subheader: 'My professional story.',
     items: [
@@ -285,7 +281,6 @@ module.exports = {
     ],
   },
   testimonial: {
-    enabled: true,
     header: 'Testimonials',
     subheader: 'What my clients are saying.',
     items: [
