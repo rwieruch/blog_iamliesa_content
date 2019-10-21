@@ -117,7 +117,7 @@ module.exports = {
 
   // Landing Page
 
-  lazyLanding: ['about', 'services', 'portfolio', 'vita', 'testimonial'],
+  lazyLanding: ['About', 'Services', 'Portfolio', 'Vita', 'Testimonial'],
 
   hero: {
     header: 'I am Liesa',
