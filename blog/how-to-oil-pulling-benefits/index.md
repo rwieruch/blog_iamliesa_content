@@ -3,16 +3,16 @@ date: "2019-06-30T13:35:13.234Z"
 title: "The Benefits Of Oil Pulling & How To Do It"
 description: "A lot of people think that oil pulling is simply another trend in the health industry which doesn't work at all. However, there are a lot of science backed-up benefits to the old ayurvedic tradition. Learn here which benefits are science proven and which are just a myth. Plus, learn how to oil pull and which oil to use.»"
 categories: ["health"]
-keywords: ["healthy kitchen", "stocking fruits and vegetables", "how to stock a healthy kitchen"]
+keywords: ["oil pulling", "oil pulling with coconut oil", "oil pulling benefits"]
 hashtags: ["#health"]
 banner: "./images/coconut-oil-pulling-wooden-spoon.jpg"
 author: ""
 contribute: ""
 ---
 
-The ancient ayurvedic technique of oil pulling, also known as "kavala" or "gundush" has become increasingly popular in recent years. It is best known for its benefits on oral hygiene and the prevention of gingivitis and tooth decay. However, there are more benefits to this uncomplicated method of rinsing the mouth with oil than just dental care. Traditionally, it is also used for the detoxification and holistic treatment of many diseases.
+The ancient ayurvedic technique of oil pulling, also known as "kavala" or "gundush" has become increasingly popular in recent years. The oil pulling benefits are manifold. It is best known for its benefits on oral hygiene and the prevention of gingivitis and tooth decay. However, there are more benefits to oil pulling than just dental care. Traditionally, it is also used for the detoxification and holistic treatment of many diseases.
 
-What oil pulling actually is and what benefits it has, how it works and which oils we can use for oil pulling is what you will find out in our magazine article.
+What oil pulling actually is, the scientific benefits of oil pulling as well as the oil pulling side effects, how it works and the best oils for oil pulling are topics that we will cover in this magazine article.
 
 # Oil pulling - what is it?
 
@@ -30,7 +30,7 @@ How oil pulling works is not entirely known but it is assumed to [activate saliv
 
 Let's focus on what's science-backed.
 
-**#1 Killing harmful bacteria in the mouth.**
+**#1 Oil pulling benefits: Killing harmful bacteria in the mouth - oil pulling for cavities.**
 
 Did you know that there are [approximately 700 types of bacteria that can live in your mouth](https://www.ncbi.nlm.nih.gov/pubmed/24320954)? An overgrowth of certain harmful bacteria, such as Streptococcus mutans, may [lead to cavities](https://www.researchgate.net/publication/321049407_Revisiones_T_e_m_a_de_44_Revista_CES_Odontologia_ISSN_0120-971X_Volumen_26_No_1_Primer_Semestre_de_2013_Streptococcus_mutans_and_dental_caries_Streptococcus_mutans_y_caries_dental). Other downfalls may be [bad breath](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1570844/) and [gum disease](https://www.ncbi.nlm.nih.gov/pubmed/3522644).
 
@@ -40,7 +40,7 @@ After ten days there was a [significant reduction of the pre- and post-values of
 
 When it comes to oral hygiene, decreasing the number of bacteria in the mouth is important.
 
-**#2 Could beat bad breath.**
+**#2 Oil pulling benefits: Could beat bad breath.**
 
 Bad breath can be dreadful for people suffering from it. In the worst case, it can even be socially isolating as people become anxious to move around others.
 
@@ -48,31 +48,31 @@ The technical term for bad breath is halitosis and it affects 25% of the populat
 
 Treatments against halitosis include brushing the teeth and the tongue to remove bacteria, food, and dead cells commonly build up on the tongue, flossing, and using an antiseptic mouthwash like chlorhexidine.
 
-[Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4290321/) have shown, that oil pulling against bad breath is just as effective. In a three week randomized controlled trial 60 people were randomized into three groups: one chlorhexidine group, one sesame oil group and one control group.
+[Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4290321/) have shown, that oil pulling for bad breath is just as effective. In a three week randomized controlled trial 60 people were randomized into three groups: one chlorhexidine group, one sesame oil group and one control group.
 
 The results showed that oil pulling with sesame oil was just as effective in reducing oral malodor as chlorhexidine was and may be an alternative to commonly used mouthwash.
 
-**#3 May prevent cavity-causing bacteria from spreading.**
+**#3 Oil pulling benefits: May prevent cavity-causing bacteria from spreading.**
 
 As kids, we were always warned not to eat too much sugar or else our teeth would get bad. That wasn't a lie. Eating too much sugar as well as poor oral hygiene can cause tooth decay. In the worst case, little holes start to form, known as cavities.
 
 As mentioned already, cavity, or "dental caries", comes from an overgrowth of certain harmful bacteria in your mouth, such as Streptococcus mutans. These nasty little creatures break down food particles, forming an acid that destroys tooth enamel.
 
-Oil pulling can help reduce the number of these bacteria thus prevent cavities, as several studies found out ([3](https://academicjournals.org/journal/AJMR/article-full-text-pdf/21CA7A911094), [4](http://www.jaypeejournals.com/eJournals/ShowText.aspx?ID=8586&Type=FREE&TYP=TOP&IN=&IID=663&isPDF=YES)).
+Oil pulling can help reduce the number of these bacteria thus prevent cavities, as several studies found out ([3](https://academicjournals.org/journal/AJMR/article-full-text-pdf/21CA7A911094), [4](http://www.jaypeejournals.com/eJournals/ShowText.aspx?ID=8586&Type=FREE&TYP=TOP&IN=&IID=663&isPDF=YES)). So oil pulling for cavities is a good idea to prevent caries.
 
 In fact, oil pulling may just be as effective as mouthwash when it comes to killing harmful bacteria in your mouth. The bonus of oil pulling: It kills those harmful bacteria without destroying the good bacteria that your mouth actually needs.
 
-**#4 May improve gum health.**
+**#4 Oil pulling benefits: May improve gum health.**
 
 Have you ever experienced brushing your teeth and spitting blood afterwards? That's often the case when suffering from gingivitis.
 
 The major cause for this is often bacteria that are found in plaque as they can cause inflammation in the gum.
 
-Oil pulling has proven to be an effective remedy for this suffering as it improves gum health and reduces inflammation by decreasing the harmful bacteria and plaque in the mouth.
+Oil pulling for gum health has proven to be an effective remedy for this suffering as it improves gum health and reduces inflammation by decreasing the harmful bacteria and plaque in the mouth.
 
 Also, coconut oil has shown beneficial for reducing the inflammation associated with gum disease as it contains anti-inflammatory properties.
 
-# How does oil pulling work?
+# Oil pulling: How to do it?
 
 Let's bring on the most important thing when pulling oil first: you need time! In Ayurveda, 20 minutes are suggested. You should at least do it ten minutes. This can be a real challenge, because you should do the oil pulling in the morning on an empty stomach and we all know how stressful mornings can be. It is even better if you keep the oil in your mouth for about three to four minutes, then spit it out and do it again with fresh oil. That's how you exclude a re-poisoning.
 
@@ -80,33 +80,39 @@ Before you start, you should cleanse your tongue with a tongue cleaner. This wil
 
 Now the actual oil pulling can start. Put a tablespoon of oil in your mouth and keep the oil moving nicely in your mouth. By pulling the oral oil through the interdental spaces pads, harmful bacteria are solved. After about ten to 20 minutes you can spit out the oil. Beware that you should not spit it in the sink or the toilet though, otherwise the toxins that the oil now contains go directly into the water cycle. It's best to simply spit it in a handkerchief and dispose of it in the wastepaper basket.
 
-# Which oil to use for oil pulling?
+# Oil pulling: before or after brushing the teeth?
 
-Oils used for oil pulling should be one thing above all: high quality. Cold-pressed vegetable oils such as olive or sunflower oil are best suited. In India, sesame oil is used. Rapeseed, linseed and coconut oil are also suitable for mouthwash.
+The oil pulling should be done before brushing your teeth in the morning. Simply follow the oil pulling steps and finish the procedure by brushing your teeth after you completed the oil pulling.
+
+Though it is mostly recommended to brush your teeth immediately after doing the oil pulling, some people believe it has benefits not to brush them directly after to allow the retention of good bacteria and the rebalancing of the oral microbiome.
+
+# The best oil for oil pulling.
+
+Oils used for oil pulling should be one thing above all: high quality. Cold-pressed vegetable oils such as olive or sunflower oil are the best oils for oil pulling. In India, sesame oil is used. Rapeseed, linseed and coconut oil are also suitable for mouthwash.
 
 A lot of people swear by coconut oil. This oil has the advantage that it is not only an anti-inflammatory powerhouse, but also contains lauric acid, which is a medium-chain triglyceride (MCT) that has proven to be incredibly effective at killing bad bacteria in your mouth that contribute to tooth decay.
 
 Meanwhile, there are also numerous finished dental care products, which are often accompanied by a refreshing mint flavor flavor. These are ideal for on the go.
 
-**Sunflower Oil**
+**Sunflower Oil for oil pulling**
 
 Sunflower oil goes back to the russian tradition of oil pulling. It is cheap and has a light taste. However, a lot of low-quality sunflower oil is being sold these days. That's why you should pay close attention to a trusted manufacturer.
 
-**Sesame Oil**
+**Sesame Oil for oil pulling**
 
 Sesame oil is the original oil used in ayurvedic oil pulling. Make sure that you are only using cold-pressed and unheated sesame oil. This is then also very light in taste.
 
 One major benefit of sesame oil is its capability to penetrate deeply into the tissue and bring harmful substances to the surface. It especially helps with gingivitis and periodontal disease and contains the powerful antioxidants sesamol and sesamolin.
 
-**Flaxseed Oil**
+**Flaxseed Oil for oil pulling**
 
 Flaxseed oil has particularly healing effects on the mouth- and throat area. In folk medicine, the oil was used to help with asthma, cough, bronchitis, and hoarseness, among others. Because of its harsh taste, it is best mixed 1:1 with sunflower oil. Because of its high amount of alpha-linoleic acid, you shouldn't keep flaxseed oil for too long after opening it. Therefore, only mix small quantities and keep it in the fridge.
 
-**Coconut Oil**
+**Coconut Oil for oil pulling**
 
-Coconut oil is the classic among oils for oil pulling. On the one hand, it has a very pleasant taste, on the other hand it has strong antibacterial powers. It is particularly good for the oral flora.
+Coconut oil for oil pulling is the classic among all oils. On the one hand, it has a very pleasant taste, on the other hand it has strong antibacterial powers. It is particularly good for the oral flora.
 
-**Olive Oil**
+**Olive Oil for oil pulling**
 
 I guess, olive oil is the most famous and most used oil of them all. It's an essential in every [healthy kitchen](https://www.iamliesa.com/stocking-healthy-kitchen-fats) not only because of its good taste but also because of its positive effect on the health.
 
@@ -118,9 +124,9 @@ While some of the oil pulling benefits such as improving gum health or preventin
 
 Let's have a look at some of the things oil pulling *can't* do:
 
-**#1 Oil pulling won't whiten your teeth.**
+**#1 Oil pulling and teeth whitening.**
 
-A lot of people claim to have gotten whiter teeth since starting with oil pulling. While it might help improve the appearance of your teeth by removing stains that were caused by bacteria, it won't actually whiten your teeth.
+A lot of people claim that oil pulling whitened their teeth. While it might help improve the appearance of your teeth by removing stains that were caused by bacteria, it won't actually whiten your teeth.
 
 **#2 Oil pulling won't replace brushing your teeth and flossing.**
 
@@ -132,7 +138,26 @@ Remember the benefits Ayurvedic tradition claims to have on diseases such a rheu
 
 Well, unfortunately there is no evidence backing up those claims. Maybe oil pulling helps - maybe not. Unfortunately, there is no better way to put it.
 
-# Oil Pulling - The bottom line.
+# Oil pulling and candida.
+
+A candida infection isn't only uncomfortable, it can also have severe side effects on your body. Oil pulling for candida using coconut oil can be a good way getting rid of candida in a natural way.
+
+Coconut oil contains antifungal properties, that's what makes it so powerful in the fight against candida.
+
+Oil pulling for candida works in two specific ways: 
+
+1. It eliminates the yeast from oral thrush
+2. It helps banish the toxins that result from candida die-off.
+
+# Oil pulling side effects.
+
+The biggest side effect of oil pulling probably stems from the fact that a lot of people use it to replace their regular mouth hygiene. Using oil pulling as a replacement for brushing your teeth definitely increases the risk for cavities. That's because the oil doesn't remove plaque or bacteria enough to really make a difference.
+
+Another oil pulling side effect may be an upset stomach since oils are not tested by an independent source for purity and can therefor contain harmful additivies. 
+
+Another risk associated with oil pulling is lipoid pneumonia, a condition that occurs when fat particles enter the lungs.
+
+# Oil pulling - The bottom line.
 
 As shown in this article, there are several studies proving the benefits of oil pulling in decreasing harmful bacteria in the mouth, improving gum health and oral hygiene, and preventing plaque formation.
 
@@ -141,5 +166,9 @@ Unfortunately, the research is very limited and science has yet a long way to go
 Also, make sure to not replace traditional oral hygiene practices such as brushing your teeth or flossing with oil pulling and always talk to your dentist about any problems.
 
 However, oil pulling might add some great benefits to your traditional oral hygiene practice and be a safe and effective natural remedy to improve your oral health.
+
+<Divider />
+
+<NotADoctor />
 
 
