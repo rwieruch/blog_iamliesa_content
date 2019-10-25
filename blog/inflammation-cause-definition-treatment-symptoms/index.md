@@ -10,7 +10,7 @@ author: ""
 contribute: ""
 ---
 
-What is inflammation exactly? What are inflammation causes and symptoms of inflammation and what does an inflammation treatment look like? We will go into detail about these questions and more in this article. 
+What is inflammation exactly? What are inflammation causes and symptoms of inflammation? And what does an inflammation treatment look like? These are the questions we are looking at in this article. 
 
 Inflammation affects almost every function of the human body, from gut health to aging to allergies and more. Chronic inflammatory diseases belong to the main causes for death and the World Health Organization (WHO) even ranks it as the greatest threat to human health. Diseases associated with chronic inflammation is anticipated to increase persistently over the next 30 years in the US. In 2000, [125 million Americans were affected by chronic inflammation and 61 millions (21%) had more than just one chronic condition](https://www.ncbi.nlm.nih.gov/books/NBK493173/). Worldwide, 3 out of 5 people die due to chronic inflammatory diseases like stroke, heart disorders or cancer.
 
