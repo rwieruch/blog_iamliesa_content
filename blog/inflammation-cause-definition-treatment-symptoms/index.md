@@ -1,7 +1,7 @@
 ---
 date: "2019-09-09T13:35:13.234Z"
 title: "Inflammation: Causes, Symptoms and Treatments."
-description: "Inflammation affects almost every function of the human body. But what exactly is inflammation, why is it so dangerous and how can I treat it?»"
+description: "Inflammation affects almost every function of the human body. But what are inflammation causes, symptoms of inflammation & what does an inflammation treatment look like?»"
 categories: ["inflammation"]
 keywords: ["chronic inflammation", "inflammation", "treat inflammation"]
 banner: "./images/chronic-inflammation.jpg"
@@ -10,9 +10,9 @@ author: ""
 contribute: ""
 ---
 
-Inflammation affects almost every function of the human body, from gut health to aging to allergies and more. Chronic inflammatory diseases belong to the main causes for death and the World Health Organization (WHO) even ranks it as the greatest threat to human health. Diseases associated with chronic inflammation is anticipated to increase persistently over the next 30 years in the US. In 2000, [125 million Americans were affected by chronic inflammation and 61 millions (21%) had more than just one chronic condition](https://www.ncbi.nlm.nih.gov/books/NBK493173/). Worldwide, 3 out of 5 people die due to chronic inflammatory diseases like stroke, heart disorders or cancer.
+What is inflammation exactly? What are inflammation causes and symptoms of inflammation and what does an inflammation treatment look like? We will go into detail about these questions and more in this article. 
 
-But what exactly is inflammation? What is the main cause and what are signs of inflammation? We will go into detail about these questions and more in this article. 
+Inflammation affects almost every function of the human body, from gut health to aging to allergies and more. Chronic inflammatory diseases belong to the main causes for death and the World Health Organization (WHO) even ranks it as the greatest threat to human health. Diseases associated with chronic inflammation is anticipated to increase persistently over the next 30 years in the US. In 2000, [125 million Americans were affected by chronic inflammation and 61 millions (21%) had more than just one chronic condition](https://www.ncbi.nlm.nih.gov/books/NBK493173/). Worldwide, 3 out of 5 people die due to chronic inflammatory diseases like stroke, heart disorders or cancer.
 
 At the end of it, you will understand what inflammation is and why it can also be a good thing. You will also be able to identify signs of inflammation and learn which diseases are associated with inflammation. Finally, you will learn what you can do about inflammation because really, inflammation is just too dangerous to be left untreated. Let’s dive into it. 
 
@@ -25,7 +25,7 @@ Acute inflammation is the one we would consider as being helpful as it is actual
 
 This means, acute inflammation aids with wound healing. It aims at removing the injury agent and its purpose is to restore the damaged parts to their natural functions. Therefor acute inflammation is a sign to your immune system to heal and repair damaged tissue and to defend itself against invaders such as viruses and bacteria. 
 
-# Symptoms of acute inflammation.
+# Inflammation: symptoms of acute inflammation.
 **Common symptoms of acute inflammation are:**
 
 * redness
@@ -42,17 +42,17 @@ There are also other chemicals that leak into the tissue that are the reason for
 
 As the body heals though, the acute inflammation gradually subsides.  
 
-# Chronic inflammation: When acute inflammation does not subside. 
+# How do you get chronic inflammation? 
 Chronic inflammation differs from acute inflammation in that **it does not subside**. You might not even notice that you are inflamed over years or even a lifetime. 
 
 With chronic inflammation the activation and mobilization of inflammatory agents occur for long periods of time. Long-term damage of specific tissue might be the cause for the progression of a certain disease.
 
-The problem with chronic inflammation is that **symptoms are not obvious** and a serious problem can take years to develop. That is why chronic inflammation was titled “the silent killer” in the news - which is not even an exaggeration. That is because most damage done in the body by chronic inflammation begins at a **cellular level** so that you don’t experience any symptoms. Still, there are signs that your body is inflamed.
+With chronic inflammation **symptoms are not obvious** and a serious problem can take years to develop. That is why chronic inflammation was titled “the silent killer” in the news - which is not even an exaggeration. That is because most damage done in the body by chronic inflammation begins at a **cellular level** so that you don’t experience any symptoms. Still, there are signs that your body is inflamed.
 
-# What are symptoms of chronic inflammation?
-While acute inflammation often comes with noticeable symptoms, such as pain, redness or swelling, chronic inflammation is more subtle and as said before not always obvious which makes it harder to diagnose.
+# Chronic inflammation: Symptoms.
+While acute inflammation often comes with noticeable symptoms, such as pain, redness or swelling, chronic inflammation symptoms are more subtle and as said before not always obvious which makes it harder to diagnose.
 
-**Symptoms that give hints that your body is inflamed may be:**
+**Symptoms of chronic inflammation may be:**
 * chronic fatigue
 * rashes
 * fever
@@ -63,7 +63,7 @@ While acute inflammation often comes with noticeable symptoms, such as pain, red
 * muscle soreness
 * body pain
 
-These symptoms vary in intensity and can last for months or even years without being connected to chronic inflammation. This makes chronic inflammation so dangerous because without being treated it can lead to serious diseases. 
+These symptoms of inflammation vary in intensity and can last for months or even years without being connected to chronic inflammation. This makes chronic inflammation so dangerous because without being treated it can lead to serious diseases. 
 
 **Other warning signs to look for that may signal inflammation:** 
 * high blood pressure
@@ -76,14 +76,14 @@ These symptoms vary in intensity and can last for months or even years without b
 * asthma
 * headaches
 
-# What causes inflammation?
+# Inflammation: Causes are manifold. 
 The question of what causes inflammation is a loaded one and the truth is, there are many culprits. Nearly everything around us has the potential to produce some level of inflammation, from the toxins that we are exposed to (there are around 80.000 environmental toxins around us), to chemicals, our diet, air pollutants or tobacco smoke.
 
-With acute inflammation, identifying the cause is quite easy. It occurs when you cut your finger, have a sprained ankle or a sore throat. Its effects are short-term and they are localized, meaning you will feel the effect exactly where the problem is.
+Identifying the cause of acute inflammation is quite easy. It occurs when you cut your finger, have a sprained ankle or a sore throat. Its effects are short-term and they are localized, meaning you will feel the effect exactly where the problem is.
 
 Another cause for inflammation is physical trauma such as burns, frostbite, and radiation which can damage tissues and thus bring about inflammation.
 
-Identifying the cause of a chronic inflammation is much harder.
+With chronic inflammation, causes can be manifold and identifying them is much harder.
 Chronic inflammation **develops over time**. You don’t just wake up one morning and are inflamed. It happens when **the agent causing an acute inflammation isn’t eliminated with the help of acute inflammatory mechanisms**. These agents may be infectious organisms such as **fungi, some types of virus, protozoa, Mycobacterium tuberculosis, and other parasites** that are able to resist host defenses and remain in the tissue for a longer period of time. By entering and destroying cells of the body, they give rise to inflammation.  
  
 Chronic inflammation is also called *persistent, low-grade inflammation* as it produces a steady, low-level of inflammation throughout the body. That means, even when the initial threat has been eliminated, the inflammation may stay active.
@@ -111,7 +111,7 @@ Finally, **recurrent episodes of acute inflammation** may lead to chronic inflam
 * alcohol
 * chronic stress
 
-# Diseases deriving from inflammation.
+# Inflammatory diseases: When inflammation causes disease.
 The root of every disease is some kind of inflammation. With acute inflammation, the body repairs itself and moves on from whatever caused the inflammation. When the body is not able to remove the agent responsible for the inflammation though, that’s when chronic inflammation happens and eventually disease occurs. That’s why inflammatory markers are so important as they are a decent measurement for the inflammation in your body.
 
 **Several diseases that are caused by inflammation include:**
@@ -124,7 +124,7 @@ The root of every disease is some kind of inflammation. With acute inflammation,
 
 If you want to [know more about how these diseases are connected to inflammation, have a read of this article](https://www.iamliesa.com/inflammatory-diseases-inflammation), that explains the connection between them. 
 
-# How does chronic inflammation present itself?
+# Inflammation blood test: How to find out if you are inflamed.
 Most of the time, we do not realize that our body is inflamed. That’s because a lot of inflammation happens on cellular level. The problem is, chronic inflammation doesn’t just stop and go away on its own. It sticks around and since we don’t know it’s there, we don’t do anything against it. This is particularly dangerous as this type of inflammation may lead to heart diseases, stroke and more illnesses.
 
 But, even though you don’t feel that you’re body is inflamed, the signs of chronic inflammation are there. Your body aches and you feel unspecific pain - that’s the sign.
@@ -133,7 +133,7 @@ You can also do blood tests that helps your doctor make an assumption about the 
 
 **Common inflammatory markers include:**
 
-**CRP**: a protein that is made in your liver and increases with inflammation. Elevated levels may indicate you have chronic inflammation. CRP is also linked with an **increased risk of heart disease**. A CRP concentration of higher than 3.0 mg/L indicates a high risk of heart problems according to the American Heart Association.
+**CRP**: is a protein that is made in your liver and increases with inflammation and a common inflammation marker to look at. Elevated levels may indicate you have chronic inflammation. CRP is also linked with an **increased risk of heart disease**. A CRP concentration of higher than 3.0 mg/L indicates a high risk of heart problems according to the American Heart Association.
 
 **hs-CRP**: This test detects lower levels of the protein in the blood compared to the standard CRP test which measures CRP in a range from 10 to 1000 mg/L. The hs-CRP test measures the protein in a range from 0.5 to 10 mg/L.
 
@@ -153,8 +153,8 @@ You can also do blood tests that helps your doctor make an assumption about the 
 
 **White blood cells**: We’ve learned that white blood cells fight off infection, so you might think an elevated white blood cell count is a good thing. But it is not necessarily. It might also be an indication for chronic inflammation as well as stress, trauma, allergy or certain diseases. 
 
-# How to treat chronic inflammation.
-Inflammation is a natural part of the healing process so acute inflammation is considered a good thing. It’s only when inflammation becomes chronic that you want to do something about it to reduce the risk of long-term damage. 
+# Chronic inflammation: Treatment.
+Inflammation is a natural part of the healing process so acute inflammation is considered a good thing. It’s only when inflammation becomes chronic that you want to do something about it and look for an inflammation treatment to reduce the risk of long-term damage. 
 
 Some of the options to treat inflammation include:
 
@@ -175,7 +175,7 @@ However, when it comes to drugs to block key inflammatory pathways we have to co
 # Food and inflammation.
 As you might have guessed, your diet plays a major role in inflammation. What you eat sends information to your body so the type of foods that you eat can either turn on good or bad genes. Consuming only hamburger and fries will naturally turn on the bad genes that lead to inflammation whereas eating healthy foods like broccoli will turn on good gene pathways that are anti-cancer and anti-inflammatory.
 
-So which foods should you eat in order to eliminate inflammation? You guessed it: Whole, nutrient-dense and antioxidant rich foods would be your choice here. Foods high in antioxidants fight oxidative stress which in turn eliminates inflammation. Processed foods full of sugar on the other hand promote inflammation. If you want to know more about what exactly to eat to fight inflammation, you should read [this article](https://www.iamliesa.com/inflammation-food).
+So which foods should you eat in order to eliminate inflammation? You guessed it: Whole, nutrient-dense and antioxidant rich foods would be your choice here. Foods high in antioxidants fight oxidative stress which in turn eliminates inflammation. Processed foods full of sugar on the other hand promote inflammation. If you want to know more about [what exactly to eat to fight inflammation](https://www.iamliesa.com/inflammation-food), you should read this article.
 
 <Divider />
 
