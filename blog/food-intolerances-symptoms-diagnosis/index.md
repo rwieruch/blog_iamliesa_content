@@ -1,7 +1,7 @@
 ---
 date: "2018-12-30T13:35:13.234Z"
 title: "Food Intolerances: Symptoms, Causes & Diagnosis "
-description: "Food intolerances are on the rise. But what distinguishes an intolerance from an allergy, what are the symptoms and causes and how do you diagnose an intolerance? »"
+description: "What are the symptoms & causes of food intolerances and how do you diagnose and treat them? And what makes them different from allergies?»"
 categories: ["health"]
 keywords: ["food intolerance", "food allergy", "food sensitivity", "food intolerance symptoms"]
 hashtags: ["#health"]
@@ -16,7 +16,7 @@ Physical reaction to certain foods are common, but mostly they are not caused by
 
 That’s why in this blog post we are going to talk about the differences between food intolerances and food allergies, about the role of the gastrointestinal tract in food intolerances, about symptomes and finally about the importance of an elimination diet.
 
-# Food Intolerances vs. Food Allergy
+# Food Intolerances vs. Food Allergy.
 
 Food intolerance is also known as **non-lgE mediated food hypersensitivity or non-allergic food hypersensitivity**. A food intolerance refers to the **difficulty in digesting certain foods** and it is different from food allergies in that **an allergy triggers the immune system**, while food intolerance does not. Still some of the symptoms of a food allergy may be similar to those of a food intolerance.
 
@@ -30,13 +30,13 @@ Foods most commonly associated with food intolerance include **wheat, milk, soy,
 
 Food intolerances and sensitivities have a wide range of symptoms, sometimes even similar to food allergy symptoms, making it hard for us to diagnose them.
 
-# Symptoms Of Food Intolerance
+# Food Intolerance: Symptoms.
 
 Certain foods, even the [healthy ones](https://www.iamliesa.com/healthy-kitchen-stocking-fruits-vegetables) can cause bad reactions in the body. Symptoms of food intolerances vary, but most often they involve the **digestive system, skin and respiratory system**.
 
 ![food intolerance symptoms](./images/food_intolerance_symptoms.jpg)
 
-Common symptoms of a food intolerance include:
+Common food intolerance symptoms include:
 
 * Diarrhea
 * Bloating
@@ -59,11 +59,11 @@ Common symptoms of a food intolerance include:
 
 These symptoms are an effect of a reaction of our gastrointestinal tract to a particular food. When a particular food upsets our G.I. tract, or negatively reacts with one of its constituents, we can feel the effect all over our body.
 
-# What Causes Food Intolerances?
+# Food Intolerances: Causes.
 
 It’s very hard to pinpoint a food intolerance to one specific cause as there are many causes of food intolerance. Let’s take a look at some of them.
 
-## Lack Of An Enzyme
+**Lack Of An Enzyme**
 
 In order to digest a food fully, your body needs **enzymes**. Sometimes however, your body is **missing certain digestive enzymes**, thus food molecules cannot be digested properly.
 
@@ -71,23 +71,37 @@ This is the case e.g. for people who are lactose intolerant. They are missing th
 
 For proper digestion nearly all foods require an enzyme. According to the [British Allergy Foundation](https://www.allergyuk.org/information-and-advice/conditions-and-symptoms/36-types-of-food-allergy), a common cause of food intolerance is in fact **enzyme deficiencies**.
 
-## Transport Defects
+**Transport Defects**
 
 Apart from enzyme deficiencies, there may also be **defects in transporter molecules**. GLUT 5 for example transports fructose, GLUT 2 transports glucose, galactose or fructose. When they don’t function properly, these carbohydrates **can’t be transported into the intestinal cells** which results in their **metabolism in the large intestines** where they are transported intact in large quantities. As a result from these gases and decomposition products abdominal pain, bloating, flatulence, and diarrhea may occur.
 
-## Chemicals In Foods
+**Chemicals In Foods**
 
 Our food is full of **chemicals**. Take for example caffeine in coffee, tea, and chocolate, or amines in certain cheeses. Some people react harder on these chemicals than others.
 
-## Histamine In Foods
+**Histamine In Foods**
 
 Your body naturally produces histamine along with the enzyme diamine oxidase (DAO). Also certain types of food can have an **accumulation of histamine**. Some people are particularly sensitive to this naturally-occurring histamine. They react with skin rashes, abdominal cramps, nausea, vomiting, and diarrhea.
 
-# Gut Health And Food Sensitivities
+# Most common food intolerances.
+
+According to estimations, more than [20% of the world’s population have a food intolerance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695393/). There seem to be certain groups of food that are more common to trigger a reaction in the body than others.
+
+The eight most common groups of food intolerances are:
+1. Dairy
+2. Gluten
+3. Caffeine
+4. Salicylates (natural chemicals produced by plants)
+5. Amines (produced by bacteria during fermentation)
+6. FODMAPs (fermentable oligo-, di-, monosaccharides and polyols)
+7. Sulfites (chemicals used as preservatives in food)
+8. Fructose
+
+# Gut Health And Food Sensitivities.
 
 Our gut digests everything we consume. So it’s only natural that the key place of interest when it comes to food sensitivities, allergies and intolerances is in the gut and the gastrointestinal tract. The G.I. tract is a massively important organ system. It’s where nutrients and water from foods are absorbed to help keeping your body healthy. It’s also home to up to **80% of our immune system**. Thus gut health is the core of our total well-being.
 
-## Leaky Gut And Food Sensitivities
+## Leaky Gut And Food Sensitivities.
 
 The role of your G.I. tract is to take in the food you eat, break it down and have it absorbed into your body in a controlled way. Your gastrointestinal system discharges the proper amount of enzymes and acids to process the food so that nutrients can be released and transported to the cells - that is if it is healthy.
 
@@ -95,7 +109,7 @@ Your G.I. tract also provides a **protective barrier between the food you eat an
 
 Furthermore, this can also trigger **reactions to usually harmless foods** due to high inflammation levels and confused immune cells. This may contribute to food allergies and sensitivities. Here the vicious circle begins as food sensitivities further drive inflammation levels and inflame the intestinal lining which exacerbates leaky gut. Can you see why a healthy gut is so important?
 
-## The Connection Between The Gut Flora And Food Allergies
+## The Connection Between The Gut Flora And Food Allergies.
 
 The key to a healthy gut is **bacteria**. Our digestive system is host to over 100 trillion bacteria cells. These beneficial bacteria are known as probiotics and they aid in the nourishment and defense of the digestive tract and the whole body. They also help maintain a **healthy microbial balance in the digestive system**.
 
@@ -109,7 +123,7 @@ Several studies have shown the connection between our gut flora and the developm
 
 So you see that your gut microbiome plays an important role in **how your immune system reacts to threats like bacteria or viruses**, but what’s even more important here is that you also see that a **lack of beneficial bacteria in the gut can in fact contribute to the immune system’s inability to tell friend from foe**. This leads to the dreaded overreaction that you experience as an allergy.
 
-# Foodmaps
+# FODMAPs
 
 Apart from food allergies, there are also FODMAPs. FODMAP stands for “fermentable oligo-, di-, mono-saccharides and polyols”.
 
@@ -129,10 +143,12 @@ Commonly used FODMAPs comprise of:
 
 # Why Is It Important To Identify And Neutralize Food Sensitivities?
 
-Many symptoms of a food sensitivity reaction only bother us for a short while, but there may be **long term consequences** of repeat reactions. Thus if left untreated, allergies and food sensitivities can have a serious impact on your quality of life. Consequences vary from **increased risk of health problems to decreased brain function and mood instability**. There even is a risk of **chronic diseases** ([9](http://www.food-detective.ch/pages/wissenschaftliche-informationen/papers/09.pdf)) and **illnesses** such as ([10](https://www.foodintol.com/health-risks-of-untreated-food-intolerance)):
+Many symptoms of a food sensitivity reaction only bother us for a short while, but there may be **long term consequences**of repeat reactions. Thus, if left untreated, allergies and food sensitivities can have a serious impact on your quality of life. Consequences vary from **increased risk of health problems to decreased brain function and mood instability**. There even is a risk of **chronic diseases** ([9](http://www.food-detective.ch/pages/wissenschaftliche-informationen/papers/09.pdf)) and **illnesses** such as ([10](https://www.foodintol.com/health-risks-of-untreated-food-intolerance)):
 
 * Anaemia
+
 Auto-immune conditions like:
+
 * Rheumatoid arthritis
 * Diabetes Type I
 * Graves’ disease
@@ -149,7 +165,7 @@ Due to the inflammatory effects of allergic reactions, the structure of the syst
 
 Save your health and quality of life by seeking professional advice early if you suspect having a food intolerance.
 
-# How To Diagnose A Food Intolerance?
+# Food Intolerance: Diagnosis.
 
 As you may know by now, not all reactions to food are of allergic nature. In a food allergy, your **immune system produces antibodies** known as immunoglobulin E (IgE) in response to certain foods that it mistakenly believes to be harmful. This results in a cascade of cellular responses, such as the release of histamines that cause typical allergy symptoms.
 
@@ -161,7 +177,7 @@ There are different tools people commonly employ to identify the cause of a food
 
 Let’s take a closer look at the ladder.
 
-## Elimination Diet to Diagnose Food Intolerances
+## Elimination Diet to Diagnose Food Intolerances.
 
 The elimination diet is a great tool to **uncover hidden food intolerances, healing the gut, and bringing inflammation levels down**.
 
