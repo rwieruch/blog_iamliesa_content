@@ -181,7 +181,7 @@ Let’s take a closer look at the ladder.
 
 The elimination diet is a great tool to **uncover hidden food intolerances, healing the gut, and bringing inflammation levels down**.
 
-It works by **removing the foods that are most likely to irritate your body** for a few weeks (three weeks are seen as the minimum) and up to six months to give your body a change to calm down and focus on healing.
+It works by **removing the foods that are most likely to irritate your body** for a few weeks (three weeks are seen as the minimum) and up to six months to give your body a chance to calm down and focus on healing.
 
 After a three weeks to six months you can bring those foods back one by one in order to identify what specifically is hurting your body. Try to eat the specific food **every day for at least one week** before you reintroduce the next one.
 
