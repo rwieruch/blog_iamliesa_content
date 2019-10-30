@@ -47,6 +47,7 @@ module.exports = {
   hashtags: ['#socialmedia', '#consultant', '#nutritions'],
 
   blog: {
+    enabled: true,
     // provide a link which is used with article's slug to edit article by reader
     // specify: provide contribute property as whole URL in frontmatter
     contributeBase:
