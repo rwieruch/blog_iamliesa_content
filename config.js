@@ -100,15 +100,14 @@ module.exports = {
 
   // goodie shown below each blog post
   goodie: {
-    enabled: false,
-    header: 'The Road to React',
+    enabled: true,
+    header: 'Your free Inflammation Guide',
     text:
-      'Learn React by building real world applications. No setup configuration. No tooling. Plain React in 200+ pages of learning material. Learn React like <strong>33.000+ readers</strong>.',
-    img: 'img/page/cover.png',
-    cta: 'Get the Book for free',
-    ctaSecondary: 'Get it on Amazon.',
-    url: 'https://www.getrevue.co/profile/rwieruch',
-    urlSecondary: 'https://amzn.to/2LHjxRB',
+      'Learn all about inflammation: What it is, common symptoms and how to fight it naturally. Plus one day anti-inflammatory diet to follow along.',
+    cta: 'Get your free Guide',
+    ctaSecondary: '',
+    url: 'https://www.getrevue.co/profile/iamliesa',
+    urlSecondary: '',
   },
 
   // Navigation
