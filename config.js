@@ -1,15 +1,6 @@
-const theme = {
-  primary: '#87a571',
-  fontPrimary: '#333333',
-  backgroundPrimary: '#fff',
-};
-
 module.exports = {
   siteUrl: 'https://www.iamliesa.com',
   languageCode: 'en-US',
-
-  // color theme
-  theme,
 
   // manifest
   manifest: {
@@ -17,7 +8,7 @@ module.exports = {
     short_name: 'Ia.Liesa',
     start_url: '/',
     background_color: '#fff',
-    theme_color: theme.primary,
+    theme_color: '#87a571',
     display: 'standalone',
     icon: 'static/icon.png',
   },
