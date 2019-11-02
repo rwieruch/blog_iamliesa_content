@@ -104,7 +104,10 @@ module.exports = {
 
   // Navigation
 
-  navigation: [{ to: '/', label: 'About' }, { to: '/blog', label: 'Blog' }],
+  navigation: {
+    enabled: true,
+    links: [{ to: '/', label: 'About' }, { to: '/blog', label: 'Blog' }],
+  },
 
   // Landing Page
 
