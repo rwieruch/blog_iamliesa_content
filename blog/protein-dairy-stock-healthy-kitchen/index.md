@@ -122,3 +122,7 @@ As with all living beings, fish are what they eat. Wild salmon for example eats 
 Last but not least, there is **wild-caught fish**. Wild-caught fish are caught in their natural environment using hands-lines, nets, divers or traps. Some fish, however, can be wild-caught and farm-raised as wild fish are caught as babies, taken to pens and fattened up. Therefore opting for 100% wild fish would be the best option.
 
 Unfortunately, relying on labels doesn’t always protect you from scam. Fish fraud is a global problem. [Recent studies](https://oceana.org/sites/default/files/reports/Seafood_Traceability_Report_FINAL.pdf) found out that as much as 25 to 70 percent of the labels might actually be wrong. Instead of wild fish you might actually be eating farm-raised fish, or maybe you are just eating a whole other type of fish.
+
+![How to stock a healthy kitchen? When it comes to healthy kitchen essentials, we need to talk about protein and dairy. The source of our protein is so important and our food's diet greatly affects its nutritional value. So what should you look out for when stocking a healthy kitchen with protein and dairy? Find out on my blog.](./images/protein_dairy.png)
+
+<NotADoctor />
