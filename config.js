@@ -68,7 +68,7 @@ module.exports = {
           categoryFn: edges =>
             edges.sort(
               (a, b) =>
-                new Date(b.node.fields.date) - new Date(a.node.fields.date),
+                new Date(b.node.fields.date) - new Date(a.node.fields.date)
             ),
         },
       },
@@ -106,7 +106,10 @@ module.exports = {
 
   navigation: {
     enabled: true,
-    links: [{ to: '/', label: 'About' }, { to: '/blog', label: 'Blog' }],
+    links: [
+      { to: '/', label: 'About' },
+      { to: '/blog', label: 'Blog' },
+    ],
   },
 
   // Landing Page
@@ -295,10 +298,26 @@ module.exports = {
       },
     ],
   },
+  table: {
+    header: '',
+    subheader: '',
+    chapters: [
+      {
+        label: '',
+        sections: [''],
+      },
+    ],
+    code: [
+      {
+        label: '',
+        sections: [''],
+      },
+    ],
+  },
   sproof: {
     header: '',
     subheader: '',
-    items: [
+    cites: [
       {
         author: '',
         url: '',
