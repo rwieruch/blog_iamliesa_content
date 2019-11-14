@@ -106,6 +106,7 @@ module.exports = {
 
   navigation: {
     enabled: true,
+    hasLogo: true,
     links: [
       { to: '/', label: 'About' },
       { to: '/blog', label: 'Blog' },
