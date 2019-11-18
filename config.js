@@ -141,6 +141,11 @@ module.exports = {
       },
     ],
   },
+  ppp: {
+    header: '',
+    subheader: '',
+    suffix: '',
+  },
   about: {
     header: 'About me',
     subheader: 'Something you should know.',
@@ -367,14 +372,15 @@ module.exports = {
   sale: {
     header: '',
     subheader: '',
+    courseUrl: '',
     items: [
       {
         header: '',
         benefits: [''],
-        button: {
-          label: '',
-          url: '',
-        },
+        price: 0,
+        label: '',
+        courseId: '',
+        packageId: '',
       },
     ],
   },
