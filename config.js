@@ -319,6 +319,12 @@ module.exports = {
         sections: [''],
       },
     ],
+    screencasts: [
+      {
+        label: '',
+        sections: [''],
+      },
+    ],
   },
   sproof: {
     header: '',
