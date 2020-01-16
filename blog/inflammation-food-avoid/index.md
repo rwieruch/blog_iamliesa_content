@@ -1,5 +1,5 @@
 ---
-date: "2019-10-30T13:35:13.234Z"
+date: "2020-01-16T13:35:13.234Z"
 title: "Food to avoid to fight inflammation"
 description: "Which foods should you avoid to fight inflammation? Which foods in your diet promote inflammation? Learn everything you need to know here.»"
 categories: ["inflammation"]
