@@ -1,12 +1,7 @@
 ---
 date: "2019-10-03T13:35:13.234Z"
-<<<<<<< Updated upstream
 title: "Food against Inflammation"
 description: "Inflammation: Anti-inflammatory food prevent and fight chronic diseases. Almonds, walnuts, berries, avocados, leafy greens, freshly ground flax and chia seeds ..."
-=======
-title: "Foods that fight and prevent chronic inflammation."
-description: "Inflammation is the cause for many diseases. Therefore it's important to prevent and fight inflammation with food.»"
->>>>>>> Stashed changes
 categories: ["inflammation"]
 keywords: ["inflammation food"]
 banner: "./images/salmon-food-inflammation.jpg"
@@ -15,7 +10,6 @@ author: ""
 contribute: ""
 ---
 
-<<<<<<< Updated upstream
 As you might have guessed, your food plays a major role in inflammation. What you eat sends information to your body so the type of foods that you eat can either turn on good or bad genes. Eating only hamburger and fries will naturally turn on the bad genes that lead to inflammation whereas eating healthy foods like broccoli will turn on good gene pathways that are anti-cancer and anti-inflammatory.
 
 **Which foods should you eat in order to eliminate inflammation?** You guessed it: Whole, nutrient-dense and antioxidant rich foods would be your choice here. Foods high in antioxidants fight oxidative stress which in turn eliminates inflammation. Processed foods full of sugar on the other hand promote inflammation.
@@ -86,18 +80,11 @@ Also, *trans fats* and *hydrogenated oils* should be avoided at all cost. If you
 These should not be part of an *oligoantigenic diet*: A diet low in foods that are known to cause immune responses or lead to intolerances.
 
 Apart from the foods listed above, there is another group of foods that might create inflammation for some but not for everybody. It’s the group of *nightshade vegetables*. This is the common name to describe a group of vines, herbs, shrubs, and trees. They are the edible parts  of flowering plants that belong to the *Solanaceae* family.
-=======
-As you might have guessed, your diet plays a major role in inflammation. What you eat sends information to your body so the type of foods that you eat can either turn on good or bad genes. Consuming only hamburger and fries will naturally turn on the bad genes that lead to inflammation whereas eating healthy foods like broccoli will turn on good gene pathways that are anti-cancer and anti-inflammatory.
-
-So which foods should you eat in order to eliminate inflammation? You guessed it: **Whole, nutrient-dense and antioxidant rich foods** would be your choice here. Foods high in antioxidants fight oxidative stress which in turn eliminates inflammation. Processed foods full of sugar on the other hand promote inflammation.
-
-Read here, which foods to eat to fight inflammation and what role essential fatty acids play in inflammation.
->>>>>>> Stashed changes
 
 # Foods that prevent or decrease inflammation
-Let’s loot at foods to fight chronic inflammation. We cannot talk about inflammation without looking at our intake of essential fatty acids.
 
-<<<<<<< Updated upstream
+Let’s look at foods to fight chronic inflammation. We cannot talk about inflammation without looking at our intake of essential fatty acids.
+
 * **tomatoes**
 * **tomatillos**
 * **eggplants**
@@ -118,33 +105,11 @@ Nightshade vegetables also harbor an anti-nutrient called *lectin*, which can ac
 Now that you know which foods to avoid to decrease inflammation, let’s talk about foods to fight chronic inflammation.
 
 As we’ve already covered, there are two flavors of essential fatty acids:
-=======
-As we’ve [already covered](https://www.iamliesa.com/stocking-healthy-kitchen-fats), there are two flavors of essential fatty acids:
->>>>>>> Stashed changes
 
 * Omega-6, which provides your body with messenger molecules involved in the **pro-inflammatory response**
 * Omega-3, which triggers **anti-inflammatory** messenger molecules.
 
-<<<<<<< Updated upstream
 The goal is to improve the omega-3 to omega-6 ratio in favor of omega-3 to get it as close to the ratio our hunter-gatherer ancestors had. Therefore, an anti-inflammatory diet should always include foods that are high in omega-3 fatty acids such as:
-=======
-The goal is to improve the omega-3 to omega-6 ratio in favor of omega-3 to get it as close to the ratio our hunter-gatherer ancestors had. Therefore, an anti-inflammatory diet should always include foods that are high in omega-3 fatty acids such as: 
-
-* wild caught fish
-* grass-fed meats
-* pasture-raised eggs
-* free range chicken and turkey
-* freshly ground flax and chia seeds
-* almonds
-* walnuts
-* berries
-* avocados
-* leafy greens
-* cruciferous vegetables
-
-# The best foods to decrease inflammation
-We have covered food groups to avoid and those to get more from. Now let’s get into the specifics of foods to eat to fight inflammation. This is just a small selection. There are so many more foods that help decrease chronic inflammation, but we have to start somewhere, right?
->>>>>>> Stashed changes
 
 * **wild caught fish**
 * **grass-fed meats**
@@ -160,7 +125,6 @@ We have covered food groups to avoid and those to get more from. Now let’s get
 
 # Best foods to decrease inflammation.
 
-<<<<<<< Updated upstream
 We have covered food groups to avoid and those to get more from. Now let’s get into the specifics of foods to eat to fight inflammation. This is just a small selection. There are so many more foods that help decrease chronic inflammation, but we have to start somewhere, right?
 
 There really is no anti-inflammatory meal plan that doesn’t include wild-caught salmon. **“Wild-caught”** is the important part here as it really differs from farm-raised salmon in that farm-raised contains less omega-3 and may even be harmful to your health due to antibiotics used to treat bacteria.
@@ -172,13 +136,6 @@ There really is no anti-inflammatory meal plan that doesn’t include wild-caugh
 * Another amazing source of the omega-3 fatty acid alpha linolenic acid is **flaxseed**. It is loaded with fiber, protein, and nutrients and helps improve the omega-3 to omega-6 ratio.
 When eating it, remember that flaxseed can’t be eaten whole, it needs to be grounded to be properly absorbed. Add it to your joghurt or your smoothie for an anti-inflammatory boost.
 
-=======
-* Another anti-inflammatory staple is **extra-virgin olive oil**. It is high in antioxidant compounds like *phenols*. It also contains a polyphenol called *oleocanthal* that does not only have antioxidant compounds but also anti-inflammatory ones similar to ibuprofen. [(3)](https://www.aceitedelasvaldesas.com/en/faq/propiedades-composicion-aceite-oliva/oleocanthal/)
-
-* Another amazing source of the omega-3 fatty acid alpha linolenic acid is **flaxseed**. It is loaded with fiber, protein, and nutrients and helps improve the omega-3 to omega-6 ratio.
-When eating it, remember that flaxseed can’t be eaten whole, it needs to be grounded to be properly absorbed. Add it to your joghurt or your smoothie for an anti-inflammatory boost. 
-
->>>>>>> Stashed changes
 * **Red cabbage** is a great source of *anthocyanins*, a powerful free radical fighting antioxidant and anti-inflammatory flavonoid. Anthocyanins are the pigments that give red cabbage and other red, purple and blue plants their color.
 
 * **Onions** are another inflammation fighter that is sulfur-rich and packed with *quercetin*, an amazing anti-inflammatory compound.
@@ -189,79 +146,47 @@ When eating it, remember that flaxseed can’t be eaten whole, it needs to be gr
 
 * **Broccoli** belongs to the cruciferous family of vegetables and is high in phytochemicals called glucosinolates which are powerful antioxidants. It is also rich in sulforaphane, an antioxidant that fights inflammation by **reducing your levels of cytokines**. [(4)](https://www.ncbi.nlm.nih.gov/pubmed/21129940)
 
-<<<<<<< Updated upstream
-## Spices to fight inflammation.
+## Spicy food to fight inflammation.
 
 To get even more anti-inflammatory rewards from your food, bring in spices to your cooking. They’ll add flavor to your meals and improve antioxidant function.
-=======
-# Spices to fight inflammation
-To get even more anti-inflammatory rewards from your food, bring in spices to your cooking. They’ll add flavor to your meals and improve antioxidant function. 
->>>>>>> Stashed changes
 
 There are many different herbs and spices that can help decrease or prevent inflammation in your body. Here is a small list of my favorites:
 
 * **Ginger**: with its *gingerols*, *shogaols*, *gingerdiones*, and *zingerone*, ginger provides a **powerful antioxidant boost**. Additionally, zingerone and shogaol help fight inflammation. [(5)](https://www.ncbi.nlm.nih.gov/pubmed/26228533) Other medical properties of ginger include the alleviation of nausea, arthritis and pain.
 
-<<<<<<< Updated upstream
 * **Turmeric**: Turmeric is one of the most famous anti-inflammatory spices thanks mainly to its active ingredient known as *curcuminoid*, the most active and most beneficial one to health being *curcumin*.
-=======
-* **Turmeric**: Turmeric is one of the most famous anti-inflammatory spices thanks mainly to its active ingredient known as *curcuminoid*, the most active and most beneficial one to health being *curcumin*. 
->>>>>>> Stashed changes
+
 Curcumin is known for its antioxidant benefits as well as its anti-inflammatory and anti-tumor effects. [(6)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918523/)
 In order to absorb the curcumin, you need to pair it with black pepper.
 
 * **Garlic**: Garlic contains *diallyl disulfide*, a compound that limits the effects of pro-inflammatory cytokines. [(7)](https://www.arthritis.org/living-with-arthritis/arthritis-diet/best-foods-for-arthritis/best-spices-for-arthritis.php)
 
-<<<<<<< Updated upstream
 ## Nutrients and supplements to fight inflammation.
 
-=======
-# Nutrients and supplements to fight inflammation
->>>>>>> Stashed changes
 Before we talk about supplements to fight inflammation, let’s make one thing clear: Food always comes first. Supplements don’t replace a healthy diet and they won’t get you very far if you don’t put in the work of eating well. However, if you combine anti-inflammatory foods with the right supplements, you can get impressive health results. Let’s talk about supplements to combine with your diet.
 
 * **Fish oil**: If you can’t afford or don’t like to regularly eat wild-caught fish, fish oil is a great addition to your healthy diet. You should aim for a **minimum of 2 grams combined EPA/DHA daily**. Therefore read the label to find out how much EPA and DHA one serving contains. Quality brands also contain tocopherols or other antioxidants to preserve the fish oil.
 
-<<<<<<< Updated upstream
 * **Curcumin**: We have talked already about turmeric and its anti-inflammatory benefits, but to get therapeutic amounts of this powerful compound, you’ll want to take a supplement. Look for those containing **soy or sunflower lecithin** to increase absorption.
 Curcuminoids are **fat-soluble** and therefore hard for your body to absorb. That’s why turmeric as supplement is not going to be very effective on its own. Add a **fat-soluble compound** to enhance the absorption, e.g. coconut or almond milk. Aim for at least **500 mg twice a day** to get the best anti-inflammatory results.
 
 * **Resveratrol**: Resveratrol belongs to the group of *polyphenyl*, found in colorful plants like grapes as well as red wine and chocolate. They’re thought to act like antioxidants, protecting the body from damage to the cells. To get therapeutic amounts, you should take a supplement. Look for one with **at least 50% trans resveratrol**.
-=======
-* **Curcumin**: We have talked already about turmeric and its anti-inflammatory benefits, but to get therapeutic amounts of this powerful compound, you’ll want to take a supplement. Look for those containing **soy or sunflower lecithin** to increase absorption. 
-Curcuminoids are **fat-soluble** and therefore hard for your body to absorb. That’s why turmeric as supplement is not going to be very effective on its own. Add a **fat-soluble compound** to enhance the absorption, e.g. coconut or almond milk. Aim for at least **500 mg twice a day** to get the best anti-inflammatory results.
-
-* **Resveratrol**: Resveratrol belongs to the group of *polyphenyl*, found in colorful plants like grapes as well as red wine and chocolate. They’re thought to act like antioxidants, protecting the body from damage to the cells. To get therapeutic amounts, you should take a supplement. Look for one with **at least 50% trans resveratrol**. 
->>>>>>> Stashed changes
 
 * **Holy basil (tulsi)**: The effects of holy basil are greatly researched. Studies show that holy basil **may protect organs and tissues against chemical stress from pollutants and heavy metals**. It’s also shown to **normalize blood sugar, blood pressure, and lipid levels**. Its anti-inflammatory effects is associated with its *eugenol* and *linoleic acid* compounds. [(8)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296439/) Aim for **at least 500 mg twice a day**.
- 
-# Inflammation and essential fatty acids ratio
-As you know by now, what you eat can turn on an inflammatory reaction. Sugary and vegetable oil rich foods and even gluten ramp up inflammation while other foods create anti-inflammatory benefits. Ideally, your body should be able to turn inflammation on and off as needed. You really don’t want inflammation to doze silently in your body, being undiagnosed and wreaking havoc in your body. 
 
-The key to fighting inflammation with food is having the **right ratio of omega-3 and omega-6 fatty acids**. 
+# Inflammation and essential fatty acids ratio
+As you know by now, what you eat can turn on an inflammatory reaction. Sugary and vegetable oil rich foods and even gluten ramp up inflammation while other foods create anti-inflammatory benefits. Ideally, your body should be able to turn inflammation on and off as needed. You really don’t want inflammation to doze silently in your body, being undiagnosed and wreaking havoc in your body.
+
+The key to fighting inflammation with food is having the **right ratio of omega-3 and omega-6 fatty acids**.
 
 Research has shown that [omega-3 fatty acids decrease the production of inflammatory mediators](https://www.ncbi.nlm.nih.gov/pubmed/26745681). As we have learned, this has a positive effect in diseases such as type 2 diabetes and obesity and lowers the risk for cardiovascular events.
 
 One way to increase the intake of omega-3 fatty acids is supplementing with **fish oil**. This is indeed [known to inhibit inflammatory cytokines such as TNF-alpha and IL-1 and pro-inflammatory eicosanoids such as thromboxane-2 and prostaglandin E](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269634/).
 
-On the other hand, foods high in *arachidonic acid* such as egg yolk or corn and corn-fed beef should not be part of an anti-inflammatory diet. Arachidonic acid is a compound used in metabolic pathways that **promotes inflammation**. It’s a source of omega-6 fatty acids that provide the body with messenger molecules involved in the inflammatory process. 
+On the other hand, foods high in *arachidonic acid* such as egg yolk or corn and corn-fed beef should not be part of an anti-inflammatory diet. Arachidonic acid is a compound used in metabolic pathways that **promotes inflammation**. It’s a source of omega-6 fatty acids that provide the body with messenger molecules involved in the inflammatory process.
 
-<<<<<<< Updated upstream
-# Top 3 favorite anti-inflammatory recipes.
+# Top 3 favorite anti-inflammatory food recipes.
 
-=======
-[Research has shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269634/) that the **consumption of seed oils high in omega-6 fatty acids** does not only contribute to **low-grade inflammation** but also to *oxidative stress*, *endothelial dysfunction* and *atherosclerosis*, conditions that [as we know are all related to an inflammatory state of the body](https://www.iamliesa.com/inflammatory-diseases-inflammation). 
-
-One study with mice that were fed different diets varying the omega-3/omega-6 ratio also showed that the ones that were fed a diet with the lowest omega-6/3 ratio had [the lowest triglyceride and low-density lipoprotein (LDL - the “bad” cholesterol) levels and the highest high-density lipoprotein (HDL - the “good” cholesterol) levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269634/).  
-
-## The historical omega-3 to omega-6 fatty acids ratio
-Research suggest that our hunter-gatherer ancestors had about a [1:1 ratio of omega-6 and omega-3 fatty acids](http://www.ajcn.org/cgi/content/full/71/1/179S?ijkey=5c7af875f3dc71a303f7df78c52145e8b7c31643) and they all lived **relatively free from inflammatory diseases** like cancer, diabetes or cardiovascular disease. They had seafood and other food sources rich in omega-3s in abundance and their diet was relatively low in omega-6 seed oils. 
-
-Then, the intake of omega-6 fatty acids increased due to the** advent of the modern vegetable oil industry** and the **increased use of cereal grains**. This lead to a shift in the omega-3/omega-6 ratio which is now estimated to be anywhere between **10:1 to 25:1** in some individuals.
-
-# Top 3 favorite anti-inflammatory recipes
->>>>>>> Stashed changes
 There are a ton of healthy, anti-inflammatory recipes out there. Wild salmon, grass-fed meat and the variety of veggies give us so many options to choose from. Just play around a little with different spices and herbs, veggies and your favorite omega-3 source and you’ll see how easy it is to follow an anti-inflammatory diet. Here is what one day in my diet looks like.
 
 **Breakfast**
@@ -332,7 +257,6 @@ Another staple of mine: the salad with salmon and creamy garlic dressing. Kale f
 2. Meanwhile, whisk the extra-virgin olive oil with all the other ingredients in a bowl.
 
 3. Then combine kale, broccoli, cabbage, carrots and walnuts in a larger bowl and drizzle with the sauce and toss to coat. But don’t use all of the dressing just yet. Divide the salad among 4 plates and top each of them with a piece of salmon. Then top it with the remaining dressing.
-
 
 <Divider />
 
