@@ -386,7 +386,7 @@ module.exports = {
         price: 0,
         label: '',
         courseId: '',
-        packageId: '',
+        bundleId: '',
       },
     ],
   },
