@@ -175,6 +175,7 @@ Curcuminoids are **fat-soluble** and therefore hard for your body to absorb. Tha
 * **Holy basil (tulsi)**: The effects of holy basil are greatly researched. Studies show that holy basil **may protect organs and tissues against chemical stress from pollutants and heavy metals**. It’s also shown to **normalize blood sugar, blood pressure, and lipid levels**. Its anti-inflammatory effects is associated with its *eugenol* and *linoleic acid* compounds. [(8)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296439/) Aim for **at least 500 mg twice a day**.
 
 # Inflammation and essential fatty acids ratio
+
 As you know by now, what you eat can turn on an inflammatory reaction. Sugary and vegetable oil rich foods and even gluten ramp up inflammation while other foods create anti-inflammatory benefits. Ideally, your body should be able to turn inflammation on and off as needed. You really don’t want inflammation to doze silently in your body, being undiagnosed and wreaking havoc in your body.
 
 The key to fighting inflammation with food is having the **right ratio of omega-3 and omega-6 fatty acids**.
