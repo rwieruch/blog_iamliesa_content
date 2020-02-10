@@ -258,5 +258,6 @@ Combine the remaining 1.5 teaspoons oil, 1.5 teaspoon juice, and cabbage; toss w
 
 From the rice, you can make 4 portions in a shallow bowl. Divide the bean, tomato and cabbage mixture over the rice and add cheese and avocado evenly.
 
+<Divider />
 
 <NotADoctor />
