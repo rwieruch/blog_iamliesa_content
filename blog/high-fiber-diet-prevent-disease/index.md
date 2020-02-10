@@ -78,10 +78,13 @@ Resistant starch can be found in **under ripe bananas, cooked and cooled potatoe
 
 ![how much fiber should I eat per day](./images/how-much-fiber.jpg)
 
-By now you have probably realized that fiber is an integral part of your daily diet. Thus you might think “the more the better”, right? Well, it’s not that easy. Too much fiber can have very uncomfortable side effects, but more on that later. 
+By now you have probably realized that fiber is an integral part of your daily diet. Thus you might think “the more the better”, right? Well, it’s not that easy. Too much fiber can have very uncomfortable side effects, but more on that later.
+
 So how much fiber should you eat a day?
+
 The [American Heart Association](https://www.empoweredtoserve.org/en) recommends a daily intake of 25 grams on a 2000-calorie diet for adults. This number varies, however, with age and sex.
 Women under the age of 50 should eat **21 to 25 grams of fiber a day**, while men under 50 are recommended an intake of **30 to 38 grams a day**. Depending on a child’s age and sex, his or her intake should lie between [14 and 30.8 grams of fiber per day](https://www.niddk.nih.gov/health-information/digestive-diseases/constipation-children/eating-diet-nutrition). Women and men over the age of 50 generally need less fiber, with 21 grams for women and 30 grams for men. Is a woman pregnant or lactating, she needs at least 28 grams of fiber daily.
+
 Unfortunately, the amount of fiber consumed by Americans is far from the recommended daily intake. According to a study, the [average American eats about 16 grams of fiber a day](https://www.ncbi.nlm.nih.gov/pubmed/22709768). Even though this data is rather old (the study was published in 2012), the trend over the years demonstrated in the study, starting in 1999, doesn’t paint a very hopeful picture.
 
 # Symptoms of too much fiber
