@@ -1,5 +1,5 @@
 ---
-date: "2020-10-02T13:35:13.234Z"
+date: "2020-03-02T13:35:13.234Z"
 title: "How a high fiber diet may prevent risk of disease"
 description: "A high fiber diet may be the way to prevent the risk of certain diseases. But what exactly is fiber and what are high fiber foods?»"
 categories: ["health"]

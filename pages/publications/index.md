@@ -12,10 +12,10 @@ author: ""
 
 * [Blog for a video-marketing company](https://blog.mynd.com/de/author/liesa-huppertz)
 * [Blog and Copywriting for a Yoga-wear Company: Greenyogashop](https://www.greenyogashop.com/blog/)
-* [Blog for a fitness company](https://www.gymondo.de/magazin/author/liesa-huppertz)
+* [Blog for a fitness company](https://www.gymondo.com/magazin/de/author/liesa-huppertz)
 * [Blog for a mental health company, June until August](https://www.selfapy.de/blog/)
 * [Blog for a dietary supplement company for better concentration, until August 29th](https://www.concentrix.eu/magazin/)
-* [Website Texting for an architect: Fischerplan](http://fischerplan.com/de/)
+* [Website Texting for an architect: Fischerplan](http://fischerplan.com/)
 * [PR for a Dental Care Shop: Wawibox](http://epaper.dental-tribune.com/dti/59afa644020e4/page31.html#/16)
 
 **Instagram Accounts I took care of:**

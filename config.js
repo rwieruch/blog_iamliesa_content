@@ -313,15 +313,12 @@ module.exports = {
         sections: [''],
       },
     ],
-    code: [
+    secondaryHeader: '',
+    secondarySubheader: '',
+    curriculum: [
       {
         label: '',
-        sections: [''],
-      },
-    ],
-    screencasts: [
-      {
-        label: '',
+        type: '',
         sections: [''],
       },
     ],
@@ -361,7 +358,7 @@ module.exports = {
         sublabel: 'Head of Content at Gymondo',
         description:
           'As an external writer, Liesa fits in very well with our brand and target group. She has a natural, modern writing style and writes well-researched blog posts for our online magazine. Working together is productive and enjoyable: Liesa is fast, careful, reliable and totally nice.',
-        url: 'https://www.gymondo.de/magazin/author/liesa-huppertz',
+        url: 'https://www.gymondo.com/magazin/de/author/liesa-huppertz',
       },
     ],
   },

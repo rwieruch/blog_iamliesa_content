@@ -10,9 +10,19 @@ author: ""
 contribute: ""
 ---
 
-At the core of every disease lies some kind of inflammation. With acute inflammation the body repairs itself and simply moves on from whatever caused the inflammation. With chronic disease it’s not that simple. In the case of chronic inflammation the body is not able to remove the inflammatory agent and that’s when the inflammation becomes chronic and eventually disease occurs. 
+At the core of every disease lies some kind of inflammation. With acute inflammation the body repairs itself and simply moves on from whatever caused the body to be inflamed. With chronic inflammation it’s not that simple. In this case, the body is not able to remove the inflammatory agent and that’s when the inflammation becomes chronic and eventually disease occurs. 
 
 Chronic disease are among the top killers in the world, accounting for approximately 60% of all deaths. That’s why getting your blood tested is important as your blood can show important [inflammatory markers](https://www.iamliesa.com/inflammation-cause-definition-treatment-symptoms) that are a good measurement of inflammation in your body.
+
+Leading diseases caused by inflammation are 
+* heart disease, 
+* hypertension, 
+* obesity, 
+* metabolic syndrome, 
+* NASH, 
+* arthritis, 
+* dementia and 
+* cancer.
 
 In this article we want to take a closer look at leading diseases caused by inflammation and at the aspects of inflammation involved in these diseases. Let’s dive into it.
  
