@@ -151,7 +151,7 @@ A study with 40 participants showed that after just 20 sessions, implemented ove
 
 ![lower stress levels with yoga](./images/yoga-stress-management.jpg)
 
-# Yoga
+# Manage stress with Yoga
 
 Yoga is probably one of the best known techniques to manage stress and it has also been shown to have a positive impact on inflammation. It is a group of physical, mental, and spiritual practices that originated in ancient India. 
 
@@ -185,7 +185,7 @@ In [another study](https://www.sciencedirect.com/science/article/abs/pii/S003193
 
 ![meditation to reduce stress and lower inflammation](./images/relief-stress-meditation.jpg)
 
-**6. Lowering stress with Meditation**
+# 6. Lowering stress with Meditation
 
 A lot of people have realized the benefits of meditation with regards to lowering stress. Stress begins in our mind with the perception that our well-being is in danger. Therefore, working with the mind to alter our perceptions is a very powerful technique for quieting our stress response.
 
