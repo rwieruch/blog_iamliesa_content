@@ -151,7 +151,7 @@ A study with 40 participants showed that after just 20 sessions, implemented ove
 
 ![lower stress levels with yoga](./images/yoga-stress-management.jpg)
 
-# Manage stress with Yoga
+# 5. Manage stress with Yoga
 
 Yoga is probably one of the best known techniques to manage stress and it has also been shown to have a positive impact on inflammation. It is a group of physical, mental, and spiritual practices that originated in ancient India. 
 
