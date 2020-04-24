@@ -37,7 +37,7 @@ The first step in EFT is to **identify the issue or fear you hold**, which will 
 
 The second step is to **identify the level of intensity** the problem holds on a scale from 0 to 10, with 10 being the worst. Like this, you can monitor your progress after performing a complete EFT sequence. 
 
-Next, you’ll establish a phrase that is focused on two main goals:
+**Next, you’ll establish a phrase that is focused on two main goals:**
 
 * acknowledge the issue
 * accepting yourself in spite of the problem
