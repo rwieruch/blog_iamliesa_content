@@ -145,7 +145,7 @@ Environmental hormones, or endocrine disruptors, can have serious negative healt
 
 <Divider />
 
-![Environmental toxins are all around us and they are a leading cause of chronic inflammation, a process that may cause severe disease. If you know what environmental toxins are and what to look out for, you are able to reduce being exposed to them and thus reduce the risk of getting sick.](./images/environmental-toxins.jpg)
+![Environmental toxins are all around us and they are a leading cause of chronic inflammation, a process that may cause severe disease. If you know what environmental toxins are and what to look out for, you are able to reduce being exposed to them and thus reduce the risk of getting sick.](./images/environmental-toxins.png)
 
 <NotADoctor />
 
