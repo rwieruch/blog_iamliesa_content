@@ -1,7 +1,7 @@
 ---
-date: "2019-01-18T13:35:13.234Z"
 title: "Healthy fats: Stocking a healthy kitchen"
 description: "Fats have been banned from a healthy kitchen for quite some time. Research however shows, that fat is in fact not the devil we were lead to believe. Learn about healthy fats and how to cook with them in a safe way.»"
+date: "2019-01-18T13:35:13.234Z"
 categories: ["Stocking a healthy kitchen"]
 keywords: ["healthy kitchen", "stocking healthy fats", "how to stock a healthy kitchen", "healthy oil"]
 hashtags: ["#health"]
