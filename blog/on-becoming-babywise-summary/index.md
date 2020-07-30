@@ -24,7 +24,7 @@ There are various parenting styles for babies: La Leche League, Attachment Paren
 
 The three influences that shape a babies destiny: the genetic disposition inherited (physical/psychological potential) from the parents, the babies temperament which shapes its personality, and the home environment. While it's not possible to change the genetic inheritance or the temperament, the home environment is something parents can put much effort into.
 
-The partnership (belongs to home environment) of a baby's parents has a great influence. If partners don't work together as a team, these gaps in a relationship will be picked up eventually by their baby. *"The more parents demonstrate love for each other, the more they saturate their child's senses with confidence of a loving, safe and secure world."A baby is not able to rely on intellect and reason to measure its home environment.
+The partnership (belongs to home environment) of a baby's parents has a great influence. If partners don't work together as a team, these gaps in a relationship will be picked up eventually by their baby. *"The more parents demonstrate love for each other, the more they saturate their child's senses with confidence of a loving, safe and secure world."* A baby is not able to rely on intellect and reason to measure its home environment.
 
 If you schedule time with your partner, for example just to talk about your day, let your child have toys on the side while still being visible for him/her. Act as role models for your kid. Your relationship with your partner will reflect on your child eventually.
 
