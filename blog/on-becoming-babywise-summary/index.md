@@ -1,5 +1,5 @@
 ---
-date: "2020-06-17T13:35:13.234Z"
+date: "2020-07-29T13:35:13.234Z"
 title: "Lessons Learned from On Becoming Babywise"
 description: "All my lessons learned on how to create a baby routine from On Becoming Babywise ..."
 categories: ["Baby"]
