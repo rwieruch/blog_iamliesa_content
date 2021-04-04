@@ -35,6 +35,8 @@ module.exports = {
     'digital nomad',
   ],
 
+  monetization: '$ilp.uphold.com/xBpREnjPwD4j',
+
   hashtags: ['#socialmedia', '#consultant', '#nutritions'],
 
   blog: {
