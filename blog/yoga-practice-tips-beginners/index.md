@@ -16,7 +16,7 @@ For those of you who are just getting started with Yoga, I have some Yoga practi
 
 ![yoga practice tips beginners](./images/yoga_practice.jpg)
 
-*[© Matthew Kane/​unsplash.com](https://unsplash.com/@matthewkane)*
+*[© Matthew Kane](https://au.ryderwear.com/)*
 
 # 1. Give yourself the time to be a real Beginner
 
