@@ -16,6 +16,8 @@ For those of you who are just getting started with Yoga, I have some Yoga practi
 
 ![yoga practice tips beginners](./images/yoga_practice.jpg)
 
+*[© Matthew Kane/​unsplash.com](https://unsplash.com/@matthewkane)*
+
 # 1. Give yourself the time to be a real Beginner
 
 I wanted to start off with this tip because I feel like with all those impressive Instagram yogis everybody wants to jump right into the super advanced poses and skip the basics. In a few months you might be able to get into your first more advanced poses but until then work on the basics first. It’s so important to build stability within your practice and to not ask too much from yourself at the beginning. Head to your mat with a “beginner’s attitude”, not expecting too much from yourself and simply keeping a positive outlook at what is going to happen to your body.
